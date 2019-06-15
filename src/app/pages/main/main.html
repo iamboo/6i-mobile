@@ -1,0 +1,40 @@
+<ion-header #headerElement>
+	<ion-toolbar [ngClass]="headerClass">
+		<ion-buttons slot="start" [hidden]="headerClass === 'homePage'">
+			<ion-button (click)="goBack()" class="global-back">
+				<ion-icon name="arrow-back" slot="icon-only"></ion-icon>
+			</ion-button>
+		</ion-buttons>
+		<ion-title [hidden]="headerClass === 'homePage'">{{ pageTitle }}</ion-title>
+		<ion-buttons slot="end">
+			<ion-menu-button class="fas fa-bars"></ion-menu-button>
+		</ion-buttons>
+	</ion-toolbar>
+	<h1 [hidden]="subheader === ''" [ngClass]="headerClass">{{ subheader }}</h1>
+</ion-header>
+
+<ion-content [ngClass]="[headerClass]" [class.editMode]="isMapEdit">
+	<div #mainContent class="mainContent" [innerHTML]="template | safeHtml"></div>
+</ion-content>
+
+<ion-footer *ngIf="isMap" [ngClass]="headerClass">
+	<ion-buttons slot="start" *ngIf="isMap">
+		<ion-button (click)="mapOptions()" class="btn-menu">
+			<span class="fa fa-ellipsis-v"></span>
+		</ion-button>
+	</ion-buttons>
+	<ion-button expand="block" (click)="saveMap()">
+		{{ isMapEdit ? 'Save & ' : '' }}Continue <span class="fa fa-chevron-right"></span>
+	</ion-button>
+</ion-footer>
+<ion-footer *ngIf="isLeader" [ngClass]="headerClass">
+	<ion-button expand="block" (click)="leaderNext()">
+		{{ leaderButtonText }}
+	</ion-button>
+</ion-footer>
+<ion-footer *ngIf="isJumpstart" [ngClass]="headerClass">
+	<ion-button expand="block" (click)="goToNextStep()">
+		{{ jumpstartButtonText }}
+		<ion-icon name="arrow-forward" slot="end" class="ion-float-right"></ion-icon>
+	</ion-button>
+</ion-footer>

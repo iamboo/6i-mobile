@@ -1,0 +1,45 @@
+:host {
+	--padding-top: 8px;
+}
+
+ion-header {
+	--background: var(--success);
+	ion-toolbar {
+		--background: var(--success);
+	}
+	ion-toolbar {
+		background: var(--success);
+	}
+}
+ion-content {
+	--background: var(--success);
+	ion-list {
+		ion-item {
+			--detail-icon-color: var(--fade_text);
+			font-size: 1.2rem;
+			--border-color: var(--border_color_modal);
+			white-space: normal;
+			overflow: visible;
+			text-overflow: unset;
+			.item-detail-icon {
+				opacity: 1;
+			}
+		}
+	}
+}
+ion-footer {
+	background: var(--success);
+	&:before {
+		content: ' ';
+		height: 2px;
+		position: absolute;
+		background: var(--footer-button-border);
+		top: 0px;
+		left: var(--padding-start);
+		right: var(--padding-end);
+	}
+}
+[padding] {
+	padding-top: 8px;
+	padding-bottom: 8px;
+}

@@ -1,0 +1,37 @@
+@import '../../../assets/css/variables';
+@import '../../../assets/css/mixins';
+@import '../../../assets/css/form';
+
+ion-header {
+	ion-toolbar {
+		--background: $home_bg;
+		background: $home_bg;
+		color: #fff;
+		--min-height: 50px;
+		ion-title {
+			padding-inline-start: 50px;
+			padding-inline-end: 50px;
+			text-align: left;
+			font-size: 1.3rem;
+		}
+		ion-button {
+			color: #fff;
+		}
+		ion-back-button {
+			--color: #fff;
+		}
+	}
+}
+ion-item {
+	--inner-padding-start: 0px;
+}
+#logo {
+	height: 60px;
+	background-size: auto 40px;
+}
+.scroll-content {
+	top: 60px;
+}
+h1 {
+	color: rgba(255, 255, 255, 0.8);
+}

@@ -1,0 +1,62 @@
+<ion-header>
+	<ion-toolbar class="success">
+		<ion-buttons slot="start">
+			<ion-button (click)="returnToMapList()" class="global-back">
+				<ion-icon name="arrow-back" slot="icon-only"></ion-icon>
+			</ion-button>
+		</ion-buttons>
+		<ion-title>Map Preview</ion-title>
+		<ion-buttons slot="end">
+			<ion-menu-button class="fas fa-bars"></ion-menu-button>
+		</ion-buttons>
+	</ion-toolbar>
+	<ion-tab-bar>
+		<ng-container *ngFor="let tab of tabs">
+			<ion-tab-button
+				(click)="currentTab = tab.name"
+				[tab]="tab.name"
+				[hidden]="tab.count === 0"
+				[class.tab-selected]="currentTab === tab.name"
+			>
+				<ion-icon [name]="tab.icon"></ion-icon>
+				<ion-label>{{ tab.label }}</ion-label>
+				<ion-badge [hidden]="!tab.count">{{ tab.count }}</ion-badge>
+			</ion-tab-button>
+		</ng-container>
+	</ion-tab-bar>
+</ion-header>
+<ion-content *ngIf="map">
+	<ion-list [hidden]="currentTab !== 'info'" lines="full" id="info">
+		<ion-item>
+			<ion-label position="stacked">Map Name</ion-label>
+			<p>{{ map.name }}</p>
+		</ion-item>
+		<ion-item>
+			<ion-label position="stacked">Type</ion-label>
+			<p>{{ mapTemplate }}</p>
+		</ion-item>
+		<ion-item>
+			<ion-label position="stacked">Average Rating</ion-label>
+			<app-rating [ratingCount]="map.rating_count" [ratingAve]="map.rating_average"></app-rating>
+		</ion-item>
+		<ion-item *ngIf="map.author_notes != ''">
+			<ion-label position="stacked">Author Notes</ion-label>
+			<p>{{ map.author_notes }}</p>
+		</ion-item>
+	</ion-list>
+	<ion-list [hidden]="currentTab !== 'challenges'" lines="full">
+		<ion-item *ngFor="let challenge of mapChallenges">{{ challenge }}</ion-item>
+	</ion-list>
+	<ion-list [hidden]="currentTab !== 'reviews'" id="reviewList" lines="full">
+		<ion-item *ngFor="let r of mapReviews" #thisReview>
+			<small>{{ r.date_modified | date: 'dd MMM y' }}</small>
+			<app-rating [ratingCount]="-1" [ratingAve]="r.rating"></app-rating>
+			<p>{{ r.review }}</p>
+		</ion-item>
+	</ion-list>
+</ion-content>
+<ion-footer>
+	<ion-button expand="block" (click)="addMap()">
+		Add To My Maps
+	</ion-button>
+</ion-footer>

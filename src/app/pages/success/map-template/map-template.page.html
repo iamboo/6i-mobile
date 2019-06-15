@@ -1,0 +1,20 @@
+<ion-header>
+	<ion-toolbar>
+		<ion-title>Choose Template</ion-title>
+		<ion-buttons slot="end">
+			<span class="fas fa-times btn-close" (click)="dismiss()" slot="end"></span>
+		</ion-buttons>
+	</ion-toolbar>
+</ion-header>
+<ion-content>
+	<ion-list lines="full" inset="true">
+		<ion-item (click)="pageClick(page.slug)" *ngFor="let page of pageLinks" detail="true">
+			<ion-label>{{ page.label }}</ion-label>
+		</ion-item>
+	</ion-list>
+</ion-content>
+<ion-footer padding>
+	<ion-button expand="block" (click)="pageClick('sp_customize-your-goal')">
+		Customize Your Goal
+	</ion-button>
+</ion-footer>

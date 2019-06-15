@@ -1,0 +1,41 @@
+<ion-header>
+	<ion-toolbar>
+		<ion-buttons slot="secondary">
+			<ion-button routerLink="/start" routerDirection="backward">
+				<ion-icon slot="icon-only" name="arrow-back"></ion-icon>
+			</ion-button>
+		</ion-buttons>
+		<ion-title>{{ pageTitle }}</ion-title>
+	</ion-toolbar>
+</ion-header>
+
+<ion-content padding id="content-login">
+	<form [formGroup]="accountObj" (ngSubmit)="accountForm()">
+		<ion-list lines="none">
+			<ion-item>
+				<ion-label position="stacked">Name</ion-label>
+				<ion-input type="text" formControlName="name" required></ion-input>
+			</ion-item>
+			<ion-item>
+				<ion-label position="stacked">Email Address</ion-label>
+				<ion-input type="email" formControlName="email" required></ion-input>
+			</ion-item>
+			<ion-item>
+				<ion-label position="stacked">Password</ion-label>
+				<ion-input type="password" formControlName="password" required></ion-input>
+			</ion-item>
+			<ion-item>
+				<ion-label position="stacked">Have a referral code?</ion-label>
+				<ion-input type="text" formControlName="referral"></ion-input>
+			</ion-item>
+			<ion-item>
+				<ion-label>Subscribe to 6i newsletter</ion-label>
+				<ion-checkbox formControlName="contact"></ion-checkbox>
+			</ion-item>
+		</ion-list>
+
+		<ion-button expand="block" type="submit" [disabled]="!accountObj.valid">
+			Register
+		</ion-button>
+	</form>
+</ion-content>

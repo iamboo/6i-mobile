@@ -1,0 +1,85 @@
+<ion-header #headerElement>
+	<ion-toolbar [ngClass]="headerClass">
+		<ion-buttons slot="start">
+			<ion-button routerLink="/home" routerDirection="root" class="global-back">
+				<ion-icon name="arrow-back" slot="icon-only"></ion-icon>
+			</ion-button>
+		</ion-buttons>
+		<ion-title>Success Planner</ion-title>
+		<ion-buttons slot="end">
+			<ion-menu-button class="fas fa-bars"></ion-menu-button>
+		</ion-buttons>
+	</ion-toolbar>
+	<h1>My Strategy Maps</h1>
+	<div padding class="filter" *ngIf="mapList && mapList.length > 10">
+		<button
+			class="fa"
+			[ngClass]="{
+				'fa-filter': filterText === '',
+				'fa-times': filterText != ''
+			}"
+			(click)="mapFilterControl.setValue('')"
+		></button>
+		<ion-input type="text" (ionChange)="onSearch($event)" debounce="500" placeholder="Filter Map List"></ion-input>
+	</div>
+</ion-header>
+
+<ion-content>
+	<ion-list *ngIf="!emptyList" lines="none">
+		<ion-item-sliding #slideItem *ngFor="let map of filterMaps | filter: 'name':filterText">
+			<ion-item (click)="mapClick(map)">
+				<ion-label>
+					<small
+						><i class="fas fa-user-cog" [hidden]="!map.is_admin"></i>{{ templateTitle[map.map_key] }}</small
+					>
+					{{ map.name }}
+					<app-rating [ratingCount]="map.rating_count" [ratingAve]="map.rating_average"></app-rating>
+					<small [hidden]="map.account_map.date_due == 0"
+						>Due: {{ map.account_map.date_due | date: 'dd MMM y' }}</small
+					>
+				</ion-label>
+				<ion-icon slot="end" name="ios-arrow-forward"></ion-icon>
+			</ion-item>
+			<ion-item-options side="end">
+				<button class="duplicate" (click)="duplicateItem(map, slideItem)">
+					<i class="fas fa-clone"></i>
+					<b>Duplicate</b>
+				</button>
+				<button class="modify" (click)="modifyItem(map, slideItem)" [hidden]="!map.is_admin">
+					<i class="fas fa-edit"></i>
+					<b>Modify</b>
+				</button>
+				<button class="delete" (click)="archiveItem(map, slideItem)">
+					<i class="fas fa-archive"></i>
+					<b>Archive</b>
+				</button>
+			</ion-item-options>
+		</ion-item-sliding>
+	</ion-list>
+	<div class="emptyList" *ngIf="emptyList">
+		<p>You have not added any Strategy Maps</p>
+		<span class="fa fa-inbox"></span>
+	</div>
+</ion-content>
+<ion-footer>
+	<ion-buttons>
+		<ion-button (click)="filterSort()">
+			<div>
+				<i class="fas fa-filter"></i>
+				<b>Filter & Sort</b>
+			</div>
+		</ion-button>
+		<ion-button (click)="mapInfo()">
+			<div>
+				<i class="fas fa-info-circle"></i>
+				<b>Map Info</b>
+			</div>
+		</ion-button>
+		<ion-button (click)="addMap()">
+			<div>
+				<i class="fas fa-plus-circle"></i>
+				<b>Add Map</b>
+			</div>
+		</ion-button>
+	</ion-buttons>
+</ion-footer>

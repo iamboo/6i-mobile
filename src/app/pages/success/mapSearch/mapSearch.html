@@ -1,0 +1,34 @@
+<ion-header>
+	<ion-toolbar>
+		<ion-title>Strategy Map Community</ion-title>
+		<ion-buttons slot="end">
+			<span class="fas fa-times btn-close" (click)="dismiss(false)"></span>
+		</ion-buttons>
+	</ion-toolbar>
+	<ion-item lines="none" [hidden]="!showSearch">
+		<app-search
+			placeHolderText="Filter Map List"
+			(searchChange)="onSearchChange($event)"
+			class="onDarkBg"
+		></app-search>
+	</ion-item>
+</ion-header>
+<ion-content>
+	<ion-list *ngIf="!emptyList" inset="true">
+		<ion-item (click)="mapClick(map)" *ngFor="let map of publicMapList" [ngClass]="{ inList: map.inList }">
+			<ion-label>
+				<i>{{ templateTitle[map.map_key] }}</i>
+				{{ map.name }}
+			</ion-label>
+			<small *ngIf="map.inList">In My List<i class="fas fa-check-square"></i></small>
+		</ion-item>
+	</ion-list>
+	<div class="emptyList white_on" *ngIf="emptyList">
+		<p *ngIf="filterText === ''">There are no available Community Strategy Maps</p>
+		<p *ngIf="filterText != ''">No Community Strategy Maps match search term</p>
+		<span class="fa fa-inbox"></span>
+	</div>
+</ion-content>
+<ion-footer padding>
+	<ion-button expand="block" (click)="createMap()">Create New Map</ion-button>
+</ion-footer>

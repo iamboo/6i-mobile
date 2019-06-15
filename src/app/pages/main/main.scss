@@ -1,0 +1,73 @@
+@import './../../../assets/css/content';
+@import './../../../assets/css/form';
+@import './../../../assets/css/variables';
+@import './../../../assets/css/mixins';
+
+ion-header {
+	ion-toolbar {
+		&.jumpstart {
+			--background: var(--jumpstart);
+		}
+		&.leader {
+			--background: var(--leader);
+		}
+		&.success_planner {
+			--background: var(--success);
+		}
+	}
+}
+
+.mainContent {
+	opacity: 0;
+	.blank_space {
+		position: relative;
+		height: 35px;
+		margin-top: 5px;
+		label {
+			position: absolute;
+			background: #fff;
+			z-index: 2;
+			height: 22px;
+		}
+		&:after {
+			content: ' ';
+			height: 21px;
+			position: absolute;
+			left: 0px;
+			right: 0px;
+			border-bottom: 1px solid var(--icon);
+		}
+	}
+}
+.fadeIn {
+	opacity: 1;
+	transition: opacity 0.25s ease-in-out;
+	-moz-transition: opacity 0.25s ease-in-out;
+	-webkit-transition: opacity 0.25s ease-in-out;
+}
+.fa-chevron-right {
+	position: absolute;
+	right: 0px;
+	top: 0px;
+	width: 30px;
+	height: 45px;
+	line-height: 45px;
+	text-align: center;
+}
+ion-footer {
+	padding: 10px;
+	display: flex;
+	&.success_planner {
+		background: var(--success);
+	}
+	&.leader {
+		background: var(--leader);
+	}
+	&.jumpstart {
+		background: var(--jumpstart);
+		ion-icon {
+			position: absolute;
+			right: 10px;
+		}
+	}
+}

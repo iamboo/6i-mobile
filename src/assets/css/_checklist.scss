@@ -1,0 +1,19 @@
+.checklist{
+	.item-block{
+		align-items: flex-start !important;
+		.checkbox-icon{
+			margin-top: 10px;
+		}
+		.item-inner{
+			.input-wrapper{
+				ion-label{
+					align-self: flex-start;
+					color: #888;
+					white-space: normal;
+					overflow: visible;
+					text-overflow: inherit;
+				}
+			}
+		}
+	}
+}

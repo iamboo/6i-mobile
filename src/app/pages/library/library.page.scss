@@ -1,0 +1,13 @@
+ion-header {
+	ion-toolbar {
+		--background: var(--library);
+	}
+}
+ion-content {
+	ion-list {
+		ion-item {
+			font-size: 1.2rem;
+			--border-color: var(--border_color);
+		}
+	}
+}

@@ -1,0 +1,4802 @@
+[
+	{
+		"id": 1688,
+		"date": "2019-03-06T23:57:32",
+		"date_gmt": "2019-03-06T23:57:32",
+		"guid": {
+			"rendered": "http:\/\/account.6icatalyst.com\/api\/?page_id=1688"
+		},
+		"modified": "2019-03-07T04:48:09",
+		"modified_gmt": "2019-03-07T04:48:09",
+		"slug": "library-train-and-retain",
+		"status": "publish",
+		"type": "page",
+		"link": "http:\/\/account.6icatalyst.com\/api\/library-train-and-retain\/",
+		"title": {
+			"rendered": "Train and Retain"
+		},
+		"content": {
+			"rendered": "<ul class=\"list pdf\">\n<li><a href=\"http:\/\/catlib.netbing.com\/TrainAndRetain\/HowtoMisinterpretOthers.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">How to Misinterpret Others<\/a><\/li>\n<li><a href=\"http:\/\/catlib.netbing.com\/TrainAndRetain\/Relationshipattitudesandtools.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Relationship Attitudes<\/a><\/li>\n<\/ul>\n",
+			"protected": false
+		},
+		"excerpt": {
+			"rendered": "<p>How to Misinterpret Others Relationship Attitudes<\/p>\n",
+			"protected": false
+		},
+		"author": 3,
+		"featured_media": 0,
+		"parent": 0,
+		"menu_order": 0,
+		"comment_status": "closed",
+		"ping_status": "closed",
+		"template": "",
+		"meta": [],
+		"wf_page_folders": [
+			6
+		],
+		"_links": {
+			"self": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages\/1688"
+				}
+			],
+			"collection": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages"
+				}
+			],
+			"about": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/types\/page"
+				}
+			],
+			"author": [
+				{
+					"embeddable": true,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/users\/3"
+				}
+			],
+			"replies": [
+				{
+					"embeddable": true,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/comments?post=1688"
+				}
+			],
+			"version-history": [
+				{
+					"count": 7,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages\/1688\/revisions"
+				}
+			],
+			"predecessor-version": [
+				{
+					"id": 1699,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages\/1688\/revisions\/1699"
+				}
+			],
+			"wp:attachment": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/media?parent=1688"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "wf_page_folders",
+					"embeddable": true,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/wf_page_folders?post=1688"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https:\/\/api.w.org\/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 1469,
+		"date": "2018-10-10T21:19:02",
+		"date_gmt": "2018-10-10T21:19:02",
+		"guid": {
+			"rendered": "http:\/\/account.6icatalyst.com\/api\/?page_id=1469"
+		},
+		"modified": "2019-03-06T22:19:23",
+		"modified_gmt": "2019-03-06T22:19:23",
+		"slug": "popover-id-boost-leaders-step-1-id",
+		"status": "publish",
+		"type": "page",
+		"link": "http:\/\/account.6icatalyst.com\/api\/popover-id-boost-leaders-step-1-id\/",
+		"title": {
+			"rendered": "Boost leaders step 1 ID"
+		},
+		"content": {
+			"rendered": "<ul>\n<li>I will tell achievement stories at our team meetings so people know what success looks like and that it\u2019s possible.<\/li>\n<li>I will set an example of a positive attitude with my team members.<\/li>\n<li>I will make time at each team meeting for team members to share opinions, questions, and concerns.<\/li>\n<li>I will teach my team about the importance of trust and how to build it.<\/li>\n<li>I will communicate with my team members to learn what they want.<\/li>\n<\/ul>\n",
+			"protected": false
+		},
+		"excerpt": {
+			"rendered": "<p>I will tell achievement stories at our team meetings so people know what success looks like and that it\u2019s possible. I will set an example of a positive attitude with my team members. I will make time at each team meeting for team members to share opinions, questions, and concerns. I will teach my team &hellip; <\/p>\n<p class=\"link-more\"><a href=\"http:\/\/account.6icatalyst.com\/api\/popover-id-boost-leaders-step-1-id\/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> &#8220;Boost leaders step 1 ID&#8221;<\/span><\/a><\/p>\n",
+			"protected": false
+		},
+		"author": 3,
+		"featured_media": 0,
+		"parent": 0,
+		"menu_order": 0,
+		"comment_status": "closed",
+		"ping_status": "closed",
+		"template": "",
+		"meta": [],
+		"wf_page_folders": [
+			22
+		],
+		"_links": {
+			"self": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages\/1469"
+				}
+			],
+			"collection": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages"
+				}
+			],
+			"about": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/types\/page"
+				}
+			],
+			"author": [
+				{
+					"embeddable": true,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/users\/3"
+				}
+			],
+			"replies": [
+				{
+					"embeddable": true,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/comments?post=1469"
+				}
+			],
+			"version-history": [
+				{
+					"count": 2,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages\/1469\/revisions"
+				}
+			],
+			"predecessor-version": [
+				{
+					"id": 1673,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages\/1469\/revisions\/1673"
+				}
+			],
+			"wp:attachment": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/media?parent=1469"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "wf_page_folders",
+					"embeddable": true,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/wf_page_folders?post=1469"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https:\/\/api.w.org\/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 1460,
+		"date": "2018-10-09T17:59:16",
+		"date_gmt": "2018-10-09T17:59:16",
+		"guid": {
+			"rendered": "http:\/\/account.6icatalyst.com\/api\/?page_id=1460"
+		},
+		"modified": "2019-03-06T23:01:47",
+		"modified_gmt": "2019-03-06T23:01:47",
+		"slug": "popover-id-boost-leaders-step-4-id",
+		"status": "publish",
+		"type": "page",
+		"link": "http:\/\/account.6icatalyst.com\/api\/popover-id-boost-leaders-step-4-id\/",
+		"title": {
+			"rendered": "Boost Leaders Step 4 ID"
+		},
+		"content": {
+			"rendered": "<p><strong>Ally:<\/strong> Each of my top leaders<\/p>\n<p><strong>How I will help this ally:<\/strong> I will talk with each leader and find out what they want from me and explain what I would like from them. I will regularly follow up and voice appreciation for what they do to help me.<\/p>\n<p><strong>How this ally will help me:<\/strong> My top leaders will report regularly with successes and even failures so we can work together to motivate and strengthen our downlines.<\/p>\n",
+			"protected": false
+		},
+		"excerpt": {
+			"rendered": "<p>Ally: Each of my top leaders How I will help this ally: I will talk with each leader and find out what they want from me and explain what I would like from them. I will regularly follow up and voice appreciation for what they do to help me. How this ally will help me: &hellip; <\/p>\n<p class=\"link-more\"><a href=\"http:\/\/account.6icatalyst.com\/api\/popover-id-boost-leaders-step-4-id\/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> &#8220;Boost Leaders Step 4 ID&#8221;<\/span><\/a><\/p>\n",
+			"protected": false
+		},
+		"author": 3,
+		"featured_media": 0,
+		"parent": 0,
+		"menu_order": 0,
+		"comment_status": "closed",
+		"ping_status": "closed",
+		"template": "",
+		"meta": [],
+		"wf_page_folders": [
+			22
+		],
+		"_links": {
+			"self": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages\/1460"
+				}
+			],
+			"collection": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages"
+				}
+			],
+			"about": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/types\/page"
+				}
+			],
+			"author": [
+				{
+					"embeddable": true,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/users\/3"
+				}
+			],
+			"replies": [
+				{
+					"embeddable": true,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/comments?post=1460"
+				}
+			],
+			"version-history": [
+				{
+					"count": 2,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages\/1460\/revisions"
+				}
+			],
+			"predecessor-version": [
+				{
+					"id": 1687,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages\/1460\/revisions\/1687"
+				}
+			],
+			"wp:attachment": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/media?parent=1460"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "wf_page_folders",
+					"embeddable": true,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/wf_page_folders?post=1460"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https:\/\/api.w.org\/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 1379,
+		"date": "2018-09-26T20:43:23",
+		"date_gmt": "2018-09-26T20:43:23",
+		"guid": {
+			"rendered": "http:\/\/account.6icatalyst.com\/api\/?page_id=1379"
+		},
+		"modified": "2018-10-30T17:38:05",
+		"modified_gmt": "2018-10-30T17:38:05",
+		"slug": "popover-co-customize-step-6",
+		"status": "publish",
+		"type": "page",
+		"link": "http:\/\/account.6icatalyst.com\/api\/popover-co-customize-step-6\/",
+		"title": {
+			"rendered": "customize step 6 co"
+		},
+		"content": {
+			"rendered": "<p>Want better and faster results? Go to 6innovations.com to find a personal 6i Catalyst coach.<\/p>\n",
+			"protected": false
+		},
+		"excerpt": {
+			"rendered": "<p>Want better and faster results? Go to 6innovations.com to find a personal 6i Catalyst coach.<\/p>\n",
+			"protected": false
+		},
+		"author": 4,
+		"featured_media": 0,
+		"parent": 0,
+		"menu_order": 0,
+		"comment_status": "closed",
+		"ping_status": "closed",
+		"template": "",
+		"meta": [],
+		"wf_page_folders": [
+			23
+		],
+		"_links": {
+			"self": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages\/1379"
+				}
+			],
+			"collection": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages"
+				}
+			],
+			"about": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/types\/page"
+				}
+			],
+			"author": [
+				{
+					"embeddable": true,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/users\/4"
+				}
+			],
+			"replies": [
+				{
+					"embeddable": true,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/comments?post=1379"
+				}
+			],
+			"version-history": [
+				{
+					"count": 1,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages\/1379\/revisions"
+				}
+			],
+			"predecessor-version": [
+				{
+					"id": 1380,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages\/1379\/revisions\/1380"
+				}
+			],
+			"wp:attachment": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/media?parent=1379"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "wf_page_folders",
+					"embeddable": true,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/wf_page_folders?post=1379"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https:\/\/api.w.org\/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 1377,
+		"date": "2018-09-26T20:41:10",
+		"date_gmt": "2018-09-26T20:41:10",
+		"guid": {
+			"rendered": "http:\/\/account.6icatalyst.com\/api\/?page_id=1377"
+		},
+		"modified": "2018-10-30T17:37:18",
+		"modified_gmt": "2018-10-30T17:37:18",
+		"slug": "popover-id-customize-step-6-report",
+		"status": "publish",
+		"type": "page",
+		"link": "http:\/\/account.6icatalyst.com\/api\/popover-id-customize-step-6-report\/",
+		"title": {
+			"rendered": "customize step 6 report id"
+		},
+		"content": {
+			"rendered": "<ul>\n<li>I will schedule a family meeting once a week and report on my progress at sticking to my schedule.<\/li>\n<li>I will call my leaders every other week to report on my progress at communicating better with them and resolving conflicts.<\/li>\n<li>I will email my upline leader each Friday and report on the progress I\u2019ve seen in my leaders applying leadership skills.<\/li>\n<\/ul>\n",
+			"protected": false
+		},
+		"excerpt": {
+			"rendered": "<p>I will schedule a family meeting once a week and report on my progress at sticking to my schedule. I will call my leaders every other week to report on my progress at communicating better with them and resolving conflicts. I will email my upline leader each Friday and report on the progress I\u2019ve seen &hellip; <\/p>\n<p class=\"link-more\"><a href=\"http:\/\/account.6icatalyst.com\/api\/popover-id-customize-step-6-report\/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> &#8220;customize step 6 report id&#8221;<\/span><\/a><\/p>\n",
+			"protected": false
+		},
+		"author": 4,
+		"featured_media": 0,
+		"parent": 0,
+		"menu_order": 0,
+		"comment_status": "closed",
+		"ping_status": "closed",
+		"template": "",
+		"meta": [],
+		"wf_page_folders": [
+			22
+		],
+		"_links": {
+			"self": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages\/1377"
+				}
+			],
+			"collection": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages"
+				}
+			],
+			"about": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/types\/page"
+				}
+			],
+			"author": [
+				{
+					"embeddable": true,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/users\/4"
+				}
+			],
+			"replies": [
+				{
+					"embeddable": true,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/comments?post=1377"
+				}
+			],
+			"version-history": [
+				{
+					"count": 1,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages\/1377\/revisions"
+				}
+			],
+			"predecessor-version": [
+				{
+					"id": 1378,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages\/1377\/revisions\/1378"
+				}
+			],
+			"wp:attachment": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/media?parent=1377"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "wf_page_folders",
+					"embeddable": true,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/wf_page_folders?post=1377"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https:\/\/api.w.org\/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 1375,
+		"date": "2018-09-26T20:37:54",
+		"date_gmt": "2018-09-26T20:37:54",
+		"guid": {
+			"rendered": "http:\/\/account.6icatalyst.com\/api\/?page_id=1375"
+		},
+		"modified": "2018-10-30T17:34:21",
+		"modified_gmt": "2018-10-30T17:34:21",
+		"slug": "popover-id-customize-step-6-measure",
+		"status": "publish",
+		"type": "page",
+		"link": "http:\/\/account.6icatalyst.com\/api\/popover-id-customize-step-6-measure\/",
+		"title": {
+			"rendered": "customize step 6 measure id"
+		},
+		"content": {
+			"rendered": "<ul>\n<li>At the end of each day, I will mark on my calendar if I stuck to my schedule or not. I will total up the number of successful days at the end of each week.<\/li>\n<li>Every Friday, I will record how many difficult conversations I had with my leaders and how many times we solved the issue in the same conversation.<\/li>\n<li>I will check in with my leaders every Monday to see how they\u2019re applying the leadership skills I\u2019m teaching them.<\/li>\n<\/ul>\n",
+			"protected": false
+		},
+		"excerpt": {
+			"rendered": "<p>At the end of each day, I will mark on my calendar if I stuck to my schedule or not. I will total up the number of successful days at the end of each week. Every Friday, I will record how many difficult conversations I had with my leaders and how many times we solved &hellip; <\/p>\n<p class=\"link-more\"><a href=\"http:\/\/account.6icatalyst.com\/api\/popover-id-customize-step-6-measure\/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> &#8220;customize step 6 measure id&#8221;<\/span><\/a><\/p>\n",
+			"protected": false
+		},
+		"author": 4,
+		"featured_media": 0,
+		"parent": 0,
+		"menu_order": 0,
+		"comment_status": "closed",
+		"ping_status": "closed",
+		"template": "",
+		"meta": [],
+		"wf_page_folders": [
+			22
+		],
+		"_links": {
+			"self": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages\/1375"
+				}
+			],
+			"collection": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages"
+				}
+			],
+			"about": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/types\/page"
+				}
+			],
+			"author": [
+				{
+					"embeddable": true,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/users\/4"
+				}
+			],
+			"replies": [
+				{
+					"embeddable": true,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/comments?post=1375"
+				}
+			],
+			"version-history": [
+				{
+					"count": 1,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages\/1375\/revisions"
+				}
+			],
+			"predecessor-version": [
+				{
+					"id": 1376,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages\/1375\/revisions\/1376"
+				}
+			],
+			"wp:attachment": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/media?parent=1375"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "wf_page_folders",
+					"embeddable": true,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/wf_page_folders?post=1375"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https:\/\/api.w.org\/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 1373,
+		"date": "2018-09-26T20:34:06",
+		"date_gmt": "2018-09-26T20:34:06",
+		"guid": {
+			"rendered": "http:\/\/account.6icatalyst.com\/api\/?page_id=1373"
+		},
+		"modified": "2018-10-30T17:33:15",
+		"modified_gmt": "2018-10-30T17:33:15",
+		"slug": "popover-id-customize-step-5",
+		"status": "publish",
+		"type": "page",
+		"link": "http:\/\/account.6icatalyst.com\/api\/popover-id-customize-step-5\/",
+		"title": {
+			"rendered": "customize step 5 id"
+		},
+		"content": {
+			"rendered": "<ul>\n<li>I will read a book about better time management.<\/li>\n<li>I will attend a seminar on communication.<\/li>\n<li>I will learn and apply the leadership skills I want my team to know.<\/li>\n<\/ul>\n",
+			"protected": false
+		},
+		"excerpt": {
+			"rendered": "<p>I will read a book about better time management. I will attend a seminar on communication. I will learn and apply the leadership skills I want my team to know.<\/p>\n",
+			"protected": false
+		},
+		"author": 4,
+		"featured_media": 0,
+		"parent": 0,
+		"menu_order": 0,
+		"comment_status": "closed",
+		"ping_status": "closed",
+		"template": "",
+		"meta": [],
+		"wf_page_folders": [
+			22
+		],
+		"_links": {
+			"self": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages\/1373"
+				}
+			],
+			"collection": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages"
+				}
+			],
+			"about": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/types\/page"
+				}
+			],
+			"author": [
+				{
+					"embeddable": true,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/users\/4"
+				}
+			],
+			"replies": [
+				{
+					"embeddable": true,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/comments?post=1373"
+				}
+			],
+			"version-history": [
+				{
+					"count": 1,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages\/1373\/revisions"
+				}
+			],
+			"predecessor-version": [
+				{
+					"id": 1374,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages\/1373\/revisions\/1374"
+				}
+			],
+			"wp:attachment": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/media?parent=1373"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "wf_page_folders",
+					"embeddable": true,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/wf_page_folders?post=1373"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https:\/\/api.w.org\/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 1371,
+		"date": "2018-09-26T20:26:51",
+		"date_gmt": "2018-09-26T20:26:51",
+		"guid": {
+			"rendered": "http:\/\/account.6icatalyst.com\/api\/?page_id=1371"
+		},
+		"modified": "2018-10-30T16:42:04",
+		"modified_gmt": "2018-10-30T16:42:04",
+		"slug": "popover-dq-customize-step-5",
+		"status": "publish",
+		"type": "page",
+		"link": "http:\/\/account.6icatalyst.com\/api\/popover-dq-customize-step-5\/",
+		"title": {
+			"rendered": "customize step 5 dq"
+		},
+		"content": {
+			"rendered": "<ul>\n<li>What do you want to learn more about?<\/li>\n<li>What changes do you need to make to improve yourself so you can accomplish this new goal?<\/li>\n<li>What new skills do you need to improve that will give you the competence to accomplish your goal? (e.g., time management, planning, communication, collaboration, problem solving, networking, technology, etc.)<\/li>\n<\/ul>\n",
+			"protected": false
+		},
+		"excerpt": {
+			"rendered": "<p>What do you want to learn more about? What changes do you need to make to improve yourself so you can accomplish this new goal? What new skills do you need to improve that will give you the competence to accomplish your goal? (e.g., time management, planning, communication, collaboration, problem solving, networking, technology, etc.)<\/p>\n",
+			"protected": false
+		},
+		"author": 4,
+		"featured_media": 0,
+		"parent": 0,
+		"menu_order": 0,
+		"comment_status": "closed",
+		"ping_status": "closed",
+		"template": "",
+		"meta": [],
+		"wf_page_folders": [
+			21
+		],
+		"_links": {
+			"self": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages\/1371"
+				}
+			],
+			"collection": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages"
+				}
+			],
+			"about": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/types\/page"
+				}
+			],
+			"author": [
+				{
+					"embeddable": true,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/users\/4"
+				}
+			],
+			"replies": [
+				{
+					"embeddable": true,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/comments?post=1371"
+				}
+			],
+			"version-history": [
+				{
+					"count": 1,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages\/1371\/revisions"
+				}
+			],
+			"predecessor-version": [
+				{
+					"id": 1372,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages\/1371\/revisions\/1372"
+				}
+			],
+			"wp:attachment": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/media?parent=1371"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "wf_page_folders",
+					"embeddable": true,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/wf_page_folders?post=1371"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https:\/\/api.w.org\/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 1369,
+		"date": "2018-09-26T20:25:26",
+		"date_gmt": "2018-09-26T20:25:26",
+		"guid": {
+			"rendered": "http:\/\/account.6icatalyst.com\/api\/?page_id=1369"
+		},
+		"modified": "2018-10-30T17:55:40",
+		"modified_gmt": "2018-10-30T17:55:40",
+		"slug": "popover-id-customize-step-4",
+		"status": "publish",
+		"type": "page",
+		"link": "http:\/\/account.6icatalyst.com\/api\/popover-id-customize-step-4\/",
+		"title": {
+			"rendered": "customize step 4 id"
+		},
+		"content": {
+			"rendered": "<p><strong>Ally:<\/strong> My husband Ted<\/p>\n<p><strong>How I will help this ally:<\/strong> I will schedule my work hours earlier in the day and stick to it so I can spend the evenings with him.<\/p>\n<p><strong>How this ally will help me:<\/strong> When I have a class coming up, Ted will help me get the house ready, greet people, distribute fliers, and ask people their reasons for coming to the class.<\/p>\n<p>&nbsp;<\/p>\n<p><strong>A<\/strong><strong>lly:<\/strong> Sabrina, my upline leader<\/p>\n<p><strong>How I will help this ally:<\/strong> I will help Sabrina plan leadership trainings for the team.<\/p>\n<p><strong>How this ally will help me:<\/strong> Sabrina will bring people to my next five classes.<\/p>\n",
+			"protected": false
+		},
+		"excerpt": {
+			"rendered": "<p>Ally: My husband Ted How I will help this ally: I will schedule my work hours earlier in the day and stick to it so I can spend the evenings with him. How this ally will help me: When I have a class coming up, Ted will help me get the house ready, greet people, &hellip; <\/p>\n<p class=\"link-more\"><a href=\"http:\/\/account.6icatalyst.com\/api\/popover-id-customize-step-4\/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> &#8220;customize step 4 id&#8221;<\/span><\/a><\/p>\n",
+			"protected": false
+		},
+		"author": 4,
+		"featured_media": 0,
+		"parent": 0,
+		"menu_order": 0,
+		"comment_status": "closed",
+		"ping_status": "closed",
+		"template": "",
+		"meta": [],
+		"wf_page_folders": [
+			22
+		],
+		"_links": {
+			"self": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages\/1369"
+				}
+			],
+			"collection": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages"
+				}
+			],
+			"about": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/types\/page"
+				}
+			],
+			"author": [
+				{
+					"embeddable": true,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/users\/4"
+				}
+			],
+			"replies": [
+				{
+					"embeddable": true,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/comments?post=1369"
+				}
+			],
+			"version-history": [
+				{
+					"count": 3,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages\/1369\/revisions"
+				}
+			],
+			"predecessor-version": [
+				{
+					"id": 1626,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages\/1369\/revisions\/1626"
+				}
+			],
+			"wp:attachment": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/media?parent=1369"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "wf_page_folders",
+					"embeddable": true,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/wf_page_folders?post=1369"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https:\/\/api.w.org\/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 1367,
+		"date": "2018-09-26T20:19:59",
+		"date_gmt": "2018-09-26T20:19:59",
+		"guid": {
+			"rendered": "http:\/\/account.6icatalyst.com\/api\/?page_id=1367"
+		},
+		"modified": "2018-10-30T16:40:46",
+		"modified_gmt": "2018-10-30T16:40:46",
+		"slug": "popover-dq-customize-step-4",
+		"status": "publish",
+		"type": "page",
+		"link": "http:\/\/account.6icatalyst.com\/api\/popover-dq-customize-step-4\/",
+		"title": {
+			"rendered": "customize step 4 dq"
+		},
+		"content": {
+			"rendered": "<ul>\n<li>Who can help you succeed at achieving your goals?<\/li>\n<li>Have you clearly communicated with these people about what you want from them?<\/li>\n<li>Have you figured out what you can do to help them?<\/li>\n<li>Do you effectively communicate regularly with others about your mutually beneficial alliance?<\/li>\n<\/ul>\n",
+			"protected": false
+		},
+		"excerpt": {
+			"rendered": "<p>Who can help you succeed at achieving your goals? Have you clearly communicated with these people about what you want from them? Have you figured out what you can do to help them? Do you effectively communicate regularly with others about your mutually beneficial alliance?<\/p>\n",
+			"protected": false
+		},
+		"author": 4,
+		"featured_media": 0,
+		"parent": 0,
+		"menu_order": 0,
+		"comment_status": "closed",
+		"ping_status": "closed",
+		"template": "",
+		"meta": [],
+		"wf_page_folders": [
+			21
+		],
+		"_links": {
+			"self": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages\/1367"
+				}
+			],
+			"collection": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages"
+				}
+			],
+			"about": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/types\/page"
+				}
+			],
+			"author": [
+				{
+					"embeddable": true,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/users\/4"
+				}
+			],
+			"replies": [
+				{
+					"embeddable": true,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/comments?post=1367"
+				}
+			],
+			"version-history": [
+				{
+					"count": 1,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages\/1367\/revisions"
+				}
+			],
+			"predecessor-version": [
+				{
+					"id": 1368,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages\/1367\/revisions\/1368"
+				}
+			],
+			"wp:attachment": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/media?parent=1367"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "wf_page_folders",
+					"embeddable": true,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/wf_page_folders?post=1367"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https:\/\/api.w.org\/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 1365,
+		"date": "2018-09-26T20:13:48",
+		"date_gmt": "2018-09-26T20:13:48",
+		"guid": {
+			"rendered": "http:\/\/account.6icatalyst.com\/api\/?page_id=1365"
+		},
+		"modified": "2018-10-30T17:20:18",
+		"modified_gmt": "2018-10-30T17:20:18",
+		"slug": "popover-id-customize-step-3-10-day",
+		"status": "publish",
+		"type": "page",
+		"link": "http:\/\/account.6icatalyst.com\/api\/popover-id-customize-step-3-10-day\/",
+		"title": {
+			"rendered": "customize id step 3 10 day"
+		},
+		"content": {
+			"rendered": "<ul>\n<li>Do my checklists or worksheets.<\/li>\n<li>Communicate my plan to the people I\u2019ll be working with.<\/li>\n<li>Build trust by being more punctual.<\/li>\n<li>Have a family discussion each week to talk about what they\u2019d like from me and what I need from them.<\/li>\n<li>Do one extra thing each day or week: extra call, extra presentation, extra training, etc.<\/li>\n<li>Repeat what people tell me more often so I understand and communicate better.<\/li>\n<li>I will make sure I am helping others with at least one thing they\u2019d like, so I\u2019m not just pushing my agenda.<\/li>\n<li>Create a strategy that includes input from all team leads so we are truly collaborating.<\/li>\n<li>I will start and complete each task on time.<\/li>\n<li>I will pick one thing I do not like or is difficult for me, and I will focus on this task for two weeks, so each day I am doing something that encourages me to work on this undesirable task.<\/li>\n<\/ul>\n",
+			"protected": false
+		},
+		"excerpt": {
+			"rendered": "<p>Do my checklists or worksheets. Communicate my plan to the people I\u2019ll be working with. Build trust by being more punctual. Have a family discussion each week to talk about what they\u2019d like from me and what I need from them. Do one extra thing each day or week: extra call, extra presentation, extra training, &hellip; <\/p>\n<p class=\"link-more\"><a href=\"http:\/\/account.6icatalyst.com\/api\/popover-id-customize-step-3-10-day\/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> &#8220;customize id step 3 10 day&#8221;<\/span><\/a><\/p>\n",
+			"protected": false
+		},
+		"author": 4,
+		"featured_media": 0,
+		"parent": 0,
+		"menu_order": 0,
+		"comment_status": "closed",
+		"ping_status": "closed",
+		"template": "",
+		"meta": [],
+		"wf_page_folders": [
+			22
+		],
+		"_links": {
+			"self": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages\/1365"
+				}
+			],
+			"collection": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages"
+				}
+			],
+			"about": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/types\/page"
+				}
+			],
+			"author": [
+				{
+					"embeddable": true,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/users\/4"
+				}
+			],
+			"replies": [
+				{
+					"embeddable": true,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/comments?post=1365"
+				}
+			],
+			"version-history": [
+				{
+					"count": 3,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages\/1365\/revisions"
+				}
+			],
+			"predecessor-version": [
+				{
+					"id": 1614,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages\/1365\/revisions\/1614"
+				}
+			],
+			"wp:attachment": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/media?parent=1365"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "wf_page_folders",
+					"embeddable": true,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/wf_page_folders?post=1365"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https:\/\/api.w.org\/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 1363,
+		"date": "2018-09-26T17:59:22",
+		"date_gmt": "2018-09-26T17:59:22",
+		"guid": {
+			"rendered": "http:\/\/account.6icatalyst.com\/api\/?page_id=1363"
+		},
+		"modified": "2018-10-30T17:11:54",
+		"modified_gmt": "2018-10-30T17:11:54",
+		"slug": "popover-id-customize-step-3-time",
+		"status": "publish",
+		"type": "page",
+		"link": "http:\/\/account.6icatalyst.com\/api\/popover-id-customize-step-3-time\/",
+		"title": {
+			"rendered": "customize id step 3 time"
+		},
+		"content": {
+			"rendered": "<ul>\n<li>I will spend _____ hours researching, discovering, learning, etc.<\/li>\n<li>This process will require _____ dollars to execute effectively.<\/li>\n<li>I will communicate my ideas, strategies, requests for participation\/cooperation by&#8230;<\/li>\n<\/ul>\n",
+			"protected": false
+		},
+		"excerpt": {
+			"rendered": "<p>I will spend _____ hours researching, discovering, learning, etc. This process will require _____ dollars to execute effectively. I will communicate my ideas, strategies, requests for participation\/cooperation by&#8230;<\/p>\n",
+			"protected": false
+		},
+		"author": 4,
+		"featured_media": 0,
+		"parent": 0,
+		"menu_order": 0,
+		"comment_status": "closed",
+		"ping_status": "closed",
+		"template": "",
+		"meta": [],
+		"wf_page_folders": [
+			22
+		],
+		"_links": {
+			"self": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages\/1363"
+				}
+			],
+			"collection": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages"
+				}
+			],
+			"about": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/types\/page"
+				}
+			],
+			"author": [
+				{
+					"embeddable": true,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/users\/4"
+				}
+			],
+			"replies": [
+				{
+					"embeddable": true,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/comments?post=1363"
+				}
+			],
+			"version-history": [
+				{
+					"count": 3,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages\/1363\/revisions"
+				}
+			],
+			"predecessor-version": [
+				{
+					"id": 1613,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages\/1363\/revisions\/1613"
+				}
+			],
+			"wp:attachment": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/media?parent=1363"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "wf_page_folders",
+					"embeddable": true,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/wf_page_folders?post=1363"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https:\/\/api.w.org\/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 1361,
+		"date": "2018-09-26T17:57:31",
+		"date_gmt": "2018-09-26T17:57:31",
+		"guid": {
+			"rendered": "http:\/\/account.6icatalyst.com\/api\/?page_id=1361"
+		},
+		"modified": "2018-10-30T17:11:09",
+		"modified_gmt": "2018-10-30T17:11:09",
+		"slug": "popover-id-customize-step-3-critical",
+		"status": "publish",
+		"type": "page",
+		"link": "http:\/\/account.6icatalyst.com\/api\/popover-id-customize-step-3-critical\/",
+		"title": {
+			"rendered": "ID: customize step 3 critical"
+		},
+		"content": {
+			"rendered": "<ul>\n<li>To reach my goals, I need to focus on&#8230;<\/li>\n<li>I need to make improvements in these areas&#8230;<\/li>\n<li>I will learn from my team, my own experiences, and other leaders about&#8230;<\/li>\n<li>I will identify new and better ways of&#8230;<\/li>\n<\/ul>\n",
+			"protected": false
+		},
+		"excerpt": {
+			"rendered": "<p>To reach my goals, I need to focus on&#8230; I need to make improvements in these areas&#8230; I will learn from my team, my own experiences, and other leaders about&#8230; I will identify new and better ways of&#8230;<\/p>\n",
+			"protected": false
+		},
+		"author": 4,
+		"featured_media": 0,
+		"parent": 0,
+		"menu_order": 0,
+		"comment_status": "closed",
+		"ping_status": "closed",
+		"template": "",
+		"meta": [],
+		"wf_page_folders": [
+			22
+		],
+		"_links": {
+			"self": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages\/1361"
+				}
+			],
+			"collection": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages"
+				}
+			],
+			"about": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/types\/page"
+				}
+			],
+			"author": [
+				{
+					"embeddable": true,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/users\/4"
+				}
+			],
+			"replies": [
+				{
+					"embeddable": true,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/comments?post=1361"
+				}
+			],
+			"version-history": [
+				{
+					"count": 2,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages\/1361\/revisions"
+				}
+			],
+			"predecessor-version": [
+				{
+					"id": 1410,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages\/1361\/revisions\/1410"
+				}
+			],
+			"wp:attachment": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/media?parent=1361"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "wf_page_folders",
+					"embeddable": true,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/wf_page_folders?post=1361"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https:\/\/api.w.org\/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 1359,
+		"date": "2018-09-26T17:43:19",
+		"date_gmt": "2018-09-26T17:43:19",
+		"guid": {
+			"rendered": "http:\/\/account.6icatalyst.com\/api\/?page_id=1359"
+		},
+		"modified": "2018-10-30T17:00:56",
+		"modified_gmt": "2018-10-30T17:00:56",
+		"slug": "popover-id-customize-step-2",
+		"status": "publish",
+		"type": "page",
+		"link": "http:\/\/account.6icatalyst.com\/api\/popover-id-customize-step-2\/",
+		"title": {
+			"rendered": "customize id step 2"
+		},
+		"content": {
+			"rendered": "<ul>\n<li>I will create a better balance between my home and work life over the next six weeks so I have more time with my family.<\/li>\n<li>I will improve communication between me and my leaders in the next month so we have fewer misunderstandings and everyone is motivated by the same agreed-upon goals.<\/li>\n<li>I will improve how I train my team on leadership over the next two months.<\/li>\n<\/ul>\n",
+			"protected": false
+		},
+		"excerpt": {
+			"rendered": "<p>I will create a better balance between my home and work life over the next six weeks so I have more time with my family. I will improve communication between me and my leaders in the next month so we have fewer misunderstandings and everyone is motivated by the same agreed-upon goals. I will improve &hellip; <\/p>\n<p class=\"link-more\"><a href=\"http:\/\/account.6icatalyst.com\/api\/popover-id-customize-step-2\/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> &#8220;customize id step 2&#8221;<\/span><\/a><\/p>\n",
+			"protected": false
+		},
+		"author": 4,
+		"featured_media": 0,
+		"parent": 0,
+		"menu_order": 0,
+		"comment_status": "closed",
+		"ping_status": "closed",
+		"template": "",
+		"meta": [],
+		"wf_page_folders": [
+			22
+		],
+		"_links": {
+			"self": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages\/1359"
+				}
+			],
+			"collection": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages"
+				}
+			],
+			"about": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/types\/page"
+				}
+			],
+			"author": [
+				{
+					"embeddable": true,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/users\/4"
+				}
+			],
+			"replies": [
+				{
+					"embeddable": true,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/comments?post=1359"
+				}
+			],
+			"version-history": [
+				{
+					"count": 3,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages\/1359\/revisions"
+				}
+			],
+			"predecessor-version": [
+				{
+					"id": 1612,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages\/1359\/revisions\/1612"
+				}
+			],
+			"wp:attachment": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/media?parent=1359"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "wf_page_folders",
+					"embeddable": true,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/wf_page_folders?post=1359"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https:\/\/api.w.org\/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 1357,
+		"date": "2018-09-26T17:41:33",
+		"date_gmt": "2018-09-26T17:41:33",
+		"guid": {
+			"rendered": "http:\/\/account.6icatalyst.com\/api\/?page_id=1357"
+		},
+		"modified": "2018-10-30T16:35:47",
+		"modified_gmt": "2018-10-30T16:35:47",
+		"slug": "popover-dq-customize-step-2",
+		"status": "publish",
+		"type": "page",
+		"link": "http:\/\/account.6icatalyst.com\/api\/popover-dq-customize-step-2\/",
+		"title": {
+			"rendered": "customize step 2 dq"
+		},
+		"content": {
+			"rendered": "<ul>\n<li>What is your greatest need?<\/li>\n<li>What will be of greatest benefit to you?<\/li>\n<li>Think about why you need to change. What specifically needs to change?<\/li>\n<li>What could you achieve that would be better than what you\u2019re doing now?<\/li>\n<li>What trends have you noticed in your work?<\/li>\n<li>What are the current results you have achieved? What are your monthly, quarterly, or annual results?<\/li>\n<li>What are some reasons for your success and some reasons for the lack of it?<\/li>\n<li>What are the specific outcomes you want to achieve? Will these outcomes inspire people and, if achieved, represent innovative change?<\/li>\n<\/ul>\n",
+			"protected": false
+		},
+		"excerpt": {
+			"rendered": "<p>What is your greatest need? What will be of greatest benefit to you? Think about why you need to change. What specifically needs to change? What could you achieve that would be better than what you\u2019re doing now? What trends have you noticed in your work? What are the current results you have achieved? What &hellip; <\/p>\n<p class=\"link-more\"><a href=\"http:\/\/account.6icatalyst.com\/api\/popover-dq-customize-step-2\/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> &#8220;customize step 2 dq&#8221;<\/span><\/a><\/p>\n",
+			"protected": false
+		},
+		"author": 4,
+		"featured_media": 0,
+		"parent": 0,
+		"menu_order": 0,
+		"comment_status": "closed",
+		"ping_status": "closed",
+		"template": "",
+		"meta": [],
+		"wf_page_folders": [
+			21
+		],
+		"_links": {
+			"self": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages\/1357"
+				}
+			],
+			"collection": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages"
+				}
+			],
+			"about": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/types\/page"
+				}
+			],
+			"author": [
+				{
+					"embeddable": true,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/users\/4"
+				}
+			],
+			"replies": [
+				{
+					"embeddable": true,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/comments?post=1357"
+				}
+			],
+			"version-history": [
+				{
+					"count": 1,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages\/1357\/revisions"
+				}
+			],
+			"predecessor-version": [
+				{
+					"id": 1358,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages\/1357\/revisions\/1358"
+				}
+			],
+			"wp:attachment": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/media?parent=1357"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "wf_page_folders",
+					"embeddable": true,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/wf_page_folders?post=1357"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https:\/\/api.w.org\/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 1355,
+		"date": "2018-09-26T17:38:44",
+		"date_gmt": "2018-09-26T17:38:44",
+		"guid": {
+			"rendered": "http:\/\/account.6icatalyst.com\/api\/?page_id=1355"
+		},
+		"modified": "2018-10-30T16:48:03",
+		"modified_gmt": "2018-10-30T16:48:03",
+		"slug": "popover-id-customize-step-1",
+		"status": "publish",
+		"type": "page",
+		"link": "http:\/\/account.6icatalyst.com\/api\/popover-id-customize-step-1\/",
+		"title": {
+			"rendered": "customize step 1 id"
+		},
+		"content": {
+			"rendered": "<ul>\n<li>I will ask my family how I can better balance my time between work and home and carefully consider their responses.<\/li>\n<li>I will ask my leaders to share how they would like to be communicated with and what I can do to improve.<\/li>\n<li>I will tell my upline leader about my goal to improve how I train my team and ask for feedback on my ideas.<\/li>\n<\/ul>\n",
+			"protected": false
+		},
+		"excerpt": {
+			"rendered": "<p>I will ask my family how I can better balance my time between work and home and carefully consider their responses. I will ask my leaders to share how they would like to be communicated with and what I can do to improve. I will tell my upline leader about my goal to improve how &hellip; <\/p>\n<p class=\"link-more\"><a href=\"http:\/\/account.6icatalyst.com\/api\/popover-id-customize-step-1\/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> &#8220;customize step 1 id&#8221;<\/span><\/a><\/p>\n",
+			"protected": false
+		},
+		"author": 4,
+		"featured_media": 0,
+		"parent": 0,
+		"menu_order": 0,
+		"comment_status": "closed",
+		"ping_status": "closed",
+		"template": "",
+		"meta": [],
+		"wf_page_folders": [
+			22
+		],
+		"_links": {
+			"self": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages\/1355"
+				}
+			],
+			"collection": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages"
+				}
+			],
+			"about": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/types\/page"
+				}
+			],
+			"author": [
+				{
+					"embeddable": true,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/users\/4"
+				}
+			],
+			"replies": [
+				{
+					"embeddable": true,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/comments?post=1355"
+				}
+			],
+			"version-history": [
+				{
+					"count": 3,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages\/1355\/revisions"
+				}
+			],
+			"predecessor-version": [
+				{
+					"id": 1610,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages\/1355\/revisions\/1610"
+				}
+			],
+			"wp:attachment": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/media?parent=1355"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "wf_page_folders",
+					"embeddable": true,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/wf_page_folders?post=1355"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https:\/\/api.w.org\/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 1353,
+		"date": "2018-09-26T17:22:06",
+		"date_gmt": "2018-09-26T17:22:06",
+		"guid": {
+			"rendered": "http:\/\/account.6icatalyst.com\/api\/?page_id=1353"
+		},
+		"modified": "2018-10-30T16:34:56",
+		"modified_gmt": "2018-10-30T16:34:56",
+		"slug": "popover-dq-customize-step-1",
+		"status": "publish",
+		"type": "page",
+		"link": "http:\/\/account.6icatalyst.com\/api\/popover-dq-customize-step-1\/",
+		"title": {
+			"rendered": "customize step 1 dq"
+		},
+		"content": {
+			"rendered": "<ul>\n<li>What is the current assignment or task you are facing?<\/li>\n<li>What have you observed that helps people trust each other when they start to work on a new task?<\/li>\n<li>What conditions must exist among those you work with to ensure that every individual feels free to ask questions and make comments in order to start the process of discovering new and better outcomes?<\/li>\n<\/ul>\n",
+			"protected": false
+		},
+		"excerpt": {
+			"rendered": "<p>What is the current assignment or task you are facing? What have you observed that helps people trust each other when they start to work on a new task? What conditions must exist among those you work with to ensure that every individual feels free to ask questions and make comments in order to start &hellip; <\/p>\n<p class=\"link-more\"><a href=\"http:\/\/account.6icatalyst.com\/api\/popover-dq-customize-step-1\/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> &#8220;customize step 1 dq&#8221;<\/span><\/a><\/p>\n",
+			"protected": false
+		},
+		"author": 4,
+		"featured_media": 0,
+		"parent": 0,
+		"menu_order": 0,
+		"comment_status": "closed",
+		"ping_status": "closed",
+		"template": "",
+		"meta": [],
+		"wf_page_folders": [
+			21
+		],
+		"_links": {
+			"self": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages\/1353"
+				}
+			],
+			"collection": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages"
+				}
+			],
+			"about": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/types\/page"
+				}
+			],
+			"author": [
+				{
+					"embeddable": true,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/users\/4"
+				}
+			],
+			"replies": [
+				{
+					"embeddable": true,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/comments?post=1353"
+				}
+			],
+			"version-history": [
+				{
+					"count": 1,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages\/1353\/revisions"
+				}
+			],
+			"predecessor-version": [
+				{
+					"id": 1354,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages\/1353\/revisions\/1354"
+				}
+			],
+			"wp:attachment": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/media?parent=1353"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "wf_page_folders",
+					"embeddable": true,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/wf_page_folders?post=1353"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https:\/\/api.w.org\/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 1349,
+		"date": "2018-09-26T16:41:37",
+		"date_gmt": "2018-09-26T16:41:37",
+		"guid": {
+			"rendered": "http:\/\/account.6icatalyst.com\/api\/?page_id=1349"
+		},
+		"modified": "2018-10-29T19:18:26",
+		"modified_gmt": "2018-10-29T19:18:26",
+		"slug": "popover-co-create",
+		"status": "publish",
+		"type": "page",
+		"link": "http:\/\/account.6icatalyst.com\/api\/popover-co-create\/",
+		"title": {
+			"rendered": "create co"
+		},
+		"content": {
+			"rendered": "<p>Want better or faster results? Go to 6innovations.com to find a personal 6i Catalyst coach.<\/p>\n",
+			"protected": false
+		},
+		"excerpt": {
+			"rendered": "<p>Want better or faster results? Go to 6innovations.com to find a personal 6i Catalyst coach.<\/p>\n",
+			"protected": false
+		},
+		"author": 4,
+		"featured_media": 0,
+		"parent": 0,
+		"menu_order": 0,
+		"comment_status": "closed",
+		"ping_status": "closed",
+		"template": "",
+		"meta": [],
+		"wf_page_folders": [
+			23
+		],
+		"_links": {
+			"self": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages\/1349"
+				}
+			],
+			"collection": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages"
+				}
+			],
+			"about": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/types\/page"
+				}
+			],
+			"author": [
+				{
+					"embeddable": true,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/users\/4"
+				}
+			],
+			"replies": [
+				{
+					"embeddable": true,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/comments?post=1349"
+				}
+			],
+			"version-history": [
+				{
+					"count": 1,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages\/1349\/revisions"
+				}
+			],
+			"predecessor-version": [
+				{
+					"id": 1350,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages\/1349\/revisions\/1350"
+				}
+			],
+			"wp:attachment": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/media?parent=1349"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "wf_page_folders",
+					"embeddable": true,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/wf_page_folders?post=1349"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https:\/\/api.w.org\/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 1347,
+		"date": "2018-09-26T16:39:36",
+		"date_gmt": "2018-09-26T16:39:36",
+		"guid": {
+			"rendered": "http:\/\/account.6icatalyst.com\/api\/?page_id=1347"
+		},
+		"modified": "2018-10-29T18:03:38",
+		"modified_gmt": "2018-10-29T18:03:38",
+		"slug": "popover-id-create-step-6-render",
+		"status": "publish",
+		"type": "page",
+		"link": "http:\/\/account.6icatalyst.com\/api\/popover-id-create-step-6-render\/",
+		"title": {
+			"rendered": "create id step 6 render"
+		},
+		"content": {
+			"rendered": "<ul>\n<li>I will report to my upline leader every Friday at 10 a.m. about how my leaders are doing.<\/li>\n<li>I will hold a product and leadership training session every other Tuesday evening at 8 p.m. where I will report on our team\u2019s progress.<\/li>\n<li>I will ask my leaders to report via email how much volume they\u2019re sharing each week.<\/li>\n<\/ul>\n",
+			"protected": false
+		},
+		"excerpt": {
+			"rendered": "<p>I will report to my upline leader every Friday at 10 a.m. about how my leaders are doing. I will hold a product and leadership training session every other Tuesday evening at 8 p.m. where I will report on our team\u2019s progress. I will ask my leaders to report via email how much volume they\u2019re &hellip; <\/p>\n<p class=\"link-more\"><a href=\"http:\/\/account.6icatalyst.com\/api\/popover-id-create-step-6-render\/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> &#8220;create id step 6 render&#8221;<\/span><\/a><\/p>\n",
+			"protected": false
+		},
+		"author": 4,
+		"featured_media": 0,
+		"parent": 0,
+		"menu_order": 0,
+		"comment_status": "closed",
+		"ping_status": "closed",
+		"template": "",
+		"meta": [],
+		"wf_page_folders": [
+			22
+		],
+		"_links": {
+			"self": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages\/1347"
+				}
+			],
+			"collection": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages"
+				}
+			],
+			"about": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/types\/page"
+				}
+			],
+			"author": [
+				{
+					"embeddable": true,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/users\/4"
+				}
+			],
+			"replies": [
+				{
+					"embeddable": true,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/comments?post=1347"
+				}
+			],
+			"version-history": [
+				{
+					"count": 3,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages\/1347\/revisions"
+				}
+			],
+			"predecessor-version": [
+				{
+					"id": 1603,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages\/1347\/revisions\/1603"
+				}
+			],
+			"wp:attachment": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/media?parent=1347"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "wf_page_folders",
+					"embeddable": true,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/wf_page_folders?post=1347"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https:\/\/api.w.org\/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 1345,
+		"date": "2018-09-26T16:33:59",
+		"date_gmt": "2018-09-26T16:33:59",
+		"guid": {
+			"rendered": "http:\/\/account.6icatalyst.com\/api\/?page_id=1345"
+		},
+		"modified": "2018-10-29T16:47:30",
+		"modified_gmt": "2018-10-29T16:47:30",
+		"slug": "popover-create-step-6-render",
+		"status": "publish",
+		"type": "page",
+		"link": "http:\/\/account.6icatalyst.com\/api\/popover-create-step-6-render\/",
+		"title": {
+			"rendered": "create step 6 render dq"
+		},
+		"content": {
+			"rendered": "<ul>\n<li>What information do you want from people who report to you?<\/li>\n<li>How and when do you intend to obtain this information?<\/li>\n<li>Do members of your team voluntarily render an account of their progress?<\/li>\n<li>Have you asked them to do so on a regular basis?<\/li>\n<li>Do you ask your builders to report how well they mentor, encourage, and support?<\/li>\n<li>Do you report to your team so they see you lead by example?<\/li>\n<li>Do you report without being reminded?<\/li>\n<\/ul>\n",
+			"protected": false
+		},
+		"excerpt": {
+			"rendered": "<p>What information do you want from people who report to you? How and when do you intend to obtain this information? Do members of your team voluntarily render an account of their progress? Have you asked them to do so on a regular basis? Do you ask your builders to report how well they mentor, &hellip; <\/p>\n<p class=\"link-more\"><a href=\"http:\/\/account.6icatalyst.com\/api\/popover-create-step-6-render\/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> &#8220;create step 6 render dq&#8221;<\/span><\/a><\/p>\n",
+			"protected": false
+		},
+		"author": 4,
+		"featured_media": 0,
+		"parent": 0,
+		"menu_order": 0,
+		"comment_status": "closed",
+		"ping_status": "closed",
+		"template": "",
+		"meta": [],
+		"wf_page_folders": [
+			21
+		],
+		"_links": {
+			"self": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages\/1345"
+				}
+			],
+			"collection": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages"
+				}
+			],
+			"about": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/types\/page"
+				}
+			],
+			"author": [
+				{
+					"embeddable": true,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/users\/4"
+				}
+			],
+			"replies": [
+				{
+					"embeddable": true,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/comments?post=1345"
+				}
+			],
+			"version-history": [
+				{
+					"count": 1,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages\/1345\/revisions"
+				}
+			],
+			"predecessor-version": [
+				{
+					"id": 1346,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages\/1345\/revisions\/1346"
+				}
+			],
+			"wp:attachment": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/media?parent=1345"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "wf_page_folders",
+					"embeddable": true,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/wf_page_folders?post=1345"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https:\/\/api.w.org\/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 1343,
+		"date": "2018-09-26T16:24:15",
+		"date_gmt": "2018-09-26T16:24:15",
+		"guid": {
+			"rendered": "http:\/\/account.6icatalyst.com\/api\/?page_id=1343"
+		},
+		"modified": "2018-10-29T18:02:01",
+		"modified_gmt": "2018-10-29T18:02:01",
+		"slug": "popover-id-create-step-6-measure",
+		"status": "publish",
+		"type": "page",
+		"link": "http:\/\/account.6icatalyst.com\/api\/popover-id-create-step-6-measure\/",
+		"title": {
+			"rendered": "create id step 6 measure"
+		},
+		"content": {
+			"rendered": "<ul>\n<li>I will measure the number of builders who hit rank every month.<\/li>\n<li>Every Monday, I will measure how much volume my leaders are sharing each week.<\/li>\n<li>Each week, I will measure the number of new builders my leaders enroll.<\/li>\n<li>Every Thursday, I will measure the number of loyalty enrollments in my team.<\/li>\n<li>I will track the average time it takes to hit rank goals to see if goals are hit faster.<\/li>\n<li>I will measure the number of reports sent to me without me having to remind or reach out to leaders.<\/li>\n<\/ul>\n",
+			"protected": false
+		},
+		"excerpt": {
+			"rendered": "<p>I will measure the number of builders who hit rank every month. Every Monday, I will measure how much volume my leaders are sharing each week. Each week, I will measure the number of new builders my leaders enroll. Every Thursday, I will measure the number of loyalty enrollments in my team. I will track &hellip; <\/p>\n<p class=\"link-more\"><a href=\"http:\/\/account.6icatalyst.com\/api\/popover-id-create-step-6-measure\/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> &#8220;create id step 6 measure&#8221;<\/span><\/a><\/p>\n",
+			"protected": false
+		},
+		"author": 4,
+		"featured_media": 0,
+		"parent": 0,
+		"menu_order": 0,
+		"comment_status": "closed",
+		"ping_status": "closed",
+		"template": "",
+		"meta": [],
+		"wf_page_folders": [
+			22
+		],
+		"_links": {
+			"self": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages\/1343"
+				}
+			],
+			"collection": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages"
+				}
+			],
+			"about": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/types\/page"
+				}
+			],
+			"author": [
+				{
+					"embeddable": true,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/users\/4"
+				}
+			],
+			"replies": [
+				{
+					"embeddable": true,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/comments?post=1343"
+				}
+			],
+			"version-history": [
+				{
+					"count": 3,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages\/1343\/revisions"
+				}
+			],
+			"predecessor-version": [
+				{
+					"id": 1602,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages\/1343\/revisions\/1602"
+				}
+			],
+			"wp:attachment": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/media?parent=1343"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "wf_page_folders",
+					"embeddable": true,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/wf_page_folders?post=1343"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https:\/\/api.w.org\/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 1341,
+		"date": "2018-09-26T16:05:52",
+		"date_gmt": "2018-09-26T16:05:52",
+		"guid": {
+			"rendered": "http:\/\/account.6icatalyst.com\/api\/?page_id=1341"
+		},
+		"modified": "2018-10-29T16:29:19",
+		"modified_gmt": "2018-10-29T16:29:19",
+		"slug": "popover-dq-create-step-6-measure",
+		"status": "publish",
+		"type": "page",
+		"link": "http:\/\/account.6icatalyst.com\/api\/popover-dq-create-step-6-measure\/",
+		"title": {
+			"rendered": "create step 6 measure dq"
+		},
+		"content": {
+			"rendered": "<ul>\n<li>How do you know if your leaders are making improvements?<\/li>\n<li>Do you measure the progress of your leaders based on what you teach them?<\/li>\n<li>Do your leaders pass on to their teams what you teach them?<\/li>\n<li>Are your leaders collaborating, setting and keeping schedules, and progressing?<\/li>\n<li>Have leaders accepted your invitation to participate in the Catalyst Leadership System?<\/li>\n<li>Do you and your leaders share the skills you are each working to improve?<\/li>\n<\/ul>\n",
+			"protected": false
+		},
+		"excerpt": {
+			"rendered": "<p>How do you know if your leaders are making improvements? Do you measure the progress of your leaders based on what you teach them? Do your leaders pass on to their teams what you teach them? Are your leaders collaborating, setting and keeping schedules, and progressing? Have leaders accepted your invitation to participate in the &hellip; <\/p>\n<p class=\"link-more\"><a href=\"http:\/\/account.6icatalyst.com\/api\/popover-dq-create-step-6-measure\/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> &#8220;create step 6 measure dq&#8221;<\/span><\/a><\/p>\n",
+			"protected": false
+		},
+		"author": 4,
+		"featured_media": 0,
+		"parent": 0,
+		"menu_order": 0,
+		"comment_status": "closed",
+		"ping_status": "closed",
+		"template": "",
+		"meta": [],
+		"wf_page_folders": [
+			21
+		],
+		"_links": {
+			"self": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages\/1341"
+				}
+			],
+			"collection": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages"
+				}
+			],
+			"about": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/types\/page"
+				}
+			],
+			"author": [
+				{
+					"embeddable": true,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/users\/4"
+				}
+			],
+			"replies": [
+				{
+					"embeddable": true,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/comments?post=1341"
+				}
+			],
+			"version-history": [
+				{
+					"count": 1,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages\/1341\/revisions"
+				}
+			],
+			"predecessor-version": [
+				{
+					"id": 1342,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages\/1341\/revisions\/1342"
+				}
+			],
+			"wp:attachment": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/media?parent=1341"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "wf_page_folders",
+					"embeddable": true,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/wf_page_folders?post=1341"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https:\/\/api.w.org\/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 1339,
+		"date": "2018-09-26T16:03:32",
+		"date_gmt": "2018-09-26T16:03:32",
+		"guid": {
+			"rendered": "http:\/\/account.6icatalyst.com\/api\/?page_id=1339"
+		},
+		"modified": "2018-10-29T17:57:48",
+		"modified_gmt": "2018-10-29T17:57:48",
+		"slug": "popover-id-create-step-5-train",
+		"status": "publish",
+		"type": "page",
+		"link": "http:\/\/account.6icatalyst.com\/api\/popover-id-create-step-5-train\/",
+		"title": {
+			"rendered": "create id step 5"
+		},
+		"content": {
+			"rendered": "<ul>\n<li>I will train my leaders using the Catalyst Leadership System in the 6i Catalyst app.<\/li>\n<li>I will read a book about problem solving and teach the principles to my team.<\/li>\n<li>I will communicate better with my leaders so everyone knows what our team goals are, when trainings are held, and what is expected.<\/li>\n<li>I will learn effective methods my leaders use with their teams and share them with my entire team so we are all improving.<\/li>\n<\/ul>\n",
+			"protected": false
+		},
+		"excerpt": {
+			"rendered": "<p>I will train my leaders using the Catalyst Leadership System in the 6i Catalyst app. I will read a book about problem solving and teach the principles to my team. I will communicate better with my leaders so everyone knows what our team goals are, when trainings are held, and what is expected. I will &hellip; <\/p>\n<p class=\"link-more\"><a href=\"http:\/\/account.6icatalyst.com\/api\/popover-id-create-step-5-train\/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> &#8220;create id step 5&#8221;<\/span><\/a><\/p>\n",
+			"protected": false
+		},
+		"author": 4,
+		"featured_media": 0,
+		"parent": 0,
+		"menu_order": 0,
+		"comment_status": "closed",
+		"ping_status": "closed",
+		"template": "",
+		"meta": [],
+		"wf_page_folders": [
+			22
+		],
+		"_links": {
+			"self": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages\/1339"
+				}
+			],
+			"collection": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages"
+				}
+			],
+			"about": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/types\/page"
+				}
+			],
+			"author": [
+				{
+					"embeddable": true,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/users\/4"
+				}
+			],
+			"replies": [
+				{
+					"embeddable": true,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/comments?post=1339"
+				}
+			],
+			"version-history": [
+				{
+					"count": 3,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages\/1339\/revisions"
+				}
+			],
+			"predecessor-version": [
+				{
+					"id": 1601,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages\/1339\/revisions\/1601"
+				}
+			],
+			"wp:attachment": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/media?parent=1339"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "wf_page_folders",
+					"embeddable": true,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/wf_page_folders?post=1339"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https:\/\/api.w.org\/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 1337,
+		"date": "2018-09-26T16:00:51",
+		"date_gmt": "2018-09-26T16:00:51",
+		"guid": {
+			"rendered": "http:\/\/account.6icatalyst.com\/api\/?page_id=1337"
+		},
+		"modified": "2018-10-29T16:28:10",
+		"modified_gmt": "2018-10-29T16:28:10",
+		"slug": "popover-dq-create-step-5",
+		"status": "publish",
+		"type": "page",
+		"link": "http:\/\/account.6icatalyst.com\/api\/popover-dq-create-step-5\/",
+		"title": {
+			"rendered": "create step 5 dq"
+		},
+		"content": {
+			"rendered": "<ul>\n<li>What do you wish your leaders knew?<\/li>\n<li>What would you like to see your leaders do differently?<\/li>\n<li>What new skills do you need to improve that will give you the competence to create strong leaders (time management, planning, communication, collaboration, problem solving, networking, technology, etc.)?<\/li>\n<li>What skills do you need to develop to be more adaptive so you can maximize your effectiveness and influence?<\/li>\n<li>Have you set a training schedule to teach new skills?<\/li>\n<li>How well do you teach your leaders the skills you feel are important to success?<\/li>\n<\/ul>\n",
+			"protected": false
+		},
+		"excerpt": {
+			"rendered": "<p>What do you wish your leaders knew? What would you like to see your leaders do differently? What new skills do you need to improve that will give you the competence to create strong leaders (time management, planning, communication, collaboration, problem solving, networking, technology, etc.)? What skills do you need to develop to be more &hellip; <\/p>\n<p class=\"link-more\"><a href=\"http:\/\/account.6icatalyst.com\/api\/popover-dq-create-step-5\/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> &#8220;create step 5 dq&#8221;<\/span><\/a><\/p>\n",
+			"protected": false
+		},
+		"author": 4,
+		"featured_media": 0,
+		"parent": 0,
+		"menu_order": 0,
+		"comment_status": "closed",
+		"ping_status": "closed",
+		"template": "",
+		"meta": [],
+		"wf_page_folders": [
+			21
+		],
+		"_links": {
+			"self": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages\/1337"
+				}
+			],
+			"collection": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages"
+				}
+			],
+			"about": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/types\/page"
+				}
+			],
+			"author": [
+				{
+					"embeddable": true,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/users\/4"
+				}
+			],
+			"replies": [
+				{
+					"embeddable": true,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/comments?post=1337"
+				}
+			],
+			"version-history": [
+				{
+					"count": 1,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages\/1337\/revisions"
+				}
+			],
+			"predecessor-version": [
+				{
+					"id": 1338,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages\/1337\/revisions\/1338"
+				}
+			],
+			"wp:attachment": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/media?parent=1337"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "wf_page_folders",
+					"embeddable": true,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/wf_page_folders?post=1337"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https:\/\/api.w.org\/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 1335,
+		"date": "2018-09-26T15:59:13",
+		"date_gmt": "2018-09-26T15:59:13",
+		"guid": {
+			"rendered": "http:\/\/account.6icatalyst.com\/api\/?page_id=1335"
+		},
+		"modified": "2018-10-29T17:56:44",
+		"modified_gmt": "2018-10-29T17:56:44",
+		"slug": "popover-id-top_leaders",
+		"status": "publish",
+		"type": "page",
+		"link": "http:\/\/account.6icatalyst.com\/api\/popover-id-top_leaders\/",
+		"title": {
+			"rendered": "create id step 4"
+		},
+		"content": {
+			"rendered": "<p><b>Ally: <\/b>Peter, a leader I admire<\/p>\n<p><b>How I will help this ally:<\/b> I will bring people to classes Peter is presenting at.<\/p>\n<p><b>How this ally will help me:<\/b> Peter will teach me about strategies he uses to motivate his leaders.<\/p>\n<p>&nbsp;<\/p>\n<p><b>Ally: <\/b>My top 12 leaders<\/p>\n<p><b>How I will help this ally:<\/b> I will train these top leaders in specific leadership skills that will help them solve problems and reach their goals.<\/p>\n<p><b>How this ally will help me:<\/b> My top 12 leaders will train their teams in these same leadership skills so everyone is improving.<\/p>\n",
+			"protected": false
+		},
+		"excerpt": {
+			"rendered": "<p>Ally: Peter, a leader I admire How I will help this ally: I will bring people to classes Peter is presenting at. How this ally will help me: Peter will teach me about strategies he uses to motivate his leaders. &nbsp; Ally: My top 12 leaders How I will help this ally: I will train &hellip; <\/p>\n<p class=\"link-more\"><a href=\"http:\/\/account.6icatalyst.com\/api\/popover-id-top_leaders\/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> &#8220;create id step 4&#8221;<\/span><\/a><\/p>\n",
+			"protected": false
+		},
+		"author": 4,
+		"featured_media": 0,
+		"parent": 0,
+		"menu_order": 0,
+		"comment_status": "closed",
+		"ping_status": "closed",
+		"template": "",
+		"meta": [],
+		"wf_page_folders": [
+			22
+		],
+		"_links": {
+			"self": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages\/1335"
+				}
+			],
+			"collection": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages"
+				}
+			],
+			"about": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/types\/page"
+				}
+			],
+			"author": [
+				{
+					"embeddable": true,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/users\/4"
+				}
+			],
+			"replies": [
+				{
+					"embeddable": true,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/comments?post=1335"
+				}
+			],
+			"version-history": [
+				{
+					"count": 3,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages\/1335\/revisions"
+				}
+			],
+			"predecessor-version": [
+				{
+					"id": 1600,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages\/1335\/revisions\/1600"
+				}
+			],
+			"wp:attachment": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/media?parent=1335"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "wf_page_folders",
+					"embeddable": true,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/wf_page_folders?post=1335"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https:\/\/api.w.org\/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 1333,
+		"date": "2018-09-26T15:56:36",
+		"date_gmt": "2018-09-26T15:56:36",
+		"guid": {
+			"rendered": "http:\/\/account.6icatalyst.com\/api\/?page_id=1333"
+		},
+		"modified": "2018-10-29T16:11:43",
+		"modified_gmt": "2018-10-29T16:11:43",
+		"slug": "popover-dq-create-step-4",
+		"status": "publish",
+		"type": "page",
+		"link": "http:\/\/account.6icatalyst.com\/api\/popover-dq-create-step-4\/",
+		"title": {
+			"rendered": "create step 4 dq"
+		},
+		"content": {
+			"rendered": "<ul>\n<li>How successfully are your leaders improving their own teams?<\/li>\n<li>Have you created a strong sense of teamwork with your leaders?<\/li>\n<li>Have you made sure your leaders feel like they matter? Do they feel connected with you so they respond to your efforts to help?<\/li>\n<li>Are schedules mutually set and kept?<\/li>\n<li>Can you see improvement resulting from your training programs? Is it as much as you would like?<\/li>\n<li>What are others doing to successfully create strong leaders in their teams?<\/li>\n<li>Have you asked your downline what they can do to improve their work?<\/li>\n<\/ul>\n",
+			"protected": false
+		},
+		"excerpt": {
+			"rendered": "<p>How successfully are your leaders improving their own teams? Have you created a strong sense of teamwork with your leaders? Have you made sure your leaders feel like they matter? Do they feel connected with you so they respond to your efforts to help? Are schedules mutually set and kept? Can you see improvement resulting &hellip; <\/p>\n<p class=\"link-more\"><a href=\"http:\/\/account.6icatalyst.com\/api\/popover-dq-create-step-4\/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> &#8220;create step 4 dq&#8221;<\/span><\/a><\/p>\n",
+			"protected": false
+		},
+		"author": 4,
+		"featured_media": 0,
+		"parent": 0,
+		"menu_order": 0,
+		"comment_status": "closed",
+		"ping_status": "closed",
+		"template": "",
+		"meta": [],
+		"wf_page_folders": [
+			21
+		],
+		"_links": {
+			"self": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages\/1333"
+				}
+			],
+			"collection": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages"
+				}
+			],
+			"about": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/types\/page"
+				}
+			],
+			"author": [
+				{
+					"embeddable": true,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/users\/4"
+				}
+			],
+			"replies": [
+				{
+					"embeddable": true,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/comments?post=1333"
+				}
+			],
+			"version-history": [
+				{
+					"count": 1,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages\/1333\/revisions"
+				}
+			],
+			"predecessor-version": [
+				{
+					"id": 1334,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages\/1333\/revisions\/1334"
+				}
+			],
+			"wp:attachment": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/media?parent=1333"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "wf_page_folders",
+					"embeddable": true,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/wf_page_folders?post=1333"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https:\/\/api.w.org\/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 1331,
+		"date": "2018-09-26T15:54:45",
+		"date_gmt": "2018-09-26T15:54:45",
+		"guid": {
+			"rendered": "http:\/\/account.6icatalyst.com\/api\/?page_id=1331"
+		},
+		"modified": "2018-10-29T17:54:53",
+		"modified_gmt": "2018-10-29T17:54:53",
+		"slug": "popover-id-step_3_10_day",
+		"status": "publish",
+		"type": "page",
+		"link": "http:\/\/account.6icatalyst.com\/api\/popover-id-step_3_10_day\/",
+		"title": {
+			"rendered": "create id step 3 10 day"
+		},
+		"content": {
+			"rendered": "<ul>\n<li>I will make a list of people with the most potential for leadership.<\/li>\n<li>I will make a list of the people with whom I want to develop leadership, and I will link these people to my current goals of rank, enrollments, volume, etc.<\/li>\n<li>I will position these people in the legs that support growth in my business (necessary legs, the legs of top leaders, new growing legs, etc.).<\/li>\n<li>I will build trust by communicating with selected leaders about creating greater leadership and inviting their participation.<\/li>\n<li>I will collaborate with selected leaders to implement a shared strategy to create greater leadership.<\/li>\n<li>I will create a schedule of agreed-upon tasks to help identified leaders improve their leadership and measure their ability to report on time.<\/li>\n<li>I will help a builder implement their idea so they feel what it\u2019s like to see their thoughts in action.<\/li>\n<\/ul>\n",
+			"protected": false
+		},
+		"excerpt": {
+			"rendered": "<p>I will make a list of people with the most potential for leadership. I will make a list of the people with whom I want to develop leadership, and I will link these people to my current goals of rank, enrollments, volume, etc. I will position these people in the legs that support growth in &hellip; <\/p>\n<p class=\"link-more\"><a href=\"http:\/\/account.6icatalyst.com\/api\/popover-id-step_3_10_day\/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> &#8220;create id step 3 10 day&#8221;<\/span><\/a><\/p>\n",
+			"protected": false
+		},
+		"author": 4,
+		"featured_media": 0,
+		"parent": 0,
+		"menu_order": 0,
+		"comment_status": "closed",
+		"ping_status": "closed",
+		"template": "",
+		"meta": [],
+		"wf_page_folders": [
+			22
+		],
+		"_links": {
+			"self": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages\/1331"
+				}
+			],
+			"collection": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages"
+				}
+			],
+			"about": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/types\/page"
+				}
+			],
+			"author": [
+				{
+					"embeddable": true,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/users\/4"
+				}
+			],
+			"replies": [
+				{
+					"embeddable": true,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/comments?post=1331"
+				}
+			],
+			"version-history": [
+				{
+					"count": 3,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages\/1331\/revisions"
+				}
+			],
+			"predecessor-version": [
+				{
+					"id": 1599,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages\/1331\/revisions\/1599"
+				}
+			],
+			"wp:attachment": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/media?parent=1331"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "wf_page_folders",
+					"embeddable": true,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/wf_page_folders?post=1331"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https:\/\/api.w.org\/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 1328,
+		"date": "2018-09-25T17:16:47",
+		"date_gmt": "2018-09-25T17:16:47",
+		"guid": {
+			"rendered": "http:\/\/account.6icatalyst.com\/api\/?page_id=1328"
+		},
+		"modified": "2018-10-29T17:53:58",
+		"modified_gmt": "2018-10-29T17:53:58",
+		"slug": "popover-id-create-step-3-time",
+		"status": "publish",
+		"type": "page",
+		"link": "http:\/\/account.6icatalyst.com\/api\/popover-id-create-step-3-time\/",
+		"title": {
+			"rendered": "create ID step 3 time"
+		},
+		"content": {
+			"rendered": "<ul>\n<li>I will incorporate one new leadership skill, communication skill, or motivation technique into my training for 15-30 minutes each week.<\/li>\n<li>I will spend $100 on rewards for the leaders who come to all trainings this month.<\/li>\n<li>I will launch a regular newsletter or blog to teach new methods and techniques and share ideas and tips.<\/li>\n<\/ul>\n",
+			"protected": false
+		},
+		"excerpt": {
+			"rendered": "<p>I will incorporate one new leadership skill, communication skill, or motivation technique into my training for 15-30 minutes each week. I will spend $100 on rewards for the leaders who come to all trainings this month. I will launch a regular newsletter or blog to teach new methods and techniques and share ideas and tips.<\/p>\n",
+			"protected": false
+		},
+		"author": 4,
+		"featured_media": 0,
+		"parent": 0,
+		"menu_order": 0,
+		"comment_status": "closed",
+		"ping_status": "closed",
+		"template": "",
+		"meta": [],
+		"wf_page_folders": [
+			22
+		],
+		"_links": {
+			"self": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages\/1328"
+				}
+			],
+			"collection": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages"
+				}
+			],
+			"about": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/types\/page"
+				}
+			],
+			"author": [
+				{
+					"embeddable": true,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/users\/4"
+				}
+			],
+			"replies": [
+				{
+					"embeddable": true,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/comments?post=1328"
+				}
+			],
+			"version-history": [
+				{
+					"count": 4,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages\/1328\/revisions"
+				}
+			],
+			"predecessor-version": [
+				{
+					"id": 1598,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages\/1328\/revisions\/1598"
+				}
+			],
+			"wp:attachment": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/media?parent=1328"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "wf_page_folders",
+					"embeddable": true,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/wf_page_folders?post=1328"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https:\/\/api.w.org\/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 1326,
+		"date": "2018-09-25T17:11:41",
+		"date_gmt": "2018-09-25T17:11:41",
+		"guid": {
+			"rendered": "http:\/\/account.6icatalyst.com\/api\/?page_id=1326"
+		},
+		"modified": "2018-10-29T17:45:52",
+		"modified_gmt": "2018-10-29T17:45:52",
+		"slug": "popover-id-step-3-critical",
+		"status": "publish",
+		"type": "page",
+		"link": "http:\/\/account.6icatalyst.com\/api\/popover-id-step-3-critical\/",
+		"title": {
+			"rendered": "create id step 3 critical"
+		},
+		"content": {
+			"rendered": "<ul>\n<li>I will improve my leadership, communication, or motivational skills by implementing a new skill or method each training, weekly meeting with leaders, etc.<\/li>\n<li>I will help new builders experience success with the process of finding, teaching, and enrolling their own new builders so they have a recognizable process to build on.<\/li>\n<li>I will communicate better so my leaders feel like I am helping them with what they want help with and not what I think needs help.<\/li>\n<\/ul>\n",
+			"protected": false
+		},
+		"excerpt": {
+			"rendered": "<p>I will improve my leadership, communication, or motivational skills by implementing a new skill or method each training, weekly meeting with leaders, etc. I will help new builders experience success with the process of finding, teaching, and enrolling their own new builders so they have a recognizable process to build on. I will communicate better &hellip; <\/p>\n<p class=\"link-more\"><a href=\"http:\/\/account.6icatalyst.com\/api\/popover-id-step-3-critical\/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> &#8220;create id step 3 critical&#8221;<\/span><\/a><\/p>\n",
+			"protected": false
+		},
+		"author": 4,
+		"featured_media": 0,
+		"parent": 0,
+		"menu_order": 0,
+		"comment_status": "closed",
+		"ping_status": "closed",
+		"template": "",
+		"meta": [],
+		"wf_page_folders": [
+			22
+		],
+		"_links": {
+			"self": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages\/1326"
+				}
+			],
+			"collection": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages"
+				}
+			],
+			"about": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/types\/page"
+				}
+			],
+			"author": [
+				{
+					"embeddable": true,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/users\/4"
+				}
+			],
+			"replies": [
+				{
+					"embeddable": true,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/comments?post=1326"
+				}
+			],
+			"version-history": [
+				{
+					"count": 3,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages\/1326\/revisions"
+				}
+			],
+			"predecessor-version": [
+				{
+					"id": 1596,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages\/1326\/revisions\/1596"
+				}
+			],
+			"wp:attachment": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/media?parent=1326"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "wf_page_folders",
+					"embeddable": true,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/wf_page_folders?post=1326"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https:\/\/api.w.org\/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 1324,
+		"date": "2018-09-25T15:42:16",
+		"date_gmt": "2018-09-25T15:42:16",
+		"guid": {
+			"rendered": "http:\/\/account.6icatalyst.com\/api\/?page_id=1324"
+		},
+		"modified": "2018-10-29T16:09:19",
+		"modified_gmt": "2018-10-29T16:09:19",
+		"slug": "popover-dq-create-step-2",
+		"status": "publish",
+		"type": "page",
+		"link": "http:\/\/account.6icatalyst.com\/api\/popover-dq-create-step-2\/",
+		"title": {
+			"rendered": "create step 2 dq"
+		},
+		"content": {
+			"rendered": "<ul>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Do you believe that good leaders take people to places they have never been? <\/span><\/li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">What is your definition of good leadership?<\/span><\/li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">What people skills do strong leaders need in order to be successful?<\/span><\/li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">How much more productive do you want your leaders to be?<\/span><\/li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Do you know the signs of ineffective leadership?<\/span><\/li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">What have you seen others do to create strong leaders?<\/span><\/li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Do you have a regular training program that includes teaching leadership?<\/span><\/li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Have you taught the six leadership practices in the Catalyst Leadership System to others?<\/span><\/li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Have you asked your team members to teach these leadership practices to other people?<\/span><\/li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Do you have a follow-up method where you can help others apply the six leadership practices effectively?<\/span><\/li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Do you regularly tell achievement stories you have gathered from your strong leaders?<\/span><\/li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Do you record the effort, creativity, and diligent work of your team members to identify the individuals who demonstrate the capacity for strong leadership?<\/span><\/li>\n<\/ul>\n",
+			"protected": false
+		},
+		"excerpt": {
+			"rendered": "<p>Do you believe that good leaders take people to places they have never been? What is your definition of good leadership? What people skills do strong leaders need in order to be successful? How much more productive do you want your leaders to be? Do you know the signs of ineffective leadership? What have you &hellip; <\/p>\n<p class=\"link-more\"><a href=\"http:\/\/account.6icatalyst.com\/api\/popover-dq-create-step-2\/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> &#8220;create step 2 dq&#8221;<\/span><\/a><\/p>\n",
+			"protected": false
+		},
+		"author": 4,
+		"featured_media": 0,
+		"parent": 0,
+		"menu_order": 0,
+		"comment_status": "closed",
+		"ping_status": "closed",
+		"template": "",
+		"meta": [],
+		"wf_page_folders": [
+			21
+		],
+		"_links": {
+			"self": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages\/1324"
+				}
+			],
+			"collection": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages"
+				}
+			],
+			"about": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/types\/page"
+				}
+			],
+			"author": [
+				{
+					"embeddable": true,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/users\/4"
+				}
+			],
+			"replies": [
+				{
+					"embeddable": true,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/comments?post=1324"
+				}
+			],
+			"version-history": [
+				{
+					"count": 1,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages\/1324\/revisions"
+				}
+			],
+			"predecessor-version": [
+				{
+					"id": 1325,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages\/1324\/revisions\/1325"
+				}
+			],
+			"wp:attachment": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/media?parent=1324"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "wf_page_folders",
+					"embeddable": true,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/wf_page_folders?post=1324"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https:\/\/api.w.org\/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 1322,
+		"date": "2018-09-25T15:19:40",
+		"date_gmt": "2018-09-25T15:19:40",
+		"guid": {
+			"rendered": "http:\/\/account.6icatalyst.com\/api\/?page_id=1322"
+		},
+		"modified": "2018-10-29T17:44:41",
+		"modified_gmt": "2018-10-29T17:44:41",
+		"slug": "popover-id-create-step-2",
+		"status": "publish",
+		"type": "page",
+		"link": "http:\/\/account.6icatalyst.com\/api\/popover-id-create-step-2\/",
+		"title": {
+			"rendered": "popover-id-create-step-2"
+		},
+		"content": {
+			"rendered": "<ul>\n<li>I want my leaders to become more effective at leading other people to higher performance.<\/li>\n<li>I want my leaders to develop better strategies and collaborate more successfully.<\/li>\n<li>I want to see my leaders demonstrate more initiative and self-reliance.<\/li>\n<li>I want my leaders to become better at teaching leadership to others.<\/li>\n<li>I want my leaders to become more effective at motivating their teams.<\/li>\n<li>I want to make sure my leaders include members of their teams in defining the direction and setting goals.<\/li>\n<li>I want my leaders to learn more about how to measure progress.<\/li>\n<\/ul>\n",
+			"protected": false
+		},
+		"excerpt": {
+			"rendered": "<p>I want my leaders to become more effective at leading other people to higher performance. I want my leaders to develop better strategies and collaborate more successfully. I want to see my leaders demonstrate more initiative and self-reliance. I want my leaders to become better at teaching leadership to others. I want my leaders to &hellip; <\/p>\n<p class=\"link-more\"><a href=\"http:\/\/account.6icatalyst.com\/api\/popover-id-create-step-2\/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> &#8220;popover-id-create-step-2&#8221;<\/span><\/a><\/p>\n",
+			"protected": false
+		},
+		"author": 4,
+		"featured_media": 0,
+		"parent": 0,
+		"menu_order": 0,
+		"comment_status": "closed",
+		"ping_status": "closed",
+		"template": "",
+		"meta": [],
+		"wf_page_folders": [
+			22
+		],
+		"_links": {
+			"self": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages\/1322"
+				}
+			],
+			"collection": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages"
+				}
+			],
+			"about": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/types\/page"
+				}
+			],
+			"author": [
+				{
+					"embeddable": true,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/users\/4"
+				}
+			],
+			"replies": [
+				{
+					"embeddable": true,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/comments?post=1322"
+				}
+			],
+			"version-history": [
+				{
+					"count": 4,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages\/1322\/revisions"
+				}
+			],
+			"predecessor-version": [
+				{
+					"id": 1595,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages\/1322\/revisions\/1595"
+				}
+			],
+			"wp:attachment": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/media?parent=1322"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "wf_page_folders",
+					"embeddable": true,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/wf_page_folders?post=1322"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https:\/\/api.w.org\/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 1319,
+		"date": "2018-09-25T15:14:34",
+		"date_gmt": "2018-09-25T15:14:34",
+		"guid": {
+			"rendered": "http:\/\/account.6icatalyst.com\/api\/?page_id=1319"
+		},
+		"modified": "2018-10-29T16:58:35",
+		"modified_gmt": "2018-10-29T16:58:35",
+		"slug": "popover-id-create-step-1",
+		"status": "publish",
+		"type": "page",
+		"link": "http:\/\/account.6icatalyst.com\/api\/popover-id-create-step-1\/",
+		"title": {
+			"rendered": "popover-id-create-step 1"
+		},
+		"content": {
+			"rendered": "<ul>\n<li>I will communicate with my leaders about team goals and listen to their questions and opinions.<\/li>\n<li>I will ask my leaders what I can specifically do to help them.<\/li>\n<li>I will respond to my leaders\u2019 texts and emails the same day I get them.<\/li>\n<li>I will keep my promises.<\/li>\n<\/ul>\n",
+			"protected": false
+		},
+		"excerpt": {
+			"rendered": "<p>I will communicate with my leaders about team goals and listen to their questions and opinions. I will ask my leaders what I can specifically do to help them. I will respond to my leaders\u2019 texts and emails the same day I get them. I will keep my promises.<\/p>\n",
+			"protected": false
+		},
+		"author": 4,
+		"featured_media": 0,
+		"parent": 0,
+		"menu_order": 0,
+		"comment_status": "closed",
+		"ping_status": "closed",
+		"template": "",
+		"meta": [],
+		"wf_page_folders": [
+			22
+		],
+		"_links": {
+			"self": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages\/1319"
+				}
+			],
+			"collection": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages"
+				}
+			],
+			"about": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/types\/page"
+				}
+			],
+			"author": [
+				{
+					"embeddable": true,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/users\/4"
+				}
+			],
+			"replies": [
+				{
+					"embeddable": true,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/comments?post=1319"
+				}
+			],
+			"version-history": [
+				{
+					"count": 5,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages\/1319\/revisions"
+				}
+			],
+			"predecessor-version": [
+				{
+					"id": 1593,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages\/1319\/revisions\/1593"
+				}
+			],
+			"wp:attachment": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/media?parent=1319"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "wf_page_folders",
+					"embeddable": true,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/wf_page_folders?post=1319"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https:\/\/api.w.org\/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 1317,
+		"date": "2018-09-25T15:13:49",
+		"date_gmt": "2018-09-25T15:13:49",
+		"guid": {
+			"rendered": "http:\/\/account.6icatalyst.com\/api\/?page_id=1317"
+		},
+		"modified": "2018-10-29T16:00:41",
+		"modified_gmt": "2018-10-29T16:00:41",
+		"slug": "popover-dq-create-step-1",
+		"status": "publish",
+		"type": "page",
+		"link": "http:\/\/account.6icatalyst.com\/api\/popover-dq-create-step-1\/",
+		"title": {
+			"rendered": "create step 1 dq"
+		},
+		"content": {
+			"rendered": "<ul>\n<li>Why is trust building one of the essential qualities of good leaders?<\/li>\n<li>What other qualities do you look for when you attempt to identify those people who have leadership potential?<\/li>\n<li>What trust-building qualities do you currently look for to identify and then evaluate those who can become strong leaders?<\/li>\n<li>How clearly and accurately do you communicate with people?<\/li>\n<li>How organized and effective are you as a communicator, and can you observe this quality in other people?<\/li>\n<li>How well do you show that you care and promote the success of other people?<\/li>\n<\/ul>\n",
+			"protected": false
+		},
+		"excerpt": {
+			"rendered": "<p>Why is trust building one of the essential qualities of good leaders? What other qualities do you look for when you attempt to identify those people who have leadership potential? What trust-building qualities do you currently look for to identify and then evaluate those who can become strong leaders? How clearly and accurately do you &hellip; <\/p>\n<p class=\"link-more\"><a href=\"http:\/\/account.6icatalyst.com\/api\/popover-dq-create-step-1\/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> &#8220;create step 1 dq&#8221;<\/span><\/a><\/p>\n",
+			"protected": false
+		},
+		"author": 4,
+		"featured_media": 0,
+		"parent": 0,
+		"menu_order": 0,
+		"comment_status": "closed",
+		"ping_status": "closed",
+		"template": "",
+		"meta": [],
+		"wf_page_folders": [
+			21
+		],
+		"_links": {
+			"self": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages\/1317"
+				}
+			],
+			"collection": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages"
+				}
+			],
+			"about": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/types\/page"
+				}
+			],
+			"author": [
+				{
+					"embeddable": true,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/users\/4"
+				}
+			],
+			"replies": [
+				{
+					"embeddable": true,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/comments?post=1317"
+				}
+			],
+			"version-history": [
+				{
+					"count": 1,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages\/1317\/revisions"
+				}
+			],
+			"predecessor-version": [
+				{
+					"id": 1318,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages\/1317\/revisions\/1318"
+				}
+			],
+			"wp:attachment": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/media?parent=1317"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "wf_page_folders",
+					"embeddable": true,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/wf_page_folders?post=1317"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https:\/\/api.w.org\/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 1302,
+		"date": "2018-09-24T23:42:09",
+		"date_gmt": "2018-09-24T23:42:09",
+		"guid": {
+			"rendered": "http:\/\/account.6icatalyst.com\/api\/?page_id=1302"
+		},
+		"modified": "2018-10-26T16:32:16",
+		"modified_gmt": "2018-10-26T16:32:16",
+		"slug": "popover-co-enroll",
+		"status": "publish",
+		"type": "page",
+		"link": "http:\/\/account.6icatalyst.com\/api\/popover-co-enroll\/",
+		"title": {
+			"rendered": "enroll co"
+		},
+		"content": {
+			"rendered": "<p>Want better or faster results? Go to 6innovations.com to find a personal 6i Catalyst coach.<\/p>\n",
+			"protected": false
+		},
+		"excerpt": {
+			"rendered": "<p>Want better or faster results? Go to 6innovations.com to find a personal 6i Catalyst coach.<\/p>\n",
+			"protected": false
+		},
+		"author": 4,
+		"featured_media": 0,
+		"parent": 0,
+		"menu_order": 0,
+		"comment_status": "closed",
+		"ping_status": "closed",
+		"template": "",
+		"meta": [],
+		"wf_page_folders": [
+			23
+		],
+		"_links": {
+			"self": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages\/1302"
+				}
+			],
+			"collection": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages"
+				}
+			],
+			"about": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/types\/page"
+				}
+			],
+			"author": [
+				{
+					"embeddable": true,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/users\/4"
+				}
+			],
+			"replies": [
+				{
+					"embeddable": true,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/comments?post=1302"
+				}
+			],
+			"version-history": [
+				{
+					"count": 1,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages\/1302\/revisions"
+				}
+			],
+			"predecessor-version": [
+				{
+					"id": 1303,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages\/1302\/revisions\/1303"
+				}
+			],
+			"wp:attachment": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/media?parent=1302"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "wf_page_folders",
+					"embeddable": true,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/wf_page_folders?post=1302"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https:\/\/api.w.org\/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 1300,
+		"date": "2018-09-24T23:39:25",
+		"date_gmt": "2018-09-24T23:39:25",
+		"guid": {
+			"rendered": "http:\/\/account.6icatalyst.com\/api\/?page_id=1300"
+		},
+		"modified": "2018-10-26T16:28:49",
+		"modified_gmt": "2018-10-26T16:28:49",
+		"slug": "popover-id-enroll-step-6-render",
+		"status": "publish",
+		"type": "page",
+		"link": "http:\/\/account.6icatalyst.com\/api\/popover-id-enroll-step-6-render\/",
+		"title": {
+			"rendered": "enroll step 6 render id"
+		},
+		"content": {
+			"rendered": "<ul>\n<li>I will call and give a progress report to my upline leader every Friday at 10 a.m.<\/li>\n<li>I will prepare a list of items to report so I communicate more rather than less about what I am achieving.<\/li>\n<li>In my weekly reports, I will prioritize what I want to report so I can spend more time on what is most important to me.<\/li>\n<li>I will ask my team to report to me every Tuesday by 9:00 p.m.<\/li>\n<\/ul>\n",
+			"protected": false
+		},
+		"excerpt": {
+			"rendered": "<p>I will call and give a progress report to my upline leader every Friday at 10 a.m. I will prepare a list of items to report so I communicate more rather than less about what I am achieving. In my weekly reports, I will prioritize what I want to report so I can spend more &hellip; <\/p>\n<p class=\"link-more\"><a href=\"http:\/\/account.6icatalyst.com\/api\/popover-id-enroll-step-6-render\/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> &#8220;enroll step 6 render id&#8221;<\/span><\/a><\/p>\n",
+			"protected": false
+		},
+		"author": 4,
+		"featured_media": 0,
+		"parent": 0,
+		"menu_order": 0,
+		"comment_status": "closed",
+		"ping_status": "closed",
+		"template": "",
+		"meta": [],
+		"wf_page_folders": [
+			22
+		],
+		"_links": {
+			"self": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages\/1300"
+				}
+			],
+			"collection": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages"
+				}
+			],
+			"about": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/types\/page"
+				}
+			],
+			"author": [
+				{
+					"embeddable": true,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/users\/4"
+				}
+			],
+			"replies": [
+				{
+					"embeddable": true,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/comments?post=1300"
+				}
+			],
+			"version-history": [
+				{
+					"count": 3,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages\/1300\/revisions"
+				}
+			],
+			"predecessor-version": [
+				{
+					"id": 1563,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages\/1300\/revisions\/1563"
+				}
+			],
+			"wp:attachment": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/media?parent=1300"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "wf_page_folders",
+					"embeddable": true,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/wf_page_folders?post=1300"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https:\/\/api.w.org\/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 1298,
+		"date": "2018-09-24T22:56:30",
+		"date_gmt": "2018-09-24T22:56:30",
+		"guid": {
+			"rendered": "http:\/\/account.6icatalyst.com\/api\/?page_id=1298"
+		},
+		"modified": "2018-10-26T16:21:15",
+		"modified_gmt": "2018-10-26T16:21:15",
+		"slug": "popover-dq-enroll-step-6",
+		"status": "publish",
+		"type": "page",
+		"link": "http:\/\/account.6icatalyst.com\/api\/popover-dq-enroll-step-6\/",
+		"title": {
+			"rendered": "enroll step 6 dq"
+		},
+		"content": {
+			"rendered": "<ul>\n<li>What information do you want from people who report to you?<\/li>\n<li>How and when do you intend to obtain this information?<\/li>\n<li>Have you made it clear to others what you want?<\/li>\n<li>How timely are you reporting your progress?<\/li>\n<li>How timely are you getting reports from your downline?<\/li>\n<li>What kind and frequency of reporting have worked well?<\/li>\n<li>What can you do to create more excitement about reporting to make it fun?<\/li>\n<\/ul>\n",
+			"protected": false
+		},
+		"excerpt": {
+			"rendered": "<p>What information do you want from people who report to you? How and when do you intend to obtain this information? Have you made it clear to others what you want? How timely are you reporting your progress? How timely are you getting reports from your downline? What kind and frequency of reporting have worked &hellip; <\/p>\n<p class=\"link-more\"><a href=\"http:\/\/account.6icatalyst.com\/api\/popover-dq-enroll-step-6\/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> &#8220;enroll step 6 dq&#8221;<\/span><\/a><\/p>\n",
+			"protected": false
+		},
+		"author": 4,
+		"featured_media": 0,
+		"parent": 0,
+		"menu_order": 0,
+		"comment_status": "closed",
+		"ping_status": "closed",
+		"template": "",
+		"meta": [],
+		"wf_page_folders": [
+			21
+		],
+		"_links": {
+			"self": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages\/1298"
+				}
+			],
+			"collection": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages"
+				}
+			],
+			"about": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/types\/page"
+				}
+			],
+			"author": [
+				{
+					"embeddable": true,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/users\/4"
+				}
+			],
+			"replies": [
+				{
+					"embeddable": true,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/comments?post=1298"
+				}
+			],
+			"version-history": [
+				{
+					"count": 1,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages\/1298\/revisions"
+				}
+			],
+			"predecessor-version": [
+				{
+					"id": 1299,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages\/1298\/revisions\/1299"
+				}
+			],
+			"wp:attachment": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/media?parent=1298"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "wf_page_folders",
+					"embeddable": true,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/wf_page_folders?post=1298"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https:\/\/api.w.org\/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 1296,
+		"date": "2018-09-24T22:42:04",
+		"date_gmt": "2018-09-24T22:42:04",
+		"guid": {
+			"rendered": "http:\/\/account.6icatalyst.com\/api\/?page_id=1296"
+		},
+		"modified": "2018-10-26T16:17:21",
+		"modified_gmt": "2018-10-26T16:17:21",
+		"slug": "popover-id-enroll-step-6-measure",
+		"status": "publish",
+		"type": "page",
+		"link": "http:\/\/account.6icatalyst.com\/api\/popover-id-enroll-step-6-measure\/",
+		"title": {
+			"rendered": "enroll step 6 measure id"
+		},
+		"content": {
+			"rendered": "<ul>\n<li>Every Tuesday, I will measure how many enrollments come from referrals and total it up for the month.<\/li>\n<li>I will measure how many people view my social media posts each week and compare that with how many people attend my classes and then enroll.<\/li>\n<li>I will measure how many personal conversations I have with class attendees that result in enrollments this month.<\/li>\n<li>I will measure the number and type of messages I send advertising classes and then measure attendance.<\/li>\n<\/ul>\n",
+			"protected": false
+		},
+		"excerpt": {
+			"rendered": "<p>Every Tuesday, I will measure how many enrollments come from referrals and total it up for the month. I will measure how many people view my social media posts each week and compare that with how many people attend my classes and then enroll. I will measure how many personal conversations I have with class &hellip; <\/p>\n<p class=\"link-more\"><a href=\"http:\/\/account.6icatalyst.com\/api\/popover-id-enroll-step-6-measure\/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> &#8220;enroll step 6 measure id&#8221;<\/span><\/a><\/p>\n",
+			"protected": false
+		},
+		"author": 4,
+		"featured_media": 0,
+		"parent": 0,
+		"menu_order": 0,
+		"comment_status": "closed",
+		"ping_status": "closed",
+		"template": "",
+		"meta": [],
+		"wf_page_folders": [
+			22
+		],
+		"_links": {
+			"self": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages\/1296"
+				}
+			],
+			"collection": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages"
+				}
+			],
+			"about": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/types\/page"
+				}
+			],
+			"author": [
+				{
+					"embeddable": true,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/users\/4"
+				}
+			],
+			"replies": [
+				{
+					"embeddable": true,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/comments?post=1296"
+				}
+			],
+			"version-history": [
+				{
+					"count": 1,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages\/1296\/revisions"
+				}
+			],
+			"predecessor-version": [
+				{
+					"id": 1297,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages\/1296\/revisions\/1297"
+				}
+			],
+			"wp:attachment": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/media?parent=1296"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "wf_page_folders",
+					"embeddable": true,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/wf_page_folders?post=1296"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https:\/\/api.w.org\/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 1294,
+		"date": "2018-09-24T17:44:50",
+		"date_gmt": "2018-09-24T17:44:50",
+		"guid": {
+			"rendered": "http:\/\/account.6icatalyst.com\/api\/?page_id=1294"
+		},
+		"modified": "2018-10-26T16:12:53",
+		"modified_gmt": "2018-10-26T16:12:53",
+		"slug": "popover-id-enroll-step-5",
+		"status": "publish",
+		"type": "page",
+		"link": "http:\/\/account.6icatalyst.com\/api\/popover-id-enroll-step-5\/",
+		"title": {
+			"rendered": "enroll step 5 id"
+		},
+		"content": {
+			"rendered": "<ul>\n<li>I will research different network marketing companies and see what others do to enroll people.<\/li>\n<li>I will call and talk with five successful upline leaders and ask for new ideas.<\/li>\n<li>I will review five situations where people enroll to see which is the most effective.<\/li>\n<li>I will research what motivates people to start a new business.<\/li>\n<li>I will read about better listening skills so I can better help potential enrollees with what they need.<\/li>\n<li>I will be confident and improve my leadership abilities so people feel like they can rely on me and create a successful business working with me.<\/li>\n<\/ul>\n",
+			"protected": false
+		},
+		"excerpt": {
+			"rendered": "<p>I will research different network marketing companies and see what others do to enroll people. I will call and talk with five successful upline leaders and ask for new ideas. I will review five situations where people enroll to see which is the most effective. I will research what motivates people to start a new &hellip; <\/p>\n<p class=\"link-more\"><a href=\"http:\/\/account.6icatalyst.com\/api\/popover-id-enroll-step-5\/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> &#8220;enroll step 5 id&#8221;<\/span><\/a><\/p>\n",
+			"protected": false
+		},
+		"author": 4,
+		"featured_media": 0,
+		"parent": 0,
+		"menu_order": 0,
+		"comment_status": "closed",
+		"ping_status": "closed",
+		"template": "",
+		"meta": [],
+		"wf_page_folders": [
+			22
+		],
+		"_links": {
+			"self": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages\/1294"
+				}
+			],
+			"collection": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages"
+				}
+			],
+			"about": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/types\/page"
+				}
+			],
+			"author": [
+				{
+					"embeddable": true,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/users\/4"
+				}
+			],
+			"replies": [
+				{
+					"embeddable": true,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/comments?post=1294"
+				}
+			],
+			"version-history": [
+				{
+					"count": 1,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages\/1294\/revisions"
+				}
+			],
+			"predecessor-version": [
+				{
+					"id": 1295,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages\/1294\/revisions\/1295"
+				}
+			],
+			"wp:attachment": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/media?parent=1294"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "wf_page_folders",
+					"embeddable": true,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/wf_page_folders?post=1294"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https:\/\/api.w.org\/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 1292,
+		"date": "2018-09-24T17:42:08",
+		"date_gmt": "2018-09-24T17:42:08",
+		"guid": {
+			"rendered": "http:\/\/account.6icatalyst.com\/api\/?page_id=1292"
+		},
+		"modified": "2018-10-26T16:04:12",
+		"modified_gmt": "2018-10-26T16:04:12",
+		"slug": "popover-dq-enroll-step-5",
+		"status": "publish",
+		"type": "page",
+		"link": "http:\/\/account.6icatalyst.com\/api\/popover-dq-enroll-step-5\/",
+		"title": {
+			"rendered": "enroll step 5 dq"
+		},
+		"content": {
+			"rendered": "<ul>\n<li>What new methods do you need to learn about so you can enroll more people<\/li>\n<li>What do you need to know about people and their needs and motivations?<\/li>\n<li>What new skills do you need to improve on that will give you the competence to enroll more people? (e.g., time management, planning, communication, collaboration, problem solving, networking, technology, etc.)<\/li>\n<li>Are there ways you can care more about other people and their needs so you can help them choose the level of participation that will be best for them?<\/li>\n<\/ul>\n",
+			"protected": false
+		},
+		"excerpt": {
+			"rendered": "<p>What new methods do you need to learn about so you can enroll more people What do you need to know about people and their needs and motivations? What new skills do you need to improve on that will give you the competence to enroll more people? (e.g., time management, planning, communication, collaboration, problem solving, &hellip; <\/p>\n<p class=\"link-more\"><a href=\"http:\/\/account.6icatalyst.com\/api\/popover-dq-enroll-step-5\/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> &#8220;enroll step 5 dq&#8221;<\/span><\/a><\/p>\n",
+			"protected": false
+		},
+		"author": 4,
+		"featured_media": 0,
+		"parent": 0,
+		"menu_order": 0,
+		"comment_status": "closed",
+		"ping_status": "closed",
+		"template": "",
+		"meta": [],
+		"wf_page_folders": [
+			21
+		],
+		"_links": {
+			"self": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages\/1292"
+				}
+			],
+			"collection": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages"
+				}
+			],
+			"about": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/types\/page"
+				}
+			],
+			"author": [
+				{
+					"embeddable": true,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/users\/4"
+				}
+			],
+			"replies": [
+				{
+					"embeddable": true,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/comments?post=1292"
+				}
+			],
+			"version-history": [
+				{
+					"count": 1,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages\/1292\/revisions"
+				}
+			],
+			"predecessor-version": [
+				{
+					"id": 1293,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages\/1292\/revisions\/1293"
+				}
+			],
+			"wp:attachment": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/media?parent=1292"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "wf_page_folders",
+					"embeddable": true,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/wf_page_folders?post=1292"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https:\/\/api.w.org\/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 1290,
+		"date": "2018-09-24T17:22:04",
+		"date_gmt": "2018-09-24T17:22:04",
+		"guid": {
+			"rendered": "http:\/\/account.6icatalyst.com\/api\/?page_id=1290"
+		},
+		"modified": "2018-10-26T16:00:13",
+		"modified_gmt": "2018-10-26T16:00:13",
+		"slug": "popover-id-enroll-step-4",
+		"status": "publish",
+		"type": "page",
+		"link": "http:\/\/account.6icatalyst.com\/api\/popover-id-enroll-step-4\/",
+		"title": {
+			"rendered": "enroll step 4 id"
+		},
+		"content": {
+			"rendered": "<p><strong>Ally:<\/strong> natural remedy bloggers<br \/>\n<strong>How I will help this ally:<\/strong> I will provide samples for these bloggers to test and blog about.<br \/>\n<strong>How this ally will help me:<\/strong> They will blog about the products and refer interested customers to me.<\/p>\n<p><strong>Ally:<\/strong> entrepreneur\/work-from-home bloggers<br \/>\n<strong>How I will help this ally:<\/strong> I will provide content containing research, experiences, and testimonials the bloggers can use to blog about the business.<br \/>\n<strong>How this ally will help me:<\/strong> They will blog about what I do and refer interested people to my sites.<\/p>\n<p><strong>Ally:<\/strong> my upline leader<br \/>\n<strong>How I will help this ally:<\/strong> I will do some social media posts for my leader, highlighting new products.<br \/>\n<strong>How this ally will help me:<\/strong> My upline leader will teach me her strategies for enrolling people.<\/p>\n<p><strong>Ally:<\/strong> health food stores<br \/>\n<strong>How I will help this ally:<\/strong> I will provide samples, info sheets, and products for these stores to sell.<br \/>\n<strong>How this ally will help me:<\/strong> These stores will refer people to my website.<\/p>\n",
+			"protected": false
+		},
+		"excerpt": {
+			"rendered": "<p>Ally: natural remedy bloggers How I will help this ally: I will provide samples for these bloggers to test and blog about. How this ally will help me: They will blog about the products and refer interested customers to me. Ally: entrepreneur\/work-from-home bloggers How I will help this ally: I will provide content containing research, &hellip; <\/p>\n<p class=\"link-more\"><a href=\"http:\/\/account.6icatalyst.com\/api\/popover-id-enroll-step-4\/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> &#8220;enroll step 4 id&#8221;<\/span><\/a><\/p>\n",
+			"protected": false
+		},
+		"author": 4,
+		"featured_media": 0,
+		"parent": 0,
+		"menu_order": 0,
+		"comment_status": "closed",
+		"ping_status": "closed",
+		"template": "",
+		"meta": [],
+		"wf_page_folders": [
+			22
+		],
+		"_links": {
+			"self": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages\/1290"
+				}
+			],
+			"collection": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages"
+				}
+			],
+			"about": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/types\/page"
+				}
+			],
+			"author": [
+				{
+					"embeddable": true,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/users\/4"
+				}
+			],
+			"replies": [
+				{
+					"embeddable": true,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/comments?post=1290"
+				}
+			],
+			"version-history": [
+				{
+					"count": 1,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages\/1290\/revisions"
+				}
+			],
+			"predecessor-version": [
+				{
+					"id": 1291,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages\/1290\/revisions\/1291"
+				}
+			],
+			"wp:attachment": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/media?parent=1290"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "wf_page_folders",
+					"embeddable": true,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/wf_page_folders?post=1290"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https:\/\/api.w.org\/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 1288,
+		"date": "2018-09-24T17:16:20",
+		"date_gmt": "2018-09-24T17:16:20",
+		"guid": {
+			"rendered": "http:\/\/account.6icatalyst.com\/api\/?page_id=1288"
+		},
+		"modified": "2018-10-26T15:52:21",
+		"modified_gmt": "2018-10-26T15:52:21",
+		"slug": "popover-dq-enroll-step-4",
+		"status": "publish",
+		"type": "page",
+		"link": "http:\/\/account.6icatalyst.com\/api\/popover-dq-enroll-step-4\/",
+		"title": {
+			"rendered": "enroll step 4 dq"
+		},
+		"content": {
+			"rendered": "<ul>\n<li>What methods to enroll people currently work the best for you?<\/li>\n<li>How well do you meet people and create rapport with them?<\/li>\n<li>How well are your classes organized in terms of meeting people and helping them see the benefits of enrolling as builders?<\/li>\n<li>How many people join your team when you contact them and individually communicate with them?<\/li>\n<li>What methods do other people use to enroll more people?<\/li>\n<li>What process would you go through to find and contact others who successfully enroll others?<\/li>\n<\/ul>\n",
+			"protected": false
+		},
+		"excerpt": {
+			"rendered": "<p>What methods to enroll people currently work the best for you? How well do you meet people and create rapport with them? How well are your classes organized in terms of meeting people and helping them see the benefits of enrolling as builders? How many people join your team when you contact them and individually &hellip; <\/p>\n<p class=\"link-more\"><a href=\"http:\/\/account.6icatalyst.com\/api\/popover-dq-enroll-step-4\/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> &#8220;enroll step 4 dq&#8221;<\/span><\/a><\/p>\n",
+			"protected": false
+		},
+		"author": 4,
+		"featured_media": 0,
+		"parent": 0,
+		"menu_order": 0,
+		"comment_status": "closed",
+		"ping_status": "closed",
+		"template": "",
+		"meta": [],
+		"wf_page_folders": [
+			21
+		],
+		"_links": {
+			"self": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages\/1288"
+				}
+			],
+			"collection": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages"
+				}
+			],
+			"about": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/types\/page"
+				}
+			],
+			"author": [
+				{
+					"embeddable": true,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/users\/4"
+				}
+			],
+			"replies": [
+				{
+					"embeddable": true,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/comments?post=1288"
+				}
+			],
+			"version-history": [
+				{
+					"count": 1,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages\/1288\/revisions"
+				}
+			],
+			"predecessor-version": [
+				{
+					"id": 1289,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages\/1288\/revisions\/1289"
+				}
+			],
+			"wp:attachment": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/media?parent=1288"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "wf_page_folders",
+					"embeddable": true,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/wf_page_folders?post=1288"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https:\/\/api.w.org\/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 1286,
+		"date": "2018-09-24T17:04:50",
+		"date_gmt": "2018-09-24T17:04:50",
+		"guid": {
+			"rendered": "http:\/\/account.6icatalyst.com\/api\/?page_id=1286"
+		},
+		"modified": "2018-10-26T15:48:46",
+		"modified_gmt": "2018-10-26T15:48:46",
+		"slug": "popover-id-enroll-step-3-10-day",
+		"status": "publish",
+		"type": "page",
+		"link": "http:\/\/account.6icatalyst.com\/api\/popover-id-enroll-step-3-10-day\/",
+		"title": {
+			"rendered": "enroll step 3 id 10-day"
+		},
+		"content": {
+			"rendered": "<ul>\n<li>Complete each daily success habit (calls, follow ups, etc.) and reward myself when complete.<\/li>\n<li>Learn and share one new \u201cbest practice\u201d for enrolling during weekly calls with leaders.<\/li>\n<li>Create a team web\/social media page that focuses on enrollment best practices.<\/li>\n<li>Put \u201cEnroll More People\u201d on each weekly call agenda with leaders, and talk specifically about strategy.<\/li>\n<li>Review progress of my strategy every week.<\/li>\n<li>Align myself with the leaders who are best at enrolling, and organize a system where I can help them and in return learn from them.<\/li>\n<li>Take 30 minutes each day to learn a new technology: video, social media, internet marketing, etc.<\/li>\n<li>Review and make adjustments to my presentation: products and how presented, kits vs. individual products, closing, etc.<\/li>\n<\/ul>\n",
+			"protected": false
+		},
+		"excerpt": {
+			"rendered": "<p>Complete each daily success habit (calls, follow ups, etc.) and reward myself when complete. Learn and share one new \u201cbest practice\u201d for enrolling during weekly calls with leaders. Create a team web\/social media page that focuses on enrollment best practices. Put \u201cEnroll More People\u201d on each weekly call agenda with leaders, and talk specifically about &hellip; <\/p>\n<p class=\"link-more\"><a href=\"http:\/\/account.6icatalyst.com\/api\/popover-id-enroll-step-3-10-day\/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> &#8220;enroll step 3 id 10-day&#8221;<\/span><\/a><\/p>\n",
+			"protected": false
+		},
+		"author": 4,
+		"featured_media": 0,
+		"parent": 0,
+		"menu_order": 0,
+		"comment_status": "closed",
+		"ping_status": "closed",
+		"template": "",
+		"meta": [],
+		"wf_page_folders": [
+			22
+		],
+		"_links": {
+			"self": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages\/1286"
+				}
+			],
+			"collection": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages"
+				}
+			],
+			"about": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/types\/page"
+				}
+			],
+			"author": [
+				{
+					"embeddable": true,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/users\/4"
+				}
+			],
+			"replies": [
+				{
+					"embeddable": true,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/comments?post=1286"
+				}
+			],
+			"version-history": [
+				{
+					"count": 1,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages\/1286\/revisions"
+				}
+			],
+			"predecessor-version": [
+				{
+					"id": 1287,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages\/1286\/revisions\/1287"
+				}
+			],
+			"wp:attachment": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/media?parent=1286"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "wf_page_folders",
+					"embeddable": true,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/wf_page_folders?post=1286"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https:\/\/api.w.org\/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 1284,
+		"date": "2018-09-24T16:52:47",
+		"date_gmt": "2018-09-24T16:52:47",
+		"guid": {
+			"rendered": "http:\/\/account.6icatalyst.com\/api\/?page_id=1284"
+		},
+		"modified": "2018-10-26T15:47:00",
+		"modified_gmt": "2018-10-26T15:47:00",
+		"slug": "popover-id-enroll-step-3-spend-30",
+		"status": "publish",
+		"type": "page",
+		"link": "http:\/\/account.6icatalyst.com\/api\/popover-id-enroll-step-3-spend-30\/",
+		"title": {
+			"rendered": "enroll step 3 id spend 30"
+		},
+		"content": {
+			"rendered": "<ul>\n<li>I will spend 30 minutes every Monday reviewing my progress specific to enrollments.<\/li>\n<li>I will spend 1 hour each week identifying and studying others\u2019 successful methods.<\/li>\n<li>I will spend $100 to reward the person on my team with the most new enrollments in a month.<\/li>\n<li>I will use regular newsletters, email, etc. to share my discoveries with my teams and ask for their discoveries that I can share with others.<\/li>\n<\/ul>\n",
+			"protected": false
+		},
+		"excerpt": {
+			"rendered": "<p>I will spend 30 minutes every Monday reviewing my progress specific to enrollments. I will spend 1 hour each week identifying and studying others\u2019 successful methods. I will spend $100 to reward the person on my team with the most new enrollments in a month. I will use regular newsletters, email, etc. to share my &hellip; <\/p>\n<p class=\"link-more\"><a href=\"http:\/\/account.6icatalyst.com\/api\/popover-id-enroll-step-3-spend-30\/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> &#8220;enroll step 3 id spend 30&#8221;<\/span><\/a><\/p>\n",
+			"protected": false
+		},
+		"author": 4,
+		"featured_media": 0,
+		"parent": 0,
+		"menu_order": 0,
+		"comment_status": "closed",
+		"ping_status": "closed",
+		"template": "",
+		"meta": [],
+		"wf_page_folders": [
+			22
+		],
+		"_links": {
+			"self": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages\/1284"
+				}
+			],
+			"collection": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages"
+				}
+			],
+			"about": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/types\/page"
+				}
+			],
+			"author": [
+				{
+					"embeddable": true,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/users\/4"
+				}
+			],
+			"replies": [
+				{
+					"embeddable": true,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/comments?post=1284"
+				}
+			],
+			"version-history": [
+				{
+					"count": 1,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages\/1284\/revisions"
+				}
+			],
+			"predecessor-version": [
+				{
+					"id": 1285,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages\/1284\/revisions\/1285"
+				}
+			],
+			"wp:attachment": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/media?parent=1284"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "wf_page_folders",
+					"embeddable": true,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/wf_page_folders?post=1284"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https:\/\/api.w.org\/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 1281,
+		"date": "2018-09-24T16:41:28",
+		"date_gmt": "2018-09-24T16:41:28",
+		"guid": {
+			"rendered": "http:\/\/account.6icatalyst.com\/api\/?page_id=1281"
+		},
+		"modified": "2018-10-26T15:41:00",
+		"modified_gmt": "2018-10-26T15:41:00",
+		"slug": "popover-id-enroll-step-3-ideas",
+		"status": "publish",
+		"type": "page",
+		"link": "http:\/\/account.6icatalyst.com\/api\/popover-id-enroll-step-3-ideas\/",
+		"title": {
+			"rendered": "enroll step 3 ideas"
+		},
+		"content": {
+			"rendered": "<ul>\n<li>I will learn from other teams, leaders, and trainings and make two improvements to how I approach people to enroll.<\/li>\n<li>I will hold more classes this month.<\/li>\n<li>I will spend more time with each individual at my classes and thoroughly explain the benefits of enrolling.<\/li>\n<li>I will research my best weeks\/months for enrollments and identify trends in season, product, location, classes, internet, social media, etc.<\/li>\n<\/ul>\n",
+			"protected": false
+		},
+		"excerpt": {
+			"rendered": "<p>I will learn from other teams, leaders, and trainings and make two improvements to how I approach people to enroll. I will hold more classes this month. I will spend more time with each individual at my classes and thoroughly explain the benefits of enrolling. I will research my best weeks\/months for enrollments and identify &hellip; <\/p>\n<p class=\"link-more\"><a href=\"http:\/\/account.6icatalyst.com\/api\/popover-id-enroll-step-3-ideas\/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> &#8220;enroll step 3 ideas&#8221;<\/span><\/a><\/p>\n",
+			"protected": false
+		},
+		"author": 4,
+		"featured_media": 0,
+		"parent": 0,
+		"menu_order": 0,
+		"comment_status": "closed",
+		"ping_status": "closed",
+		"template": "",
+		"meta": [],
+		"wf_page_folders": [
+			22
+		],
+		"_links": {
+			"self": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages\/1281"
+				}
+			],
+			"collection": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages"
+				}
+			],
+			"about": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/types\/page"
+				}
+			],
+			"author": [
+				{
+					"embeddable": true,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/users\/4"
+				}
+			],
+			"replies": [
+				{
+					"embeddable": true,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/comments?post=1281"
+				}
+			],
+			"version-history": [
+				{
+					"count": 1,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages\/1281\/revisions"
+				}
+			],
+			"predecessor-version": [
+				{
+					"id": 1282,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages\/1281\/revisions\/1282"
+				}
+			],
+			"wp:attachment": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/media?parent=1281"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "wf_page_folders",
+					"embeddable": true,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/wf_page_folders?post=1281"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https:\/\/api.w.org\/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 1279,
+		"date": "2018-09-24T16:34:02",
+		"date_gmt": "2018-09-24T16:34:02",
+		"guid": {
+			"rendered": "http:\/\/account.6icatalyst.com\/api\/?page_id=1279"
+		},
+		"modified": "2018-10-26T15:35:47",
+		"modified_gmt": "2018-10-26T15:35:47",
+		"slug": "popover-dq-enroll-step-3",
+		"status": "publish",
+		"type": "page",
+		"link": "http:\/\/account.6icatalyst.com\/api\/popover-dq-enroll-step-3\/",
+		"title": {
+			"rendered": "enroll step 3 dq"
+		},
+		"content": {
+			"rendered": "<ul>\n<li>Have you identified the most successful and most unsuccessful methods you and other people have used to enroll people?<\/li>\n<li>Do you promise prospective enrollees that they will be well trained and mentored if they enroll?<\/li>\n<li>Do you plan on introducing people to the 6i Catalyst app so they can start off building more successfully?<\/li>\n<li>What three or four tasks are essential for you to successfully enroll people? (e.g., holding more classes, spending time with each individual, explaining financial benefits, telling of sharing opportunities, etc.)<\/li>\n<\/ul>\n",
+			"protected": false
+		},
+		"excerpt": {
+			"rendered": "<p>Have you identified the most successful and most unsuccessful methods you and other people have used to enroll people? Do you promise prospective enrollees that they will be well trained and mentored if they enroll? Do you plan on introducing people to the 6i Catalyst app so they can start off building more successfully? What &hellip; <\/p>\n<p class=\"link-more\"><a href=\"http:\/\/account.6icatalyst.com\/api\/popover-dq-enroll-step-3\/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> &#8220;enroll step 3 dq&#8221;<\/span><\/a><\/p>\n",
+			"protected": false
+		},
+		"author": 4,
+		"featured_media": 0,
+		"parent": 0,
+		"menu_order": 0,
+		"comment_status": "closed",
+		"ping_status": "closed",
+		"template": "",
+		"meta": [],
+		"wf_page_folders": [
+			21
+		],
+		"_links": {
+			"self": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages\/1279"
+				}
+			],
+			"collection": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages"
+				}
+			],
+			"about": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/types\/page"
+				}
+			],
+			"author": [
+				{
+					"embeddable": true,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/users\/4"
+				}
+			],
+			"replies": [
+				{
+					"embeddable": true,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/comments?post=1279"
+				}
+			],
+			"version-history": [
+				{
+					"count": 1,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages\/1279\/revisions"
+				}
+			],
+			"predecessor-version": [
+				{
+					"id": 1280,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages\/1279\/revisions\/1280"
+				}
+			],
+			"wp:attachment": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/media?parent=1279"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "wf_page_folders",
+					"embeddable": true,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/wf_page_folders?post=1279"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https:\/\/api.w.org\/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 1276,
+		"date": "2018-09-24T15:33:57",
+		"date_gmt": "2018-09-24T15:33:57",
+		"guid": {
+			"rendered": "http:\/\/account.6icatalyst.com\/api\/?page_id=1276"
+		},
+		"modified": "2018-10-26T15:30:22",
+		"modified_gmt": "2018-10-26T15:30:22",
+		"slug": "popover-id-enroll-step-2",
+		"status": "publish",
+		"type": "page",
+		"link": "http:\/\/account.6icatalyst.com\/api\/popover-id-enroll-step-2\/",
+		"title": {
+			"rendered": "enroll step 2 ID"
+		},
+		"content": {
+			"rendered": "<ul>\n<li>I will use the internet to enroll ten people this month.<\/li>\n<li>I will use a referral system to find twenty people who will be interested in enrolling.<\/li>\n<li>I will enroll and effectively train twenty people this month.<\/li>\n<li>I will enroll more people this month than I did last month.<\/li>\n<li>I will enroll fifteen people who are interested in health care this month.<\/li>\n<li>I will enroll ten people this month who are motivated to start their own business.<\/li>\n<li>I will enroll five people this month who are motivated to help other people.<\/li>\n<\/ul>\n",
+			"protected": false
+		},
+		"excerpt": {
+			"rendered": "<p>I will use the internet to enroll ten people this month. I will use a referral system to find twenty people who will be interested in enrolling. I will enroll and effectively train twenty people this month. I will enroll more people this month than I did last month. I will enroll fifteen people who &hellip; <\/p>\n<p class=\"link-more\"><a href=\"http:\/\/account.6icatalyst.com\/api\/popover-id-enroll-step-2\/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> &#8220;enroll step 2 ID&#8221;<\/span><\/a><\/p>\n",
+			"protected": false
+		},
+		"author": 4,
+		"featured_media": 0,
+		"parent": 0,
+		"menu_order": 0,
+		"comment_status": "closed",
+		"ping_status": "closed",
+		"template": "",
+		"meta": [],
+		"wf_page_folders": [
+			22
+		],
+		"_links": {
+			"self": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages\/1276"
+				}
+			],
+			"collection": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages"
+				}
+			],
+			"about": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/types\/page"
+				}
+			],
+			"author": [
+				{
+					"embeddable": true,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/users\/4"
+				}
+			],
+			"replies": [
+				{
+					"embeddable": true,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/comments?post=1276"
+				}
+			],
+			"version-history": [
+				{
+					"count": 1,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages\/1276\/revisions"
+				}
+			],
+			"predecessor-version": [
+				{
+					"id": 1277,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages\/1276\/revisions\/1277"
+				}
+			],
+			"wp:attachment": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/media?parent=1276"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "wf_page_folders",
+					"embeddable": true,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/wf_page_folders?post=1276"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https:\/\/api.w.org\/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 1273,
+		"date": "2018-09-21T17:58:14",
+		"date_gmt": "2018-09-21T17:58:14",
+		"guid": {
+			"rendered": "http:\/\/account.6icatalyst.com\/api\/?page_id=1273"
+		},
+		"modified": "2018-10-26T15:18:04",
+		"modified_gmt": "2018-10-26T15:18:04",
+		"slug": "popover-dq-enroll-step-2",
+		"status": "publish",
+		"type": "page",
+		"link": "http:\/\/account.6icatalyst.com\/api\/popover-dq-enroll-step-2\/",
+		"title": {
+			"rendered": "enroll step 2 dq"
+		},
+		"content": {
+			"rendered": "<ul>\n<li>What do you currently know and do about increasing enrollment?<\/li>\n<li>What have you done to create a class that results in enrolling more people?<\/li>\n<li>In addition to classes, what other methods can be used to enroll more people?<\/li>\n<li>What have you seen others do to increase enrollments?<\/li>\n<li>Have you used social media and your website to enroll people?<\/li>\n<li>Do you advertise that, when people enroll, they will also be well trained?<\/li>\n<li>Do you ask for referrals from people you meet?<\/li>\n<li>Do you emphasize the importance and effectiveness of health care when seeking to enroll people?<\/li>\n<li>Do you track where your new enrollees come from so you can identify the strongest sources and spend more time on those methods?<\/li>\n<\/ul>\n",
+			"protected": false
+		},
+		"excerpt": {
+			"rendered": "<p>What do you currently know and do about increasing enrollment? What have you done to create a class that results in enrolling more people? In addition to classes, what other methods can be used to enroll more people? What have you seen others do to increase enrollments? Have you used social media and your website &hellip; <\/p>\n<p class=\"link-more\"><a href=\"http:\/\/account.6icatalyst.com\/api\/popover-dq-enroll-step-2\/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> &#8220;enroll step 2 dq&#8221;<\/span><\/a><\/p>\n",
+			"protected": false
+		},
+		"author": 4,
+		"featured_media": 0,
+		"parent": 0,
+		"menu_order": 0,
+		"comment_status": "closed",
+		"ping_status": "closed",
+		"template": "",
+		"meta": [],
+		"wf_page_folders": [
+			21
+		],
+		"_links": {
+			"self": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages\/1273"
+				}
+			],
+			"collection": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages"
+				}
+			],
+			"about": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/types\/page"
+				}
+			],
+			"author": [
+				{
+					"embeddable": true,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/users\/4"
+				}
+			],
+			"replies": [
+				{
+					"embeddable": true,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/comments?post=1273"
+				}
+			],
+			"version-history": [
+				{
+					"count": 1,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages\/1273\/revisions"
+				}
+			],
+			"predecessor-version": [
+				{
+					"id": 1274,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages\/1273\/revisions\/1274"
+				}
+			],
+			"wp:attachment": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/media?parent=1273"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "wf_page_folders",
+					"embeddable": true,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/wf_page_folders?post=1273"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https:\/\/api.w.org\/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 1271,
+		"date": "2018-09-21T16:34:09",
+		"date_gmt": "2018-09-21T16:34:09",
+		"guid": {
+			"rendered": "http:\/\/account.6icatalyst.com\/api\/?page_id=1271"
+		},
+		"modified": "2018-10-26T15:11:10",
+		"modified_gmt": "2018-10-26T15:11:10",
+		"slug": "popover-id-enroll-step-1",
+		"status": "publish",
+		"type": "page",
+		"link": "http:\/\/account.6icatalyst.com\/api\/popover-id-enroll-step-1\/",
+		"title": {
+			"rendered": "enroll-step 1-ID"
+		},
+		"content": {
+			"rendered": "<ul>\n<li>I will make sure I promise what can actually be delivered.<\/li>\n<li>I will honestly describe the benefits of the products and the business.<\/li>\n<li>I will tell true accounts of people\u2019s success.<\/li>\n<li>I will start conversations with people and listen attentively to their ideas.<\/li>\n<li>I will tell about the stability and cultural values of my company.<\/li>\n<li>I will explain that building and maintaining trust is one of the cornerstones of my business.<\/li>\n<li>I will explain the training and support that new people can receive.<\/li>\n<li>I will be a reliable leader who follows through with what I say I will do.<\/li>\n<li>I will refer people to the 6i Catalyst app as an example of the resources available.<\/li>\n<\/ul>\n",
+			"protected": false
+		},
+		"excerpt": {
+			"rendered": "<p>I will make sure I promise what can actually be delivered. I will honestly describe the benefits of the products and the business. I will tell true accounts of people\u2019s success. I will start conversations with people and listen attentively to their ideas. I will tell about the stability and cultural values of my company. &hellip; <\/p>\n<p class=\"link-more\"><a href=\"http:\/\/account.6icatalyst.com\/api\/popover-id-enroll-step-1\/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> &#8220;enroll-step 1-ID&#8221;<\/span><\/a><\/p>\n",
+			"protected": false
+		},
+		"author": 4,
+		"featured_media": 0,
+		"parent": 0,
+		"menu_order": 0,
+		"comment_status": "closed",
+		"ping_status": "closed",
+		"template": "",
+		"meta": [],
+		"wf_page_folders": [
+			22
+		],
+		"_links": {
+			"self": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages\/1271"
+				}
+			],
+			"collection": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages"
+				}
+			],
+			"about": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/types\/page"
+				}
+			],
+			"author": [
+				{
+					"embeddable": true,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/users\/4"
+				}
+			],
+			"replies": [
+				{
+					"embeddable": true,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/comments?post=1271"
+				}
+			],
+			"version-history": [
+				{
+					"count": 1,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages\/1271\/revisions"
+				}
+			],
+			"predecessor-version": [
+				{
+					"id": 1272,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages\/1271\/revisions\/1272"
+				}
+			],
+			"wp:attachment": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/media?parent=1271"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "wf_page_folders",
+					"embeddable": true,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/wf_page_folders?post=1271"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https:\/\/api.w.org\/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 1253,
+		"date": "2018-09-13T19:05:22",
+		"date_gmt": "2018-09-13T19:05:22",
+		"guid": {
+			"rendered": "http:\/\/account.6icatalyst.com\/api\/?page_id=1253"
+		},
+		"modified": "2018-10-26T15:05:20",
+		"modified_gmt": "2018-10-26T15:05:20",
+		"slug": "popover-dq-enroll-step-1-helps-people",
+		"status": "publish",
+		"type": "page",
+		"link": "http:\/\/account.6icatalyst.com\/api\/popover-dq-enroll-step-1-helps-people\/",
+		"title": {
+			"rendered": "Enroll DQ Step 1 helps people"
+		},
+		"content": {
+			"rendered": "<ul>\n<li>What helps people trust you and increases the satisfaction they get from attending your classes?<\/li>\n<li>How does your expertise in teaching improve the feelings of trust from those who attend your classes?<\/li>\n<li>How easily and comfortably do you meet with, show interest in, learn about, and invite people to join your team?<\/li>\n<li>How much of your approach is about helping people rather than your own agenda?<\/li>\n<li>Do you have a pleasant and positive way of meeting people wherever you go?<\/li>\n<li>Can you develop multiple ways to communicate with people? (e.g., internet, asking for referrals, using your classes, identifying people who have similar interests in what your products can do, etc.)<\/li>\n<\/ul>\n",
+			"protected": false
+		},
+		"excerpt": {
+			"rendered": "<p>What helps people trust you and increases the satisfaction they get from attending your classes? How does your expertise in teaching improve the feelings of trust from those who attend your classes? How easily and comfortably do you meet with, show interest in, learn about, and invite people to join your team? How much of &hellip; <\/p>\n<p class=\"link-more\"><a href=\"http:\/\/account.6icatalyst.com\/api\/popover-dq-enroll-step-1-helps-people\/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> &#8220;Enroll DQ Step 1 helps people&#8221;<\/span><\/a><\/p>\n",
+			"protected": false
+		},
+		"author": 4,
+		"featured_media": 0,
+		"parent": 0,
+		"menu_order": 0,
+		"comment_status": "closed",
+		"ping_status": "closed",
+		"template": "",
+		"meta": [],
+		"wf_page_folders": [
+			21
+		],
+		"_links": {
+			"self": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages\/1253"
+				}
+			],
+			"collection": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages"
+				}
+			],
+			"about": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/types\/page"
+				}
+			],
+			"author": [
+				{
+					"embeddable": true,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/users\/4"
+				}
+			],
+			"replies": [
+				{
+					"embeddable": true,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/comments?post=1253"
+				}
+			],
+			"version-history": [
+				{
+					"count": 1,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages\/1253\/revisions"
+				}
+			],
+			"predecessor-version": [
+				{
+					"id": 1254,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages\/1253\/revisions\/1254"
+				}
+			],
+			"wp:attachment": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/media?parent=1253"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "wf_page_folders",
+					"embeddable": true,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/wf_page_folders?post=1253"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https:\/\/api.w.org\/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 1245,
+		"date": "2018-09-12T05:31:36",
+		"date_gmt": "2018-09-12T05:31:36",
+		"guid": {
+			"rendered": "http:\/\/account.6icatalyst.com\/api\/?page_id=1245"
+		},
+		"modified": "2019-03-04T05:15:18",
+		"modified_gmt": "2019-03-04T05:15:18",
+		"slug": "popover-sp-templates",
+		"status": "publish",
+		"type": "page",
+		"link": "http:\/\/account.6icatalyst.com\/api\/popover-sp-templates\/",
+		"title": {
+			"rendered": "Choose Template"
+		},
+		"content": {
+			"rendered": "<ul class=\"list template_list\">\n<li><a href=\"http:\/\/account.6icatalyst.com\/api\/sp_boost-leader-motivation\/\">Boost Leader Motivation<\/a><\/li>\n<li><a href=\"http:\/\/account.6icatalyst.com\/api\/sp_create-strong-leaders\/\">Create Strong Leaders<\/a><\/li>\n<li><a href=\"http:\/\/account.6icatalyst.com\/api\/sp_customize-your-goal\/\">Customize Your Goal<\/a><\/li>\n<li><a href=\"http:\/\/account.6icatalyst.com\/api\/sp_enroll-more-people\/\">Enroll More People<\/a><\/li>\n<li><a href=\"http:\/\/account.6icatalyst.com\/api\/sp_hit-rank-faster\/\">Hit Rank Faster<\/a><\/li>\n<li><a href=\"http:\/\/account.6icatalyst.com\/api\/sp_improve-teaching\/\">Improve Product Knowledge and Teaching<\/a><\/li>\n<li><a href=\"http:\/\/account.6icatalyst.com\/api\/sp_increase-volume\/\">Increase Volume<\/a><\/li>\n<\/ul>\n",
+			"protected": false
+		},
+		"excerpt": {
+			"rendered": "<p>Boost Leader Motivation Create Strong Leaders Customize Your Goal Enroll More People Hit Rank Faster Improve Product Knowledge and Teaching Increase Volume<\/p>\n",
+			"protected": false
+		},
+		"author": 1,
+		"featured_media": 0,
+		"parent": 0,
+		"menu_order": 0,
+		"comment_status": "closed",
+		"ping_status": "closed",
+		"template": "",
+		"meta": [],
+		"wf_page_folders": [
+			18
+		],
+		"_links": {
+			"self": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages\/1245"
+				}
+			],
+			"collection": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages"
+				}
+			],
+			"about": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/types\/page"
+				}
+			],
+			"author": [
+				{
+					"embeddable": true,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/users\/1"
+				}
+			],
+			"replies": [
+				{
+					"embeddable": true,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/comments?post=1245"
+				}
+			],
+			"version-history": [
+				{
+					"count": 7,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages\/1245\/revisions"
+				}
+			],
+			"predecessor-version": [
+				{
+					"id": 1669,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages\/1245\/revisions\/1669"
+				}
+			],
+			"wp:attachment": [
+				{
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/media?parent=1245"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "wf_page_folders",
+					"embeddable": true,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/wf_page_folders?post=1245"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https:\/\/api.w.org\/{rel}",
+					"templated": true
+				}
+			]
+		}
+	}
+]

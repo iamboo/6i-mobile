@@ -1,0 +1,138 @@
+// Ionic Variables and Theming. For more info, please see:
+// http://ionicframework.com/docs/theming/
+
+/** Ionic CSS Variables **/
+:root {
+	/** primary **/
+	--ion-color-primary: #3880ff;
+	--ion-color-primary-rgb: 56, 128, 255;
+	--ion-color-primary-contrast: #ffffff;
+	--ion-color-primary-contrast-rgb: 255, 255, 255;
+	--ion-color-primary-shade: #3171e0;
+	--ion-color-primary-tint: #4c8dff;
+
+	/** secondary **/
+	--ion-color-secondary: #0cd1e8;
+	--ion-color-secondary-rgb: 12, 209, 232;
+	--ion-color-secondary-contrast: #ffffff;
+	--ion-color-secondary-contrast-rgb: 255, 255, 255;
+	--ion-color-secondary-shade: #0bb8cc;
+	--ion-color-secondary-tint: #24d6ea;
+
+	/** tertiary **/
+	--ion-color-tertiary: #7044ff;
+	--ion-color-tertiary-rgb: 112, 68, 255;
+	--ion-color-tertiary-contrast: #ffffff;
+	--ion-color-tertiary-contrast-rgb: 255, 255, 255;
+	--ion-color-tertiary-shade: #633ce0;
+	--ion-color-tertiary-tint: #7e57ff;
+
+	/** success **/
+	--ion-color-success: #10dc60;
+	--ion-color-success-rgb: 16, 220, 96;
+	--ion-color-success-contrast: #ffffff;
+	--ion-color-success-contrast-rgb: 255, 255, 255;
+	--ion-color-success-shade: #0ec254;
+	--ion-color-success-tint: #28e070;
+
+	/** warning **/
+	--ion-color-warning: #ffce00;
+	--ion-color-warning-rgb: 255, 206, 0;
+	--ion-color-warning-contrast: #ffffff;
+	--ion-color-warning-contrast-rgb: 255, 255, 255;
+	--ion-color-warning-shade: #e0b500;
+	--ion-color-warning-tint: #ffd31a;
+
+	/** danger **/
+	--ion-color-danger: #f04141;
+	--ion-color-danger-rgb: 245, 61, 61;
+	--ion-color-danger-contrast: #ffffff;
+	--ion-color-danger-contrast-rgb: 255, 255, 255;
+	--ion-color-danger-shade: #d33939;
+	--ion-color-danger-tint: #f25454;
+
+	/** dark **/
+	--ion-color-dark: #222428;
+	--ion-color-dark-rgb: 34, 34, 34;
+	--ion-color-dark-contrast: #ffffff;
+	--ion-color-dark-contrast-rgb: 255, 255, 255;
+	--ion-color-dark-shade: #1e2023;
+	--ion-color-dark-tint: #383a3e;
+
+	/** medium **/
+	--ion-color-medium: #989aa2;
+	--ion-color-medium-rgb: 152, 154, 162;
+	--ion-color-medium-contrast: #ffffff;
+	--ion-color-medium-contrast-rgb: 255, 255, 255;
+	--ion-color-medium-shade: #86888f;
+	--ion-color-medium-tint: #a2a4ab;
+
+	/** light **/
+	--ion-color-light: #f4f5f8;
+	--ion-color-light-rgb: 244, 244, 244;
+	--ion-color-light-contrast: #000000;
+	--ion-color-light-contrast-rgb: 0, 0, 0;
+	--ion-color-light-shade: #d7d8da;
+	--ion-color-light-tint: #f5f6f9;
+
+	--color-activated: var(--fade_icon);
+	--color-focused: var(--fade_icon);
+
+	--home: rgb(0, 145, 229);
+	--library: rgb(152, 160, 78);
+	--todo: rgb(17, 180, 180);
+	--success: rgb(245, 155, 20);
+	--jumpstart: rgb(146, 96, 212);
+	--leader: rgb(6, 119, 185);
+	--border_color: rgba(0, 0, 0, 0.25);
+	--border_color_lite: rgba(0, 0, 0, 0.05);
+	--border_color_modal: rgba(255, 255, 255, 0.4);
+	--footer-button-bg: rgba(255, 255, 255, 0.2);
+	--footer-button-border: rgba(255, 255, 255, 0.3);
+	--fade_text: rgba(255, 255, 255, 0.8);
+	--fade_icon: rgba(255, 255, 255, 0.6);
+	--fade_btn: rgba(255, 255, 255, 0.2);
+	--fade_bg: rgba(255, 255, 255, 0.1);
+	--border: 1px solid var(--border_color);
+	--border_lite: 1px solid var(--border_color_lite);
+
+	--site_text: #444;
+
+	--learn_more: rgb(77, 139, 55);
+	--learn_more_fade: rgba(77, 139, 55, 0.1);
+
+	--key_term: rgb(234, 76, 28);
+
+	--conversation: rgb(245, 140, 35);
+	--conversation_fade: rgba(245, 140, 35, 0.1);
+
+	--info: rgb(170, 170, 170);
+	--info_fade: rgba(170, 170, 170, 0.1);
+
+	--ideas: rgb(0, 145, 229);
+	--ideas_fade: rgba(0, 145, 229, 0.1);
+
+	--case_study: rgb(162, 102, 156);
+	--case_study_fade: rgba(162, 102, 156, 0.1);
+
+	--leadership_principles: rgb(225, 53, 66);
+	--leadership_principles_fade: rgba(225, 53, 66, 0.1);
+
+	--skills4e: rgb(0, 128, 128);
+	--skills4e_fade: rgba(0, 128, 128, 0.1);
+
+	--coaching: rgb(255, 165, 0);
+	--coaching_fade: rgba(255, 165, 0, 0.1);
+
+	--discovery: rgb(141, 165, 48);
+	--discovery_bg: rgba(141, 165, 48, 0.1);
+
+	--box-shadow: 0 3px 12px 2px rgba(0, 0, 0, 0.3);
+	--ion-backdrop-color: #333;
+	--icon: rgba(0, 0, 0, 0.3);
+	--icon-hover: rgba(0, 0, 0, 0.8);
+
+	--header_box_shadow: 0px 1px 15px rgba(0, 0, 0, 0.3);
+
+	--header-size: 3rem;
+}

@@ -1,0 +1,11 @@
+<ion-header>
+	<ion-toolbar [ngClass]="headerClass">
+		<ion-title>{{ pageTitle }}</ion-title>
+		<ion-buttons slot="end">
+			<span class="fas fa-times btn-close" (click)="dismiss(false)" slot="end"></span>
+		</ion-buttons>
+	</ion-toolbar>
+</ion-header>
+<ion-content padding>
+	<div class="pageContent" [innerHTML]="template | safeHtml" #popoverContent></div>
+</ion-content>

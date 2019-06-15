@@ -1,0 +1,11 @@
+@import './../../../../assets/css/variables';
+
+ion-header {
+	background: var(--success);
+}
+ion-content {
+	--background: var(--success);
+	hr {
+		background: var(--border_color_modal);
+	}
+}

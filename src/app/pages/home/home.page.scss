@@ -1,0 +1,127 @@
+ion-header {
+	ion-toolbar {
+		--background: unset;
+		background-color: var(--home);
+		background-image: url(./../../../assets/img/6iCatalyst.png);
+		background-size: auto 85%;
+		background-position: center center;
+		background-repeat: no-repeat;
+	}
+}
+
+.content#page-home {
+	.scroll-content {
+		overflow: hidden;
+		.mainContent {
+			height: 100%;
+		}
+		br {
+			display: none;
+		}
+		h3 {
+			font-size: 2rem;
+			padding: 0px 15px;
+		}
+	}
+}
+
+ion-content {
+	--overflow: hidden;
+	ion-list {
+		display: flex;
+		flex-direction: column;
+		list-style: none;
+		padding: 0px;
+		margin: 2px 0px 0px 0px;
+		height: 100%;
+		--background: transparent;
+		ion-item {
+			--padding-start: 0px;
+			flex: 1;
+			display: flex;
+			justify-content: center;
+			flex-direction: column;
+			text-decoration: none;
+			color: #fff;
+			vertical-align: middle;
+			font-size: 25px;
+			font-weight: 500;
+			padding-left: 80px;
+			position: relative;
+			border-top: 1px solid #fff;
+			border-bottom: 1px solid #fff;
+			--background: transparent;
+			ion-label {
+				font-weight: 500;
+			}
+			&:before {
+				content: ' ';
+				display: block;
+				position: absolute;
+				top: 50%;
+				left: 0px;
+				height: 50px;
+				line-height: 50px;
+				width: 80px;
+				margin-top: -25px;
+				text-align: center;
+				font-size: 40px;
+			}
+			&.jumpstart-leader {
+				background: var(--jumpstart);
+				&:before {
+					font-family: 'Font Awesome 5 Free';
+					font-weight: 900;
+					content: '\f135';
+				}
+			}
+			&.catalyst_leadership {
+				background: var(--leader);
+				&:before {
+					font-family: 'Font Awesome 5 Free';
+					font-weight: 900;
+					content: '\f14e';
+				}
+			}
+			&.quick-tools-library {
+				background: var(--library);
+				&:before {
+					font-family: 'Font Awesome 5 Free';
+					font-weight: 900;
+					content: '\f02d';
+				}
+			}
+			&.success-planner {
+				background: var(--success);
+				&:before {
+					font-family: 'Font Awesome 5 Free';
+					content: '\f271';
+				}
+			}
+			&.to-do {
+				background: var(--todo);
+				&:before {
+					font-family: 'Font Awesome 5 Free';
+					content: '\f14a';
+				}
+			}
+			&[badge]:after {
+				content: attr(badge);
+				display: block;
+				position: absolute;
+				right: 15px;
+				top: 50%;
+				width: 60px;
+				height: 60px;
+				margin-top: -30px;
+				border: 1px solid #fff;
+				line-height: 60px;
+				text-align: center;
+				font-size: 1.2rem;
+				font-weight: 200;
+				border-radius: 50%;
+				font-style: normal;
+			}
+		}
+	}
+}

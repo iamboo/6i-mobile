@@ -1,0 +1,4702 @@
+[
+	{
+		"id": 1242,
+		"date": "2018-09-11T20:51:24",
+		"date_gmt": "2018-09-11T20:51:24",
+		"guid": {
+			"rendered": "http://account.6icatalyst.com/api/?page_id=1242"
+		},
+		"modified": "2019-03-06T22:46:43",
+		"modified_gmt": "2019-03-06T22:46:43",
+		"slug": "popover-co-product-knowledge-render-acct-co",
+		"status": "publish",
+		"type": "page",
+		"link": "http://account.6icatalyst.com/api/popover-co-product-knowledge-render-acct-co/",
+		"title": {
+			"rendered": "Product Knowledge Render Acct CO"
+		},
+		"content": {
+			"rendered": "<p>Coaching and mentoring speeds results and can make things easier. If you&#8217;d prefer to have support as you work to transform your performance and your teams&#8217; go to 6innovations.com to find a personal 6i Catalyst coach.</p>\n<p>If you feel torn between building your business and caring for you family, a family and relationship coach at FirstAnswers.com can help you find balance and success for both.</p>\n",
+			"protected": false
+		},
+		"excerpt": {
+			"rendered": "<p>Coaching and mentoring speeds results and can make things easier. If you&#8217;d prefer to have support as you work to transform your performance and your teams&#8217; go to 6innovations.com to find a personal 6i Catalyst coach. If you feel torn between building your business and caring for you family, a family and relationship coach at &hellip; </p>\n<p class=\"link-more\"><a href=\"http://account.6icatalyst.com/api/popover-co-product-knowledge-render-acct-co/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> &#8220;Product Knowledge Render Acct CO&#8221;</span></a></p>\n",
+			"protected": false
+		},
+		"author": 3,
+		"featured_media": 0,
+		"parent": 0,
+		"menu_order": 0,
+		"comment_status": "closed",
+		"ping_status": "closed",
+		"template": "",
+		"meta": [],
+		"wf_page_folders": [23],
+		"_links": {
+			"self": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages/1242"
+				}
+			],
+			"collection": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages"
+				}
+			],
+			"about": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/types/page"
+				}
+			],
+			"author": [
+				{
+					"embeddable": true,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/users/3"
+				}
+			],
+			"replies": [
+				{
+					"embeddable": true,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/comments?post=1242"
+				}
+			],
+			"version-history": [
+				{
+					"count": 2,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages/1242/revisions"
+				}
+			],
+			"predecessor-version": [
+				{
+					"id": 1679,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages/1242/revisions/1679"
+				}
+			],
+			"wp:attachment": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/media?parent=1242"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "wf_page_folders",
+					"embeddable": true,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/wf_page_folders?post=1242"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https://api.w.org/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 1239,
+		"date": "2018-09-11T20:47:07",
+		"date_gmt": "2018-09-11T20:47:07",
+		"guid": {
+			"rendered": "http://account.6icatalyst.com/api/?page_id=1239"
+		},
+		"modified": "2019-03-11T20:06:21",
+		"modified_gmt": "2019-03-11T20:06:21",
+		"slug": "popover-id-product-knowledge-render-acct-id",
+		"status": "publish",
+		"type": "page",
+		"link": "http://account.6icatalyst.com/api/popover-id-product-knowledge-render-acct-id/",
+		"title": {
+			"rendered": "Product Knowledge Render Acct ID"
+		},
+		"content": {
+			"rendered": "<ul>\n<li>I will report to my accountability partner by phone every two weeks and share how many new enrollments I had at my classes.</li>\n<li>I will send a text to my upline leader every Wednesday, sharing what I\u2019ve learned from reading about the product.</li>\n<li>I will share teaching tips I\u2019ve learned with my team at our weekly meetings.</li>\n<li>I will ask my leaders to report back to me weekly with some of the new benefits they have seen from their own learning about the products.</li>\n</ul>\n",
+			"protected": false
+		},
+		"excerpt": {
+			"rendered": "<p>I will report to my accountability partner by phone every two weeks and share how many new enrollments I had at my classes. I will send a text to my upline leader every Wednesday, sharing what I\u2019ve learned from reading about the product. I will share teaching tips I\u2019ve learned with my team at our &hellip; </p>\n<p class=\"link-more\"><a href=\"http://account.6icatalyst.com/api/popover-id-product-knowledge-render-acct-id/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> &#8220;Product Knowledge Render Acct ID&#8221;</span></a></p>\n",
+			"protected": false
+		},
+		"author": 3,
+		"featured_media": 0,
+		"parent": 0,
+		"menu_order": 0,
+		"comment_status": "closed",
+		"ping_status": "closed",
+		"template": "",
+		"meta": [],
+		"wf_page_folders": [22],
+		"_links": {
+			"self": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages/1239"
+				}
+			],
+			"collection": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages"
+				}
+			],
+			"about": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/types/page"
+				}
+			],
+			"author": [
+				{
+					"embeddable": true,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/users/3"
+				}
+			],
+			"replies": [
+				{
+					"embeddable": true,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/comments?post=1239"
+				}
+			],
+			"version-history": [
+				{
+					"count": 2,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages/1239/revisions"
+				}
+			],
+			"predecessor-version": [
+				{
+					"id": 1718,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages/1239/revisions/1718"
+				}
+			],
+			"wp:attachment": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/media?parent=1239"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "wf_page_folders",
+					"embeddable": true,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/wf_page_folders?post=1239"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https://api.w.org/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 1236,
+		"date": "2018-09-11T20:45:01",
+		"date_gmt": "2018-09-11T20:45:01",
+		"guid": {
+			"rendered": "http://account.6icatalyst.com/api/?page_id=1236"
+		},
+		"modified": "2019-03-11T20:21:32",
+		"modified_gmt": "2019-03-11T20:21:32",
+		"slug": "popover-dq-product-knowledge-render-acct-dq",
+		"status": "publish",
+		"type": "page",
+		"link": "http://account.6icatalyst.com/api/popover-dq-product-knowledge-render-acct-dq/",
+		"title": {
+			"rendered": "Product Knowledge Render Acct DQ"
+		},
+		"content": {
+			"rendered": "<ul>\n<li>What information do you want from people who report to you?</li>\n<li>Are you sending timely reports to your upline?</li>\n<li>Are you receiving voluntary reports from your downline?</li>\n<li>What has worked well? What do you need to change if you or your team is not learning and teaching better?</li>\n<li>How can you use a report to bolster and improve someone\u2019s motivation?</li>\n<li>How can you use a conversation and a report to help someone become a better leader?</li>\n<li>Do you have an identified plan or schedule for people to use to increase their product knowledge, and do you ask for reports about whether it is followed?</li>\n</ul>\n",
+			"protected": false
+		},
+		"excerpt": {
+			"rendered": "<p>What information do you want from people who report to you? Are you sending timely reports to your upline? Are you receiving voluntary reports from your downline? What has worked well? What do you need to change if you or your team is not learning and teaching better? How can you use a report to &hellip; </p>\n<p class=\"link-more\"><a href=\"http://account.6icatalyst.com/api/popover-dq-product-knowledge-render-acct-dq/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> &#8220;Product Knowledge Render Acct DQ&#8221;</span></a></p>\n",
+			"protected": false
+		},
+		"author": 3,
+		"featured_media": 0,
+		"parent": 0,
+		"menu_order": 0,
+		"comment_status": "closed",
+		"ping_status": "closed",
+		"template": "",
+		"meta": [],
+		"wf_page_folders": [21],
+		"_links": {
+			"self": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages/1236"
+				}
+			],
+			"collection": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages"
+				}
+			],
+			"about": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/types/page"
+				}
+			],
+			"author": [
+				{
+					"embeddable": true,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/users/3"
+				}
+			],
+			"replies": [
+				{
+					"embeddable": true,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/comments?post=1236"
+				}
+			],
+			"version-history": [
+				{
+					"count": 2,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages/1236/revisions"
+				}
+			],
+			"predecessor-version": [
+				{
+					"id": 1742,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages/1236/revisions/1742"
+				}
+			],
+			"wp:attachment": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/media?parent=1236"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "wf_page_folders",
+					"embeddable": true,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/wf_page_folders?post=1236"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https://api.w.org/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 1233,
+		"date": "2018-09-11T20:40:33",
+		"date_gmt": "2018-09-11T20:40:33",
+		"guid": {
+			"rendered": "http://account.6icatalyst.com/api/?page_id=1233"
+		},
+		"modified": "2019-03-11T20:10:30",
+		"modified_gmt": "2019-03-11T20:10:30",
+		"slug": "popover-id-product-knowledge-step-6-id-each-week",
+		"status": "publish",
+		"type": "page",
+		"link": "http://account.6icatalyst.com/api/popover-id-product-knowledge-step-6-id-each-week/",
+		"title": {
+			"rendered": "Product Knowledge step 6 ID each week"
+		},
+		"content": {
+			"rendered": "<ul>\n<li>Each week I will record the questions about products or uses that I cannot answer, and then I will do some research so I can answer them the next time.</li>\n<li>I will measure the number of new enrollments I have at classes each week.</li>\n<li>I will measure the volume I share at each class this month.</li>\n<li>I will measure the number of new classes I schedule while at a class for the next two months.</li>\n<li>I will research and present a different set of products in a class and compare the interest and results with other product classes I\u2019ve taught.</li>\n</ul>\n",
+			"protected": false
+		},
+		"excerpt": {
+			"rendered": "<p>Each week I will record the questions about products or uses that I cannot answer, and then I will do some research so I can answer them the next time. I will measure the number of new enrollments I have at classes each week. I will measure the volume I share at each class this &hellip; </p>\n<p class=\"link-more\"><a href=\"http://account.6icatalyst.com/api/popover-id-product-knowledge-step-6-id-each-week/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> &#8220;Product Knowledge step 6 ID each week&#8221;</span></a></p>\n",
+			"protected": false
+		},
+		"author": 3,
+		"featured_media": 0,
+		"parent": 0,
+		"menu_order": 0,
+		"comment_status": "closed",
+		"ping_status": "closed",
+		"template": "",
+		"meta": [],
+		"wf_page_folders": [22],
+		"_links": {
+			"self": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages/1233"
+				}
+			],
+			"collection": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages"
+				}
+			],
+			"about": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/types/page"
+				}
+			],
+			"author": [
+				{
+					"embeddable": true,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/users/3"
+				}
+			],
+			"replies": [
+				{
+					"embeddable": true,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/comments?post=1233"
+				}
+			],
+			"version-history": [
+				{
+					"count": 2,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages/1233/revisions"
+				}
+			],
+			"predecessor-version": [
+				{
+					"id": 1727,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages/1233/revisions/1727"
+				}
+			],
+			"wp:attachment": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/media?parent=1233"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "wf_page_folders",
+					"embeddable": true,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/wf_page_folders?post=1233"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https://api.w.org/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 1230,
+		"date": "2018-09-11T20:37:12",
+		"date_gmt": "2018-09-11T20:37:12",
+		"guid": {
+			"rendered": "http://account.6icatalyst.com/api/?page_id=1230"
+		},
+		"modified": "2019-03-11T20:32:36",
+		"modified_gmt": "2019-03-11T20:32:36",
+		"slug": "popover-dq-product-knowledge-step-6-dq-enroll",
+		"status": "publish",
+		"type": "page",
+		"link": "http://account.6icatalyst.com/api/popover-dq-product-knowledge-step-6-dq-enroll/",
+		"title": {
+			"rendered": "Product Knowledge Step 6 DQ enroll"
+		},
+		"content": {
+			"rendered": "<ul>\n<li>What have you done to enroll more new builders at your classes?</li>\n<li>What have you done to increase how much volume you share at your classes?<br />\nWhat have you done to schedule more classes?</li>\n<li>Is your plan producing the outcomes of increased volume, enrollments, and additional classes you want?</li>\n<li>What do you need to do differently if you have not improved like you want?</li>\n</ul>\n",
+			"protected": false
+		},
+		"excerpt": {
+			"rendered": "<p>What have you done to enroll more new builders at your classes? What have you done to increase how much volume you share at your classes? What have you done to schedule more classes? Is your plan producing the outcomes of increased volume, enrollments, and additional classes you want? What do you need to do &hellip; </p>\n<p class=\"link-more\"><a href=\"http://account.6icatalyst.com/api/popover-dq-product-knowledge-step-6-dq-enroll/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> &#8220;Product Knowledge Step 6 DQ enroll&#8221;</span></a></p>\n",
+			"protected": false
+		},
+		"author": 3,
+		"featured_media": 0,
+		"parent": 0,
+		"menu_order": 0,
+		"comment_status": "closed",
+		"ping_status": "closed",
+		"template": "",
+		"meta": [],
+		"wf_page_folders": [21],
+		"_links": {
+			"self": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages/1230"
+				}
+			],
+			"collection": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages"
+				}
+			],
+			"about": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/types/page"
+				}
+			],
+			"author": [
+				{
+					"embeddable": true,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/users/3"
+				}
+			],
+			"replies": [
+				{
+					"embeddable": true,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/comments?post=1230"
+				}
+			],
+			"version-history": [
+				{
+					"count": 2,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages/1230/revisions"
+				}
+			],
+			"predecessor-version": [
+				{
+					"id": 1748,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages/1230/revisions/1748"
+				}
+			],
+			"wp:attachment": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/media?parent=1230"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "wf_page_folders",
+					"embeddable": true,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/wf_page_folders?post=1230"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https://api.w.org/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 1226,
+		"date": "2018-09-11T20:08:43",
+		"date_gmt": "2018-09-11T20:08:43",
+		"guid": {
+			"rendered": "http://account.6icatalyst.com/api/?page_id=1226"
+		},
+		"modified": "2019-03-11T20:09:30",
+		"modified_gmt": "2019-03-11T20:09:30",
+		"slug": "popover-id-product-knowledge-step-5-id-different-class",
+		"status": "publish",
+		"type": "page",
+		"link": "http://account.6icatalyst.com/api/popover-id-product-knowledge-step-5-id-different-class/",
+		"title": {
+			"rendered": "Product Knowledge Step 5 ID different class"
+		},
+		"content": {
+			"rendered": "<ul>\n<li>I will attend a different class each week so I can observe other teachers and presenters.</li>\n<li>I will read a book about effective teaching.</li>\n<li>I will practice my presentations three times before I teach an actual class.</li>\n<li>I will attend a training about promoting the business so I am better prepared when people ask me about it.</li>\n</ul>\n",
+			"protected": false
+		},
+		"excerpt": {
+			"rendered": "<p>I will attend a different class each week so I can observe other teachers and presenters. I will read a book about effective teaching. I will practice my presentations three times before I teach an actual class. I will attend a training about promoting the business so I am better prepared when people ask me &hellip; </p>\n<p class=\"link-more\"><a href=\"http://account.6icatalyst.com/api/popover-id-product-knowledge-step-5-id-different-class/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> &#8220;Product Knowledge Step 5 ID different class&#8221;</span></a></p>\n",
+			"protected": false
+		},
+		"author": 3,
+		"featured_media": 0,
+		"parent": 0,
+		"menu_order": 0,
+		"comment_status": "closed",
+		"ping_status": "closed",
+		"template": "",
+		"meta": [],
+		"wf_page_folders": [22],
+		"_links": {
+			"self": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages/1226"
+				}
+			],
+			"collection": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages"
+				}
+			],
+			"about": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/types/page"
+				}
+			],
+			"author": [
+				{
+					"embeddable": true,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/users/3"
+				}
+			],
+			"replies": [
+				{
+					"embeddable": true,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/comments?post=1226"
+				}
+			],
+			"version-history": [
+				{
+					"count": 2,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages/1226/revisions"
+				}
+			],
+			"predecessor-version": [
+				{
+					"id": 1725,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages/1226/revisions/1725"
+				}
+			],
+			"wp:attachment": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/media?parent=1226"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "wf_page_folders",
+					"embeddable": true,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/wf_page_folders?post=1226"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https://api.w.org/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 1223,
+		"date": "2018-09-11T20:05:38",
+		"date_gmt": "2018-09-11T20:05:38",
+		"guid": {
+			"rendered": "http://account.6icatalyst.com/api/?page_id=1223"
+		},
+		"modified": "2019-03-11T20:10:15",
+		"modified_gmt": "2019-03-11T20:10:15",
+		"slug": "popover-id-product-knowledge-step-5-id-read-a-book",
+		"status": "publish",
+		"type": "page",
+		"link": "http://account.6icatalyst.com/api/popover-id-product-knowledge-step-5-id-read-a-book/",
+		"title": {
+			"rendered": "Product Knowledge Step 5 ID Read a book"
+		},
+		"content": {
+			"rendered": "<ul>\n<li>I will read a book about the product so I\u2019m better equipped to answer people\u2019s questions.</li>\n<li>I will attend a training about promoting different products during different seasons.</li>\n<li>I will implement 3-5 product applications I\u2019ve never used before so I am more experienced and my presentations are more diverse.</li>\n</ul>\n",
+			"protected": false
+		},
+		"excerpt": {
+			"rendered": "<p>I will read a book about the product so I\u2019m better equipped to answer people\u2019s questions. I will attend a training about promoting different products during different seasons. I will implement 3-5 product applications I\u2019ve never used before so I am more experienced and my presentations are more diverse.</p>\n",
+			"protected": false
+		},
+		"author": 3,
+		"featured_media": 0,
+		"parent": 0,
+		"menu_order": 0,
+		"comment_status": "closed",
+		"ping_status": "closed",
+		"template": "",
+		"meta": [],
+		"wf_page_folders": [22],
+		"_links": {
+			"self": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages/1223"
+				}
+			],
+			"collection": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages"
+				}
+			],
+			"about": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/types/page"
+				}
+			],
+			"author": [
+				{
+					"embeddable": true,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/users/3"
+				}
+			],
+			"replies": [
+				{
+					"embeddable": true,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/comments?post=1223"
+				}
+			],
+			"version-history": [
+				{
+					"count": 2,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages/1223/revisions"
+				}
+			],
+			"predecessor-version": [
+				{
+					"id": 1726,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages/1223/revisions/1726"
+				}
+			],
+			"wp:attachment": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/media?parent=1223"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "wf_page_folders",
+					"embeddable": true,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/wf_page_folders?post=1223"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https://api.w.org/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 1220,
+		"date": "2018-09-11T19:59:30",
+		"date_gmt": "2018-09-11T19:59:30",
+		"guid": {
+			"rendered": "http://account.6icatalyst.com/api/?page_id=1220"
+		},
+		"modified": "2019-03-11T20:31:55",
+		"modified_gmt": "2019-03-11T20:31:55",
+		"slug": "popover-dq-product-knowledge-step-5-dq-changes",
+		"status": "publish",
+		"type": "page",
+		"link": "http://account.6icatalyst.com/api/popover-dq-product-knowledge-step-5-dq-changes/",
+		"title": {
+			"rendered": "Product Knowledge Step 5 DQ Changes"
+		},
+		"content": {
+			"rendered": "<ul>\n<li>What changes do you need to make to improve your product knowledge?</li>\n<li>What do you need to know more about to improve your teaching?</li>\n<li>What new skills do you need in order to learn better and teach more successfully (making better presentations, creating solutions for the attendees, questioning, communication, collaboration, problem solving, networking, technology, etc.)?</li>\n</ul>\n",
+			"protected": false
+		},
+		"excerpt": {
+			"rendered": "<p>What changes do you need to make to improve your product knowledge? What do you need to know more about to improve your teaching? What new skills do you need in order to learn better and teach more successfully (making better presentations, creating solutions for the attendees, questioning, communication, collaboration, problem solving, networking, technology, etc.)?</p>\n",
+			"protected": false
+		},
+		"author": 3,
+		"featured_media": 0,
+		"parent": 0,
+		"menu_order": 0,
+		"comment_status": "closed",
+		"ping_status": "closed",
+		"template": "",
+		"meta": [],
+		"wf_page_folders": [21],
+		"_links": {
+			"self": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages/1220"
+				}
+			],
+			"collection": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages"
+				}
+			],
+			"about": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/types/page"
+				}
+			],
+			"author": [
+				{
+					"embeddable": true,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/users/3"
+				}
+			],
+			"replies": [
+				{
+					"embeddable": true,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/comments?post=1220"
+				}
+			],
+			"version-history": [
+				{
+					"count": 2,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages/1220/revisions"
+				}
+			],
+			"predecessor-version": [
+				{
+					"id": 1747,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages/1220/revisions/1747"
+				}
+			],
+			"wp:attachment": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/media?parent=1220"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "wf_page_folders",
+					"embeddable": true,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/wf_page_folders?post=1220"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https://api.w.org/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 1217,
+		"date": "2018-09-11T19:44:19",
+		"date_gmt": "2018-09-11T19:44:19",
+		"guid": {
+			"rendered": "http://account.6icatalyst.com/api/?page_id=1217"
+		},
+		"modified": "2019-03-11T20:09:08",
+		"modified_gmt": "2019-03-11T20:09:08",
+		"slug": "popover-id-product-knowledge-step-4-id-ally-ellen",
+		"status": "publish",
+		"type": "page",
+		"link": "http://account.6icatalyst.com/api/popover-id-product-knowledge-step-4-id-ally-ellen/",
+		"title": {
+			"rendered": "Product Knowledge step 4 ID Ally Ellen"
+		},
+		"content": {
+			"rendered": "<p><strong>Ally:</strong> Ellen, a professional teacher<br />\n<strong>How I will help this ally</strong>: I will trade products in return for her help.<br />\n<strong>How this ally will help me</strong>: Ellen will help me learn effective teaching techniques.</p>\n<p><strong>Ally:</strong> Marco, my accountability partner<br />\n<strong>How I will help this ally</strong>: I will learn about five new products a week and practice teaching about them to Marco so I effectively teach and close classes.<br />\n<strong>How this ally will help me</strong>: He will offer feedback about my teaching methods and share what he knows about the products.</p>\n",
+			"protected": false
+		},
+		"excerpt": {
+			"rendered": "<p>Ally: Ellen, a professional teacher How I will help this ally: I will trade products in return for her help. How this ally will help me: Ellen will help me learn effective teaching techniques. Ally: Marco, my accountability partner How I will help this ally: I will learn about five new products a week and &hellip; </p>\n<p class=\"link-more\"><a href=\"http://account.6icatalyst.com/api/popover-id-product-knowledge-step-4-id-ally-ellen/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> &#8220;Product Knowledge step 4 ID Ally Ellen&#8221;</span></a></p>\n",
+			"protected": false
+		},
+		"author": 3,
+		"featured_media": 0,
+		"parent": 0,
+		"menu_order": 0,
+		"comment_status": "closed",
+		"ping_status": "closed",
+		"template": "",
+		"meta": [],
+		"wf_page_folders": [22],
+		"_links": {
+			"self": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages/1217"
+				}
+			],
+			"collection": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages"
+				}
+			],
+			"about": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/types/page"
+				}
+			],
+			"author": [
+				{
+					"embeddable": true,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/users/3"
+				}
+			],
+			"replies": [
+				{
+					"embeddable": true,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/comments?post=1217"
+				}
+			],
+			"version-history": [
+				{
+					"count": 2,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages/1217/revisions"
+				}
+			],
+			"predecessor-version": [
+				{
+					"id": 1724,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages/1217/revisions/1724"
+				}
+			],
+			"wp:attachment": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/media?parent=1217"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "wf_page_folders",
+					"embeddable": true,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/wf_page_folders?post=1217"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https://api.w.org/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 1214,
+		"date": "2018-09-11T19:31:34",
+		"date_gmt": "2018-09-11T19:31:34",
+		"guid": {
+			"rendered": "http://account.6icatalyst.com/api/?page_id=1214"
+		},
+		"modified": "2019-03-11T20:31:39",
+		"modified_gmt": "2019-03-11T20:31:39",
+		"slug": "popover-dq-product-knowledge-step-4-dq-identify-people",
+		"status": "publish",
+		"type": "page",
+		"link": "http://account.6icatalyst.com/api/popover-dq-product-knowledge-step-4-dq-identify-people/",
+		"title": {
+			"rendered": "Product Knowledge step 4 DQ Identify people"
+		},
+		"content": {
+			"rendered": "<ul>\n<li>Have you identified people who are more expert in product knowledge than you?</li>\n<li>Have you identified people who are excellent teachers and who will help you become a better teacher?</li>\n<li>Do you have a plan that invites all of your team members to regularly learn more about the products and about teaching? Have you asked them to help you?</li>\n<li>What does cooperation or collaboration mean to you?</li>\n<li>Do you know how to build a sense of cooperation with others and create a feeling of having a shared mission to help people?</li>\n<li>Can you freely ask others for help?</li>\n<li>Do you offer to help others with what you know? Do you ask for cooperation and emphasize the idea that collaboration improves results for everyone?</li>\n</ul>\n",
+			"protected": false
+		},
+		"excerpt": {
+			"rendered": "<p>Have you identified people who are more expert in product knowledge than you? Have you identified people who are excellent teachers and who will help you become a better teacher? Do you have a plan that invites all of your team members to regularly learn more about the products and about teaching? Have you asked &hellip; </p>\n<p class=\"link-more\"><a href=\"http://account.6icatalyst.com/api/popover-dq-product-knowledge-step-4-dq-identify-people/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> &#8220;Product Knowledge step 4 DQ Identify people&#8221;</span></a></p>\n",
+			"protected": false
+		},
+		"author": 3,
+		"featured_media": 0,
+		"parent": 0,
+		"menu_order": 0,
+		"comment_status": "closed",
+		"ping_status": "closed",
+		"template": "",
+		"meta": [],
+		"wf_page_folders": [21],
+		"_links": {
+			"self": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages/1214"
+				}
+			],
+			"collection": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages"
+				}
+			],
+			"about": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/types/page"
+				}
+			],
+			"author": [
+				{
+					"embeddable": true,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/users/3"
+				}
+			],
+			"replies": [
+				{
+					"embeddable": true,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/comments?post=1214"
+				}
+			],
+			"version-history": [
+				{
+					"count": 2,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages/1214/revisions"
+				}
+			],
+			"predecessor-version": [
+				{
+					"id": 1746,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages/1214/revisions/1746"
+				}
+			],
+			"wp:attachment": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/media?parent=1214"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "wf_page_folders",
+					"embeddable": true,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/wf_page_folders?post=1214"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https://api.w.org/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 1211,
+		"date": "2018-09-11T19:26:43",
+		"date_gmt": "2018-09-11T19:26:43",
+		"guid": {
+			"rendered": "http://account.6icatalyst.com/api/?page_id=1211"
+		},
+		"modified": "2019-03-11T20:05:41",
+		"modified_gmt": "2019-03-11T20:05:41",
+		"slug": "popover-id-product-knowledge-10-day-ideas",
+		"status": "publish",
+		"type": "page",
+		"link": "http://account.6icatalyst.com/api/popover-id-product-knowledge-10-day-ideas/",
+		"title": {
+			"rendered": "Product Knowledge 10 day ideas"
+		},
+		"content": {
+			"rendered": "<ul>\n<li>Spend 30 minutes a day practicing a new teaching method: class structure, body language, phrases, etc.</li>\n<li>Learn and teach one new use for products each week.</li>\n<li>Learn and teach one new product/kit each week.</li>\n<li>Organize games, contests, or \u201cresearch\u201d by applying a product every day and measuring changes. Report weekly results and findings to the team.</li>\n<li>Learn one new technology medium for presentations, and practice 30 minutes every day.</li>\n<li>Attend one class per week presented by upline or other leaders, and identify at least one change to my presentations.</li>\n<li>Study the most popular products, and identify at least one new use I currently do not focus on: application, seasonal, blends and combinations, etc.</li>\n<li>Schedule time on weekly call agenda to review new products and uses with team.</li>\n</ul>\n",
+			"protected": false
+		},
+		"excerpt": {
+			"rendered": "<p>Spend 30 minutes a day practicing a new teaching method: class structure, body language, phrases, etc. Learn and teach one new use for products each week. Learn and teach one new product/kit each week. Organize games, contests, or \u201cresearch\u201d by applying a product every day and measuring changes. Report weekly results and findings to the &hellip; </p>\n<p class=\"link-more\"><a href=\"http://account.6icatalyst.com/api/popover-id-product-knowledge-10-day-ideas/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> &#8220;Product Knowledge 10 day ideas&#8221;</span></a></p>\n",
+			"protected": false
+		},
+		"author": 3,
+		"featured_media": 0,
+		"parent": 0,
+		"menu_order": 0,
+		"comment_status": "closed",
+		"ping_status": "closed",
+		"template": "",
+		"meta": [],
+		"wf_page_folders": [22],
+		"_links": {
+			"self": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages/1211"
+				}
+			],
+			"collection": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages"
+				}
+			],
+			"about": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/types/page"
+				}
+			],
+			"author": [
+				{
+					"embeddable": true,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/users/3"
+				}
+			],
+			"replies": [
+				{
+					"embeddable": true,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/comments?post=1211"
+				}
+			],
+			"version-history": [
+				{
+					"count": 2,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages/1211/revisions"
+				}
+			],
+			"predecessor-version": [
+				{
+					"id": 1717,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages/1211/revisions/1717"
+				}
+			],
+			"wp:attachment": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/media?parent=1211"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "wf_page_folders",
+					"embeddable": true,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/wf_page_folders?post=1211"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https://api.w.org/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 1207,
+		"date": "2018-09-07T18:12:55",
+		"date_gmt": "2018-09-07T18:12:55",
+		"guid": {
+			"rendered": "http://account.6icatalyst.com/api/?page_id=1207"
+		},
+		"modified": "2019-03-11T20:08:41",
+		"modified_gmt": "2019-03-11T20:08:41",
+		"slug": "popover-id-product-knowledge-step-3-id-time",
+		"status": "publish",
+		"type": "page",
+		"link": "http://account.6icatalyst.com/api/popover-id-product-knowledge-step-3-id-time/",
+		"title": {
+			"rendered": "Product Knowledge Step 3 ID time"
+		},
+		"content": {
+			"rendered": "<ul>\n<li>I will spend 30 minutes each week with every new enrollment to teach about products and uses.</li>\n<li>I will use a new product every week, identify 5 specific uses, and master how to apply it.</li>\n<li>I will provide a product book as a free gift to new builders who enroll with a specific level of product.</li>\n<li>I will spend $75 to host a product party to introduce new products, product uses, kits, etc.</li>\n<li>I will create an online product form members of my team can fill out to present what they\u2019ve learned about a new product, use, application, etc. and make these outlines accessible to all team members.</li>\n<li>I will learn what successful people do and copy them until I can develop a plan for myself.</li>\n</ul>\n",
+			"protected": false
+		},
+		"excerpt": {
+			"rendered": "<p>I will spend 30 minutes each week with every new enrollment to teach about products and uses. I will use a new product every week, identify 5 specific uses, and master how to apply it. I will provide a product book as a free gift to new builders who enroll with a specific level of &hellip; </p>\n<p class=\"link-more\"><a href=\"http://account.6icatalyst.com/api/popover-id-product-knowledge-step-3-id-time/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> &#8220;Product Knowledge Step 3 ID time&#8221;</span></a></p>\n",
+			"protected": false
+		},
+		"author": 3,
+		"featured_media": 0,
+		"parent": 0,
+		"menu_order": 0,
+		"comment_status": "closed",
+		"ping_status": "closed",
+		"template": "",
+		"meta": [],
+		"wf_page_folders": [22],
+		"_links": {
+			"self": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages/1207"
+				}
+			],
+			"collection": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages"
+				}
+			],
+			"about": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/types/page"
+				}
+			],
+			"author": [
+				{
+					"embeddable": true,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/users/3"
+				}
+			],
+			"replies": [
+				{
+					"embeddable": true,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/comments?post=1207"
+				}
+			],
+			"version-history": [
+				{
+					"count": 2,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages/1207/revisions"
+				}
+			],
+			"predecessor-version": [
+				{
+					"id": 1723,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages/1207/revisions/1723"
+				}
+			],
+			"wp:attachment": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/media?parent=1207"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "wf_page_folders",
+					"embeddable": true,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/wf_page_folders?post=1207"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https://api.w.org/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 1204,
+		"date": "2018-09-07T18:07:15",
+		"date_gmt": "2018-09-07T18:07:15",
+		"guid": {
+			"rendered": "http://account.6icatalyst.com/api/?page_id=1204"
+		},
+		"modified": "2019-03-11T20:08:27",
+		"modified_gmt": "2019-03-11T20:08:27",
+		"slug": "popover-id-product-knowledge-step-3-id-csf",
+		"status": "publish",
+		"type": "page",
+		"link": "http://account.6icatalyst.com/api/popover-id-product-knowledge-step-3-id-csf/",
+		"title": {
+			"rendered": "Product Knowledge Step 3 ID csf"
+		},
+		"content": {
+			"rendered": "<ul>\n<li>I will determine if enough time is being spent on learning about products: new products, product uses, seasonal uses or relevance, product combinations, etc.</li>\n<li>I will keep up to date with any product changes or additions. I will then make sure my teams are aware of these additions.</li>\n<li>I will make sure my teams have necessary books or materials or know how to access websites to effectively learn about products.</li>\n<li>I will make sure my team members are team teaching so everyone learns good practices.</li>\n<li>I will train new enrollees on closing techniques so they feel confident from the very beginning.</li>\n</ul>\n",
+			"protected": false
+		},
+		"excerpt": {
+			"rendered": "<p>I will determine if enough time is being spent on learning about products: new products, product uses, seasonal uses or relevance, product combinations, etc. I will keep up to date with any product changes or additions. I will then make sure my teams are aware of these additions. I will make sure my teams have &hellip; </p>\n<p class=\"link-more\"><a href=\"http://account.6icatalyst.com/api/popover-id-product-knowledge-step-3-id-csf/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> &#8220;Product Knowledge Step 3 ID csf&#8221;</span></a></p>\n",
+			"protected": false
+		},
+		"author": 3,
+		"featured_media": 0,
+		"parent": 0,
+		"menu_order": 0,
+		"comment_status": "closed",
+		"ping_status": "closed",
+		"template": "",
+		"meta": [],
+		"wf_page_folders": [22],
+		"_links": {
+			"self": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages/1204"
+				}
+			],
+			"collection": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages"
+				}
+			],
+			"about": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/types/page"
+				}
+			],
+			"author": [
+				{
+					"embeddable": true,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/users/3"
+				}
+			],
+			"replies": [
+				{
+					"embeddable": true,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/comments?post=1204"
+				}
+			],
+			"version-history": [
+				{
+					"count": 2,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages/1204/revisions"
+				}
+			],
+			"predecessor-version": [
+				{
+					"id": 1722,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages/1204/revisions/1722"
+				}
+			],
+			"wp:attachment": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/media?parent=1204"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "wf_page_folders",
+					"embeddable": true,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/wf_page_folders?post=1204"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https://api.w.org/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 1201,
+		"date": "2018-09-07T18:04:10",
+		"date_gmt": "2018-09-07T18:04:10",
+		"guid": {
+			"rendered": "http://account.6icatalyst.com/api/?page_id=1201"
+		},
+		"modified": "2019-03-11T20:31:25",
+		"modified_gmt": "2019-03-11T20:31:25",
+		"slug": "popover-dq-product-knowledge-step-3-dq-knowledge",
+		"status": "publish",
+		"type": "page",
+		"link": "http://account.6icatalyst.com/api/popover-dq-product-knowledge-step-3-dq-knowledge/",
+		"title": {
+			"rendered": "Product Knowledge Step 3 DQ knowledge"
+		},
+		"content": {
+			"rendered": "<ul>\n<li>What knowledge about your products is most essential?</li>\n<li>What are the most essential parts of effective teaching?</li>\n<li>What do potential customers ask about most often?</li>\n<li>How can you organize your schedule to make sure you regularly learn more about products and teaching?</li>\n<li>What do the most successful people do when it comes to learning new product information?</li>\n<li>Do you like to learn on your own, or would you rather find someone who can mentor you?</li>\n<li>Do you allocate enough money and time and communicate effectively to make sure you and the members of your team are learning?</li>\n</ul>\n",
+			"protected": false
+		},
+		"excerpt": {
+			"rendered": "<p>What knowledge about your products is most essential? What are the most essential parts of effective teaching? What do potential customers ask about most often? How can you organize your schedule to make sure you regularly learn more about products and teaching? What do the most successful people do when it comes to learning new &hellip; </p>\n<p class=\"link-more\"><a href=\"http://account.6icatalyst.com/api/popover-dq-product-knowledge-step-3-dq-knowledge/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> &#8220;Product Knowledge Step 3 DQ knowledge&#8221;</span></a></p>\n",
+			"protected": false
+		},
+		"author": 3,
+		"featured_media": 0,
+		"parent": 0,
+		"menu_order": 0,
+		"comment_status": "closed",
+		"ping_status": "closed",
+		"template": "",
+		"meta": [],
+		"wf_page_folders": [21],
+		"_links": {
+			"self": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages/1201"
+				}
+			],
+			"collection": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages"
+				}
+			],
+			"about": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/types/page"
+				}
+			],
+			"author": [
+				{
+					"embeddable": true,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/users/3"
+				}
+			],
+			"replies": [
+				{
+					"embeddable": true,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/comments?post=1201"
+				}
+			],
+			"version-history": [
+				{
+					"count": 2,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages/1201/revisions"
+				}
+			],
+			"predecessor-version": [
+				{
+					"id": 1745,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages/1201/revisions/1745"
+				}
+			],
+			"wp:attachment": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/media?parent=1201"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "wf_page_folders",
+					"embeddable": true,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/wf_page_folders?post=1201"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https://api.w.org/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 1198,
+		"date": "2018-09-07T17:55:42",
+		"date_gmt": "2018-09-07T17:55:42",
+		"guid": {
+			"rendered": "http://account.6icatalyst.com/api/?page_id=1198"
+		},
+		"modified": "2019-03-11T20:08:13",
+		"modified_gmt": "2019-03-11T20:08:13",
+		"slug": "popover-id-product-knowledge-step-2-id-speak-clearly",
+		"status": "publish",
+		"type": "page",
+		"link": "http://account.6icatalyst.com/api/popover-id-product-knowledge-step-2-id-speak-clearly/",
+		"title": {
+			"rendered": "Product Knowledge step 2 ID speak clearly"
+		},
+		"content": {
+			"rendered": "<ul>\n<li>I will speak more clearly and directly when I teach.</li>\n<li>I will practice maintaining eye contact when I teach.</li>\n<li>I will learn five new techniques for presenting and demonstrating the products.</li>\n<li>I will learn a new questioning strategy to improve the discussions I have with people.</li>\n<li>I will praise people\u2019s responses and communicate support for what they say.</li>\n<li>I will invite others to participate in classes and give testimonials about how the products are successful.</li>\n<li>I will learn new ways of making my classes more interactive.</li>\n<li>I will learn how to use certain technology so my classes are more engaging or exciting.</li>\n<li>I will learn how to more effectively close a class.</li>\n</ul>\n",
+			"protected": false
+		},
+		"excerpt": {
+			"rendered": "<p>I will speak more clearly and directly when I teach. I will practice maintaining eye contact when I teach. I will learn five new techniques for presenting and demonstrating the products. I will learn a new questioning strategy to improve the discussions I have with people. I will praise people\u2019s responses and communicate support for &hellip; </p>\n<p class=\"link-more\"><a href=\"http://account.6icatalyst.com/api/popover-id-product-knowledge-step-2-id-speak-clearly/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> &#8220;Product Knowledge step 2 ID speak clearly&#8221;</span></a></p>\n",
+			"protected": false
+		},
+		"author": 3,
+		"featured_media": 0,
+		"parent": 0,
+		"menu_order": 0,
+		"comment_status": "closed",
+		"ping_status": "closed",
+		"template": "",
+		"meta": [],
+		"wf_page_folders": [22],
+		"_links": {
+			"self": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages/1198"
+				}
+			],
+			"collection": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages"
+				}
+			],
+			"about": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/types/page"
+				}
+			],
+			"author": [
+				{
+					"embeddable": true,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/users/3"
+				}
+			],
+			"replies": [
+				{
+					"embeddable": true,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/comments?post=1198"
+				}
+			],
+			"version-history": [
+				{
+					"count": 2,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages/1198/revisions"
+				}
+			],
+			"predecessor-version": [
+				{
+					"id": 1721,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages/1198/revisions/1721"
+				}
+			],
+			"wp:attachment": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/media?parent=1198"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "wf_page_folders",
+					"embeddable": true,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/wf_page_folders?post=1198"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https://api.w.org/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 1195,
+		"date": "2018-09-07T17:49:33",
+		"date_gmt": "2018-09-07T17:49:33",
+		"guid": {
+			"rendered": "http://account.6icatalyst.com/api/?page_id=1195"
+		},
+		"modified": "2019-03-11T20:07:38",
+		"modified_gmt": "2019-03-11T20:07:38",
+		"slug": "popover-id-product-knowledge-step-2-id-chemical",
+		"status": "publish",
+		"type": "page",
+		"link": "http://account.6icatalyst.com/api/popover-id-product-knowledge-step-2-id-chemical/",
+		"title": {
+			"rendered": "Product Knowledge Step 2 ID Chemical"
+		},
+		"content": {
+			"rendered": "<ul>\n<li>I will learn the chemical composition of each product.</li>\n<li>I will learn the research that supports the effectiveness of each product.</li>\n<li>I will learn how to use each product so the methods of using it are clearly understood.</li>\n<li>I will learn more about which products can be used for specific problems.</li>\n<li>I will tell true accounts of the effective use of these products and include testimonials.</li>\n<li>I will learn the limitations of each product so I can avoid exaggerating its usefulness.</li>\n<li>I will learn a variety of combinations and applications so I can teach multiple benefits and uses of the products.</li>\n</ul>\n",
+			"protected": false
+		},
+		"excerpt": {
+			"rendered": "<p>I will learn the chemical composition of each product. I will learn the research that supports the effectiveness of each product. I will learn how to use each product so the methods of using it are clearly understood. I will learn more about which products can be used for specific problems. I will tell true &hellip; </p>\n<p class=\"link-more\"><a href=\"http://account.6icatalyst.com/api/popover-id-product-knowledge-step-2-id-chemical/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> &#8220;Product Knowledge Step 2 ID Chemical&#8221;</span></a></p>\n",
+			"protected": false
+		},
+		"author": 3,
+		"featured_media": 0,
+		"parent": 0,
+		"menu_order": 0,
+		"comment_status": "closed",
+		"ping_status": "closed",
+		"template": "",
+		"meta": [],
+		"wf_page_folders": [22],
+		"_links": {
+			"self": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages/1195"
+				}
+			],
+			"collection": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages"
+				}
+			],
+			"about": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/types/page"
+				}
+			],
+			"author": [
+				{
+					"embeddable": true,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/users/3"
+				}
+			],
+			"replies": [
+				{
+					"embeddable": true,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/comments?post=1195"
+				}
+			],
+			"version-history": [
+				{
+					"count": 2,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages/1195/revisions"
+				}
+			],
+			"predecessor-version": [
+				{
+					"id": 1720,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages/1195/revisions/1720"
+				}
+			],
+			"wp:attachment": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/media?parent=1195"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "wf_page_folders",
+					"embeddable": true,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/wf_page_folders?post=1195"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https://api.w.org/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 1192,
+		"date": "2018-09-07T17:31:28",
+		"date_gmt": "2018-09-07T17:31:28",
+		"guid": {
+			"rendered": "http://account.6icatalyst.com/api/?page_id=1192"
+		},
+		"modified": "2019-03-11T20:30:17",
+		"modified_gmt": "2019-03-11T20:30:17",
+		"slug": "popover-dq-product-knowledge-step-2-dq-know-enough",
+		"status": "publish",
+		"type": "page",
+		"link": "http://account.6icatalyst.com/api/popover-dq-product-knowledge-step-2-dq-know-enough/",
+		"title": {
+			"rendered": "Product Knowledge Step 2 DQ know enough"
+		},
+		"content": {
+			"rendered": "<ul>\n<li>How can you tell if you know enough about the product or enough about teaching?</li>\n<li>What are the signs that a person does not know enough about the product?</li>\n<li>If leaders do not hold classes or close well in the classes, do you think that suggests they do not know enough about the product or about teaching?</li>\n<li>Do you have specific learning goals?</li>\n<li>What do you know about using visual aids to teach?</li>\n<li>Have you talked with a more experienced person to learn how this person presents and demonstrates the effectiveness of the products?</li>\n<li>Do you believe that the more you know, the more confident you will feel?</li>\n<li>Do you encourage people in your classes to tell about their successes with the products?</li>\n<li>What are your favorite products, and which products do you share the most?</li>\n<li>What are you currently doing to emphasize the need for continued learning?</li>\n</ul>\n",
+			"protected": false
+		},
+		"excerpt": {
+			"rendered": "<p>How can you tell if you know enough about the product or enough about teaching? What are the signs that a person does not know enough about the product? If leaders do not hold classes or close well in the classes, do you think that suggests they do not know enough about the product or &hellip; </p>\n<p class=\"link-more\"><a href=\"http://account.6icatalyst.com/api/popover-dq-product-knowledge-step-2-dq-know-enough/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> &#8220;Product Knowledge Step 2 DQ know enough&#8221;</span></a></p>\n",
+			"protected": false
+		},
+		"author": 3,
+		"featured_media": 0,
+		"parent": 0,
+		"menu_order": 0,
+		"comment_status": "closed",
+		"ping_status": "closed",
+		"template": "",
+		"meta": [],
+		"wf_page_folders": [21],
+		"_links": {
+			"self": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages/1192"
+				}
+			],
+			"collection": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages"
+				}
+			],
+			"about": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/types/page"
+				}
+			],
+			"author": [
+				{
+					"embeddable": true,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/users/3"
+				}
+			],
+			"replies": [
+				{
+					"embeddable": true,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/comments?post=1192"
+				}
+			],
+			"version-history": [
+				{
+					"count": 2,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages/1192/revisions"
+				}
+			],
+			"predecessor-version": [
+				{
+					"id": 1743,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages/1192/revisions/1743"
+				}
+			],
+			"wp:attachment": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/media?parent=1192"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "wf_page_folders",
+					"embeddable": true,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/wf_page_folders?post=1192"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https://api.w.org/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 1188,
+		"date": "2018-09-07T16:50:44",
+		"date_gmt": "2018-09-07T16:50:44",
+		"guid": {
+			"rendered": "http://account.6icatalyst.com/api/?page_id=1188"
+		},
+		"modified": "2019-03-11T20:06:50",
+		"modified_gmt": "2019-03-11T20:06:50",
+		"slug": "popover-id-product-knowledge-step-1-ideas-share-things",
+		"status": "publish",
+		"type": "page",
+		"link": "http://account.6icatalyst.com/api/popover-id-product-knowledge-step-1-ideas-share-things/",
+		"title": {
+			"rendered": "Product Knowledge Step 1 ID Share things"
+		},
+		"content": {
+			"rendered": "<ul>\n<li>I will share things I learn with other people (team members, customers, etc.) so</li>\n<li>I am seen as a trusted resource.</li>\n<li>I will stay updated on new products, applications, and strategies so I am viewed as a reliable resource.</li>\n<li>I will communicate better with members of my team about the importance of learning about the product.</li>\n<li>I will keep my promises to my team.</li>\n<li>I will ask for my team\u2019s ideas about how to improve learning about the products and teaching.</li>\n<li>I will create a sense of teamwork with the goal in mind that all of us need to learn more and be effective teachers.</li>\n</ul>\n",
+			"protected": false
+		},
+		"excerpt": {
+			"rendered": "<p>I will share things I learn with other people (team members, customers, etc.) so I am seen as a trusted resource. I will stay updated on new products, applications, and strategies so I am viewed as a reliable resource. I will communicate better with members of my team about the importance of learning about the &hellip; </p>\n<p class=\"link-more\"><a href=\"http://account.6icatalyst.com/api/popover-id-product-knowledge-step-1-ideas-share-things/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> &#8220;Product Knowledge Step 1 ID Share things&#8221;</span></a></p>\n",
+			"protected": false
+		},
+		"author": 3,
+		"featured_media": 0,
+		"parent": 0,
+		"menu_order": 0,
+		"comment_status": "closed",
+		"ping_status": "closed",
+		"template": "",
+		"meta": [],
+		"wf_page_folders": [22],
+		"_links": {
+			"self": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages/1188"
+				}
+			],
+			"collection": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages"
+				}
+			],
+			"about": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/types/page"
+				}
+			],
+			"author": [
+				{
+					"embeddable": true,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/users/3"
+				}
+			],
+			"replies": [
+				{
+					"embeddable": true,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/comments?post=1188"
+				}
+			],
+			"version-history": [
+				{
+					"count": 3,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages/1188/revisions"
+				}
+			],
+			"predecessor-version": [
+				{
+					"id": 1719,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages/1188/revisions/1719"
+				}
+			],
+			"wp:attachment": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/media?parent=1188"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "wf_page_folders",
+					"embeddable": true,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/wf_page_folders?post=1188"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https://api.w.org/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 1185,
+		"date": "2018-09-07T16:45:56",
+		"date_gmt": "2018-09-07T16:45:56",
+		"guid": {
+			"rendered": "http://account.6icatalyst.com/api/?page_id=1185"
+		},
+		"modified": "2019-03-11T20:30:36",
+		"modified_gmt": "2019-03-11T20:30:36",
+		"slug": "popover-dq-product-knowledge-step-1-dq-team-teach",
+		"status": "publish",
+		"type": "page",
+		"link": "http://account.6icatalyst.com/api/popover-dq-product-knowledge-step-1-dq-team-teach/",
+		"title": {
+			"rendered": "Product Knowledge Step 1 DQ Team teach"
+		},
+		"content": {
+			"rendered": "<ul>\n<li>Do you team teach with people to make sure good teaching is happening?</li>\n<li>Do your leaders know where to get information about the product or how to teach?</li>\n<li>How much do you emphasize the necessity of learning about your product and teaching effectively as a means of creating trust with people?</li>\n<li>Have you organized meetings for your team to build trust and teamwork?</li>\n<li>Do you know how to create trust with people who attend your classes?</li>\n<li>What conditions must exist for your team to feel free to ask questions and make comments about the product and effective teaching?</li>\n</ul>\n",
+			"protected": false
+		},
+		"excerpt": {
+			"rendered": "<p>Do you team teach with people to make sure good teaching is happening? Do your leaders know where to get information about the product or how to teach? How much do you emphasize the necessity of learning about your product and teaching effectively as a means of creating trust with people? Have you organized meetings &hellip; </p>\n<p class=\"link-more\"><a href=\"http://account.6icatalyst.com/api/popover-dq-product-knowledge-step-1-dq-team-teach/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> &#8220;Product Knowledge Step 1 DQ Team teach&#8221;</span></a></p>\n",
+			"protected": false
+		},
+		"author": 3,
+		"featured_media": 0,
+		"parent": 0,
+		"menu_order": 0,
+		"comment_status": "closed",
+		"ping_status": "closed",
+		"template": "",
+		"meta": [],
+		"wf_page_folders": [21],
+		"_links": {
+			"self": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages/1185"
+				}
+			],
+			"collection": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages"
+				}
+			],
+			"about": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/types/page"
+				}
+			],
+			"author": [
+				{
+					"embeddable": true,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/users/3"
+				}
+			],
+			"replies": [
+				{
+					"embeddable": true,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/comments?post=1185"
+				}
+			],
+			"version-history": [
+				{
+					"count": 2,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages/1185/revisions"
+				}
+			],
+			"predecessor-version": [
+				{
+					"id": 1744,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages/1185/revisions/1744"
+				}
+			],
+			"wp:attachment": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/media?parent=1185"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "wf_page_folders",
+					"embeddable": true,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/wf_page_folders?post=1185"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https://api.w.org/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 1170,
+		"date": "2018-09-06T20:48:28",
+		"date_gmt": "2018-09-06T20:48:28",
+		"guid": {
+			"rendered": "http://account.6icatalyst.com/api/?page_id=1170"
+		},
+		"modified": "2019-03-06T22:46:08",
+		"modified_gmt": "2019-03-06T22:46:08",
+		"slug": "popover-co-hit-rank-render-acct-co",
+		"status": "publish",
+		"type": "page",
+		"link": "http://account.6icatalyst.com/api/popover-co-hit-rank-render-acct-co/",
+		"title": {
+			"rendered": "Hit Rank Render Acct CO"
+		},
+		"content": {
+			"rendered": "<p>Looking for support to motivate your teams so you all hit rank faster? Go to 6innovations.com to find a personal 6i Catalyst coach.</p>\n<p>Pressures of hitting new ranks can be hard on relationships and the family. Go to FirstAnswers.com to find a relationship coach who can help you create balance and succeed with both.</p>\n",
+			"protected": false
+		},
+		"excerpt": {
+			"rendered": "<p>Looking for support to motivate your teams so you all hit rank faster? Go to 6innovations.com to find a personal 6i Catalyst coach. Pressures of hitting new ranks can be hard on relationships and the family. Go to FirstAnswers.com to find a relationship coach who can help you create balance and succeed with both.</p>\n",
+			"protected": false
+		},
+		"author": 3,
+		"featured_media": 0,
+		"parent": 0,
+		"menu_order": 0,
+		"comment_status": "closed",
+		"ping_status": "closed",
+		"template": "",
+		"meta": [],
+		"wf_page_folders": [23],
+		"_links": {
+			"self": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages/1170"
+				}
+			],
+			"collection": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages"
+				}
+			],
+			"about": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/types/page"
+				}
+			],
+			"author": [
+				{
+					"embeddable": true,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/users/3"
+				}
+			],
+			"replies": [
+				{
+					"embeddable": true,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/comments?post=1170"
+				}
+			],
+			"version-history": [
+				{
+					"count": 2,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages/1170/revisions"
+				}
+			],
+			"predecessor-version": [
+				{
+					"id": 1677,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages/1170/revisions/1677"
+				}
+			],
+			"wp:attachment": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/media?parent=1170"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "wf_page_folders",
+					"embeddable": true,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/wf_page_folders?post=1170"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https://api.w.org/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 1167,
+		"date": "2018-09-06T20:43:13",
+		"date_gmt": "2018-09-06T20:43:13",
+		"guid": {
+			"rendered": "http://account.6icatalyst.com/api/?page_id=1167"
+		},
+		"modified": "2019-03-11T19:56:32",
+		"modified_gmt": "2019-03-11T19:56:32",
+		"slug": "popover-id-hit-rank-render-acct-id-weekly-phone",
+		"status": "publish",
+		"type": "page",
+		"link": "http://account.6icatalyst.com/api/popover-id-hit-rank-render-acct-id-weekly-phone/",
+		"title": {
+			"rendered": "Hit Rank Render Acct ID weekly phone"
+		},
+		"content": {
+			"rendered": "<ul>\n<li>I will schedule a weekly phone conversation or email to my upline.</li>\n<li>I will ask my team members to make weekly reports and include in their reports what they think is most and least effective.</li>\n<li>I will communicate to my entire team each week about the progress we are making.</li>\n</ul>\n",
+			"protected": false
+		},
+		"excerpt": {
+			"rendered": "<p>I will schedule a weekly phone conversation or email to my upline. I will ask my team members to make weekly reports and include in their reports what they think is most and least effective. I will communicate to my entire team each week about the progress we are making.</p>\n",
+			"protected": false
+		},
+		"author": 3,
+		"featured_media": 0,
+		"parent": 0,
+		"menu_order": 0,
+		"comment_status": "closed",
+		"ping_status": "closed",
+		"template": "",
+		"meta": [],
+		"wf_page_folders": [22],
+		"_links": {
+			"self": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages/1167"
+				}
+			],
+			"collection": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages"
+				}
+			],
+			"about": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/types/page"
+				}
+			],
+			"author": [
+				{
+					"embeddable": true,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/users/3"
+				}
+			],
+			"replies": [
+				{
+					"embeddable": true,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/comments?post=1167"
+				}
+			],
+			"version-history": [
+				{
+					"count": 2,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages/1167/revisions"
+				}
+			],
+			"predecessor-version": [
+				{
+					"id": 1701,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages/1167/revisions/1701"
+				}
+			],
+			"wp:attachment": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/media?parent=1167"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "wf_page_folders",
+					"embeddable": true,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/wf_page_folders?post=1167"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https://api.w.org/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 1162,
+		"date": "2018-09-06T20:35:11",
+		"date_gmt": "2018-09-06T20:35:11",
+		"guid": {
+			"rendered": "http://account.6icatalyst.com/api/?page_id=1162"
+		},
+		"modified": "2019-03-11T20:12:34",
+		"modified_gmt": "2019-03-11T20:12:34",
+		"slug": "popover-dq-hit-rank-render-acct-dq-reporting-progress",
+		"status": "publish",
+		"type": "page",
+		"link": "http://account.6icatalyst.com/api/popover-dq-hit-rank-render-acct-dq-reporting-progress/",
+		"title": {
+			"rendered": "Hit Rank Render Acct DQ reporting progress"
+		},
+		"content": {
+			"rendered": "<ul>\n<li>How can reporting your progress help you?</li>\n<li>How often do you want to report your progress so you\u2019re working consistently on your goals?</li>\n<li>What information do you want from people in your downline to make sure they are working toward their next rank? How and when do you want to receive this information?</li>\n<li>How do you want to give feedback to encourage people and promote improvement?</li>\n</ul>\n",
+			"protected": false
+		},
+		"excerpt": {
+			"rendered": "<p>How can reporting your progress help you? How often do you want to report your progress so you\u2019re working consistently on your goals? What information do you want from people in your downline to make sure they are working toward their next rank? How and when do you want to receive this information? How do &hellip; </p>\n<p class=\"link-more\"><a href=\"http://account.6icatalyst.com/api/popover-dq-hit-rank-render-acct-dq-reporting-progress/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> &#8220;Hit Rank Render Acct DQ reporting progress&#8221;</span></a></p>\n",
+			"protected": false
+		},
+		"author": 3,
+		"featured_media": 0,
+		"parent": 0,
+		"menu_order": 0,
+		"comment_status": "closed",
+		"ping_status": "closed",
+		"template": "",
+		"meta": [],
+		"wf_page_folders": [21],
+		"_links": {
+			"self": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages/1162"
+				}
+			],
+			"collection": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages"
+				}
+			],
+			"about": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/types/page"
+				}
+			],
+			"author": [
+				{
+					"embeddable": true,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/users/3"
+				}
+			],
+			"replies": [
+				{
+					"embeddable": true,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/comments?post=1162"
+				}
+			],
+			"version-history": [
+				{
+					"count": 2,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages/1162/revisions"
+				}
+			],
+			"predecessor-version": [
+				{
+					"id": 1728,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages/1162/revisions/1728"
+				}
+			],
+			"wp:attachment": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/media?parent=1162"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "wf_page_folders",
+					"embeddable": true,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/wf_page_folders?post=1162"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https://api.w.org/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 1157,
+		"date": "2018-09-06T20:17:41",
+		"date_gmt": "2018-09-06T20:17:41",
+		"guid": {
+			"rendered": "http://account.6icatalyst.com/api/?page_id=1157"
+		},
+		"modified": "2019-03-11T20:00:02",
+		"modified_gmt": "2019-03-11T20:00:02",
+		"slug": "popover-id-hit-rank-step-6-id-measure-increases",
+		"status": "publish",
+		"type": "page",
+		"link": "http://account.6icatalyst.com/api/popover-id-hit-rank-step-6-id-measure-increases/",
+		"title": {
+			"rendered": "Hit Rank Step 6 ID Measure increases"
+		},
+		"content": {
+			"rendered": "<ul>\n<li>Every week I will measure increases in volume, loyalty enrollments, classes, and leader productivity and compare to previous weeks.</li>\n<li>I will identify the total number of people on my team who advanced at least one rank during the last month and then compare with the number of people who advance at least one rank this month.</li>\n<li>I will ask every member of my team to measure their progress and report to me weekly.</li>\n</ul>\n",
+			"protected": false
+		},
+		"excerpt": {
+			"rendered": "<p>Every week I will measure increases in volume, loyalty enrollments, classes, and leader productivity and compare to previous weeks. I will identify the total number of people on my team who advanced at least one rank during the last month and then compare with the number of people who advance at least one rank this &hellip; </p>\n<p class=\"link-more\"><a href=\"http://account.6icatalyst.com/api/popover-id-hit-rank-step-6-id-measure-increases/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> &#8220;Hit Rank Step 6 ID Measure increases&#8221;</span></a></p>\n",
+			"protected": false
+		},
+		"author": 3,
+		"featured_media": 0,
+		"parent": 0,
+		"menu_order": 0,
+		"comment_status": "closed",
+		"ping_status": "closed",
+		"template": "",
+		"meta": [],
+		"wf_page_folders": [22],
+		"_links": {
+			"self": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages/1157"
+				}
+			],
+			"collection": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages"
+				}
+			],
+			"about": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/types/page"
+				}
+			],
+			"author": [
+				{
+					"embeddable": true,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/users/3"
+				}
+			],
+			"replies": [
+				{
+					"embeddable": true,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/comments?post=1157"
+				}
+			],
+			"version-history": [
+				{
+					"count": 2,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages/1157/revisions"
+				}
+			],
+			"predecessor-version": [
+				{
+					"id": 1707,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages/1157/revisions/1707"
+				}
+			],
+			"wp:attachment": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/media?parent=1157"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "wf_page_folders",
+					"embeddable": true,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/wf_page_folders?post=1157"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https://api.w.org/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 1154,
+		"date": "2018-09-06T20:13:06",
+		"date_gmt": "2018-09-06T20:13:06",
+		"guid": {
+			"rendered": "http://account.6icatalyst.com/api/?page_id=1154"
+		},
+		"modified": "2019-03-11T20:17:05",
+		"modified_gmt": "2019-03-11T20:17:05",
+		"slug": "popover-dq-hit-rank-step-6-dq-measure-better",
+		"status": "publish",
+		"type": "page",
+		"link": "http://account.6icatalyst.com/api/popover-dq-hit-rank-step-6-dq-measure-better/",
+		"title": {
+			"rendered": "Hit Rank Step 6 DQ Measure Better"
+		},
+		"content": {
+			"rendered": "<ul>\n<li>How will you measure whether you and/or others are actually hitting rank faster?</li>\n<li>How often do you need to measure to make sure you are identifying progress and staying on track to hit rank goals?</li>\n<li>How do you want to communicate progress or the lack of it to motivate people to maintain or increase their efforts?</li>\n<li>Why is accurate and frequent (but not too frequent) measurement key to improving performance?</li>\n</ul>\n",
+			"protected": false
+		},
+		"excerpt": {
+			"rendered": "<p>How will you measure whether you and/or others are actually hitting rank faster? How often do you need to measure to make sure you are identifying progress and staying on track to hit rank goals? How do you want to communicate progress or the lack of it to motivate people to maintain or increase their &hellip; </p>\n<p class=\"link-more\"><a href=\"http://account.6icatalyst.com/api/popover-dq-hit-rank-step-6-dq-measure-better/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> &#8220;Hit Rank Step 6 DQ Measure Better&#8221;</span></a></p>\n",
+			"protected": false
+		},
+		"author": 3,
+		"featured_media": 0,
+		"parent": 0,
+		"menu_order": 0,
+		"comment_status": "closed",
+		"ping_status": "closed",
+		"template": "",
+		"meta": [],
+		"wf_page_folders": [21],
+		"_links": {
+			"self": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages/1154"
+				}
+			],
+			"collection": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages"
+				}
+			],
+			"about": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/types/page"
+				}
+			],
+			"author": [
+				{
+					"embeddable": true,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/users/3"
+				}
+			],
+			"replies": [
+				{
+					"embeddable": true,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/comments?post=1154"
+				}
+			],
+			"version-history": [
+				{
+					"count": 2,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages/1154/revisions"
+				}
+			],
+			"predecessor-version": [
+				{
+					"id": 1734,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages/1154/revisions/1734"
+				}
+			],
+			"wp:attachment": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/media?parent=1154"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "wf_page_folders",
+					"embeddable": true,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/wf_page_folders?post=1154"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https://api.w.org/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 1151,
+		"date": "2018-09-06T20:07:28",
+		"date_gmt": "2018-09-06T20:07:28",
+		"guid": {
+			"rendered": "http://account.6icatalyst.com/api/?page_id=1151"
+		},
+		"modified": "2019-03-11T19:59:38",
+		"modified_gmt": "2019-03-11T19:59:38",
+		"slug": "popover-id-hit-rank-step-5-id-better-time-management",
+		"status": "publish",
+		"type": "page",
+		"link": "http://account.6icatalyst.com/api/popover-id-hit-rank-step-5-id-better-time-management/",
+		"title": {
+			"rendered": "Hit Rank Step 5 ID better time management"
+		},
+		"content": {
+			"rendered": "<ul>\n<li>I will read about better time management and put this knowledge into practice as I schedule my days.</li>\n<li>I will attend a training on building my business online.</li>\n<li>I will contact two upline people and ask for their ideas about improvements I can make.</li>\n<li>I will set up training programs to make sure that my team understands what can be done to hit rank faster.</li>\n<li>I will ask my team members to regularly learn new methods and report what they learn to the rest of us.</li>\n<li>I will consolidate new ideas into a strategy that makes hitting rank faster possible.</li>\n<li>I will implement the leadership strategies in 6i Catalyst with my teams and track results.</li>\n</ul>\n",
+			"protected": false
+		},
+		"excerpt": {
+			"rendered": "<p>I will read about better time management and put this knowledge into practice as I schedule my days. I will attend a training on building my business online. I will contact two upline people and ask for their ideas about improvements I can make. I will set up training programs to make sure that my &hellip; </p>\n<p class=\"link-more\"><a href=\"http://account.6icatalyst.com/api/popover-id-hit-rank-step-5-id-better-time-management/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> &#8220;Hit Rank Step 5 ID better time management&#8221;</span></a></p>\n",
+			"protected": false
+		},
+		"author": 3,
+		"featured_media": 0,
+		"parent": 0,
+		"menu_order": 0,
+		"comment_status": "closed",
+		"ping_status": "closed",
+		"template": "",
+		"meta": [],
+		"wf_page_folders": [22],
+		"_links": {
+			"self": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages/1151"
+				}
+			],
+			"collection": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages"
+				}
+			],
+			"about": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/types/page"
+				}
+			],
+			"author": [
+				{
+					"embeddable": true,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/users/3"
+				}
+			],
+			"replies": [
+				{
+					"embeddable": true,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/comments?post=1151"
+				}
+			],
+			"version-history": [
+				{
+					"count": 2,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages/1151/revisions"
+				}
+			],
+			"predecessor-version": [
+				{
+					"id": 1706,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages/1151/revisions/1706"
+				}
+			],
+			"wp:attachment": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/media?parent=1151"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "wf_page_folders",
+					"embeddable": true,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/wf_page_folders?post=1151"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https://api.w.org/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 1148,
+		"date": "2018-09-06T20:04:33",
+		"date_gmt": "2018-09-06T20:04:33",
+		"guid": {
+			"rendered": "http://account.6icatalyst.com/api/?page_id=1148"
+		},
+		"modified": "2019-03-11T20:16:40",
+		"modified_gmt": "2019-03-11T20:16:40",
+		"slug": "popover-dq-hit-rank-step-5-dq-know-more",
+		"status": "publish",
+		"type": "page",
+		"link": "http://account.6icatalyst.com/api/popover-dq-hit-rank-step-5-dq-know-more/",
+		"title": {
+			"rendered": "Hit Rank Step 5 DQ Know More"
+		},
+		"content": {
+			"rendered": "<ul>\n<li>What do you need to know more about to motivate yourself or others to hit rank faster?</li>\n<li>Who can you contact who knows more about hitting rank than you do?</li>\n<li>What kind of training/learning can you provide for your team members?</li>\n<li>What changes do you need to make to improve your efforts to hit rank faster?</li>\n<li>What skills do you need to improve that will give you the competence to hit rank faster? (i.e., time management, planning, communication, collaboration, problem solving, networking, etc.)</li>\n</ul>\n",
+			"protected": false
+		},
+		"excerpt": {
+			"rendered": "<p>What do you need to know more about to motivate yourself or others to hit rank faster? Who can you contact who knows more about hitting rank than you do? What kind of training/learning can you provide for your team members? What changes do you need to make to improve your efforts to hit rank &hellip; </p>\n<p class=\"link-more\"><a href=\"http://account.6icatalyst.com/api/popover-dq-hit-rank-step-5-dq-know-more/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> &#8220;Hit Rank Step 5 DQ Know More&#8221;</span></a></p>\n",
+			"protected": false
+		},
+		"author": 3,
+		"featured_media": 0,
+		"parent": 0,
+		"menu_order": 0,
+		"comment_status": "closed",
+		"ping_status": "closed",
+		"template": "",
+		"meta": [],
+		"wf_page_folders": [21],
+		"_links": {
+			"self": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages/1148"
+				}
+			],
+			"collection": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages"
+				}
+			],
+			"about": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/types/page"
+				}
+			],
+			"author": [
+				{
+					"embeddable": true,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/users/3"
+				}
+			],
+			"replies": [
+				{
+					"embeddable": true,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/comments?post=1148"
+				}
+			],
+			"version-history": [
+				{
+					"count": 2,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages/1148/revisions"
+				}
+			],
+			"predecessor-version": [
+				{
+					"id": 1733,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages/1148/revisions/1733"
+				}
+			],
+			"wp:attachment": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/media?parent=1148"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "wf_page_folders",
+					"embeddable": true,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/wf_page_folders?post=1148"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https://api.w.org/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 1145,
+		"date": "2018-09-06T20:01:19",
+		"date_gmt": "2018-09-06T20:01:19",
+		"guid": {
+			"rendered": "http://account.6icatalyst.com/api/?page_id=1145"
+		},
+		"modified": "2019-03-11T19:59:21",
+		"modified_gmt": "2019-03-11T19:59:21",
+		"slug": "popover-id-hit-rank-step-4-id-ally-meg",
+		"status": "publish",
+		"type": "page",
+		"link": "http://account.6icatalyst.com/api/popover-id-hit-rank-step-4-id-ally-meg/",
+		"title": {
+			"rendered": "Hit Rank Step 4 ID Ally Meg"
+		},
+		"content": {
+			"rendered": "<ul>\n<li><strong>Ally:</strong> Meg, Leader of Leg 1<br />\n<strong>How I will help this ally:</strong> I will do two trainings for Meg\u2019s leaders about increasing volume and loyalty enrollments.<br />\n<strong>How this ally will help me:</strong> Meg\u2019s team will reach their team volume goals without incentive from me.</li>\n<li><strong>Ally:</strong> Kyle, Leader of Leg 2<br />\n<strong>How you will help ally:</strong> I will team teach a class with Kyle to increase his team\u2019s loyalty enrollments.<br />\n<strong>How your ally will help you:</strong> Kyle\u2019s team will reach their loyalty goals so our team has the required loyalty enrollments for my next rank goal.</li>\n</ul>\n",
+			"protected": false
+		},
+		"excerpt": {
+			"rendered": "<p>Ally: Meg, Leader of Leg 1 How I will help this ally: I will do two trainings for Meg\u2019s leaders about increasing volume and loyalty enrollments. How this ally will help me: Meg\u2019s team will reach their team volume goals without incentive from me. Ally: Kyle, Leader of Leg 2 How you will help ally: &hellip; </p>\n<p class=\"link-more\"><a href=\"http://account.6icatalyst.com/api/popover-id-hit-rank-step-4-id-ally-meg/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> &#8220;Hit Rank Step 4 ID Ally Meg&#8221;</span></a></p>\n",
+			"protected": false
+		},
+		"author": 3,
+		"featured_media": 0,
+		"parent": 0,
+		"menu_order": 0,
+		"comment_status": "closed",
+		"ping_status": "closed",
+		"template": "",
+		"meta": [],
+		"wf_page_folders": [22],
+		"_links": {
+			"self": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages/1145"
+				}
+			],
+			"collection": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages"
+				}
+			],
+			"about": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/types/page"
+				}
+			],
+			"author": [
+				{
+					"embeddable": true,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/users/3"
+				}
+			],
+			"replies": [
+				{
+					"embeddable": true,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/comments?post=1145"
+				}
+			],
+			"version-history": [
+				{
+					"count": 2,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages/1145/revisions"
+				}
+			],
+			"predecessor-version": [
+				{
+					"id": 1705,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages/1145/revisions/1705"
+				}
+			],
+			"wp:attachment": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/media?parent=1145"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "wf_page_folders",
+					"embeddable": true,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/wf_page_folders?post=1145"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https://api.w.org/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 1142,
+		"date": "2018-09-06T19:56:37",
+		"date_gmt": "2018-09-06T19:56:37",
+		"guid": {
+			"rendered": "http://account.6icatalyst.com/api/?page_id=1142"
+		},
+		"modified": "2019-03-11T20:15:47",
+		"modified_gmt": "2019-03-11T20:15:47",
+		"slug": "popover-dq-hit-rank-step-4-dq-cooperation",
+		"status": "publish",
+		"type": "page",
+		"link": "http://account.6icatalyst.com/api/popover-dq-hit-rank-step-4-dq-cooperation/",
+		"title": {
+			"rendered": "Hit Rank Step 4 DQ Cooperation"
+		},
+		"content": {
+			"rendered": "<ul>\n<li>What does cooperation or collaboration with your downline mean to you when you\u2019re trying to hit rank faster?</li>\n<li>How do you build a sense of cooperation with your builders?</li>\n<li>Do you ask for cooperation with members of your team and emphasize the idea that collaboration improves results for everyone?</li>\n<li>Who can help you achieve your goals?</li>\n<li>What is your plan for energizing alliances with others?</li>\n<li>Have you asked others to participate in a plan to hit rank faster or asked others how they think they can hit rank faster?</li>\n<li>What leadership skills can you use to motivate others to help you?</li>\n<li>How are you going to form alliances with those who can make it possible for you to hit rank faster?</li>\n</ul>\n",
+			"protected": false
+		},
+		"excerpt": {
+			"rendered": "<p>What does cooperation or collaboration with your downline mean to you when you\u2019re trying to hit rank faster? How do you build a sense of cooperation with your builders? Do you ask for cooperation with members of your team and emphasize the idea that collaboration improves results for everyone? Who can help you achieve your &hellip; </p>\n<p class=\"link-more\"><a href=\"http://account.6icatalyst.com/api/popover-dq-hit-rank-step-4-dq-cooperation/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> &#8220;Hit Rank Step 4 DQ Cooperation&#8221;</span></a></p>\n",
+			"protected": false
+		},
+		"author": 3,
+		"featured_media": 0,
+		"parent": 0,
+		"menu_order": 0,
+		"comment_status": "closed",
+		"ping_status": "closed",
+		"template": "",
+		"meta": [],
+		"wf_page_folders": [21],
+		"_links": {
+			"self": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages/1142"
+				}
+			],
+			"collection": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages"
+				}
+			],
+			"about": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/types/page"
+				}
+			],
+			"author": [
+				{
+					"embeddable": true,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/users/3"
+				}
+			],
+			"replies": [
+				{
+					"embeddable": true,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/comments?post=1142"
+				}
+			],
+			"version-history": [
+				{
+					"count": 2,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages/1142/revisions"
+				}
+			],
+			"predecessor-version": [
+				{
+					"id": 1732,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages/1142/revisions/1732"
+				}
+			],
+			"wp:attachment": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/media?parent=1142"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "wf_page_folders",
+					"embeddable": true,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/wf_page_folders?post=1142"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https://api.w.org/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 1139,
+		"date": "2018-09-06T19:52:05",
+		"date_gmt": "2018-09-06T19:52:05",
+		"guid": {
+			"rendered": "http://account.6icatalyst.com/api/?page_id=1139"
+		},
+		"modified": "2019-03-11T19:55:56",
+		"modified_gmt": "2019-03-11T19:55:56",
+		"slug": "popover-id-hit-rank-10-day-id",
+		"status": "publish",
+		"type": "page",
+		"link": "http://account.6icatalyst.com/api/popover-id-hit-rank-10-day-id/",
+		"title": {
+			"rendered": "Hit Rank 10 day ID"
+		},
+		"content": {
+			"rendered": "<ul>\n<li>Identify each requirement for rank advancement: volume, leader rank, etc.</li>\n<li>Assess where requirements need improvement: additional classes per week, more volume, etc.</li>\n<li>Organize a plan with top-line leaders (including their feedback) so daily and weekly success habits are linked to each of our rank goals.</li>\n<li>Use weekly strategy calls to create a plan where my leader helps me and I help my leader.</li>\n<li>Review leader/builder placement weekly to maximize unity and performance.</li>\n<li>Attend/teach a weekly webinar/training to increase my team\u2019s product knowledge.</li>\n<li>Attend/teach a weekly webinar/training on presentations so classes are more productive.</li>\n<li>Try one new phrase/method each day for two weeks.</li>\n<li>Organize a \u201cquick hit\u201d daily report schedule with my top leaders to share and get feedback.</li>\n<li>Recognize and praise specific performance wins every day.</li>\n</ul>\n",
+			"protected": false
+		},
+		"excerpt": {
+			"rendered": "<p>Identify each requirement for rank advancement: volume, leader rank, etc. Assess where requirements need improvement: additional classes per week, more volume, etc. Organize a plan with top-line leaders (including their feedback) so daily and weekly success habits are linked to each of our rank goals. Use weekly strategy calls to create a plan where my &hellip; </p>\n<p class=\"link-more\"><a href=\"http://account.6icatalyst.com/api/popover-id-hit-rank-10-day-id/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> &#8220;Hit Rank 10 day ID&#8221;</span></a></p>\n",
+			"protected": false
+		},
+		"author": 3,
+		"featured_media": 0,
+		"parent": 0,
+		"menu_order": 0,
+		"comment_status": "closed",
+		"ping_status": "closed",
+		"template": "",
+		"meta": [],
+		"wf_page_folders": [22],
+		"_links": {
+			"self": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages/1139"
+				}
+			],
+			"collection": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages"
+				}
+			],
+			"about": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/types/page"
+				}
+			],
+			"author": [
+				{
+					"embeddable": true,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/users/3"
+				}
+			],
+			"replies": [
+				{
+					"embeddable": true,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/comments?post=1139"
+				}
+			],
+			"version-history": [
+				{
+					"count": 2,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages/1139/revisions"
+				}
+			],
+			"predecessor-version": [
+				{
+					"id": 1700,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages/1139/revisions/1700"
+				}
+			],
+			"wp:attachment": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/media?parent=1139"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "wf_page_folders",
+					"embeddable": true,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/wf_page_folders?post=1139"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https://api.w.org/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 1136,
+		"date": "2018-09-06T19:48:23",
+		"date_gmt": "2018-09-06T19:48:23",
+		"guid": {
+			"rendered": "http://account.6icatalyst.com/api/?page_id=1136"
+		},
+		"modified": "2019-03-11T19:58:28",
+		"modified_gmt": "2019-03-11T19:58:28",
+		"slug": "popover-id-hit-rank-step-3-id-allocate-time",
+		"status": "publish",
+		"type": "page",
+		"link": "http://account.6icatalyst.com/api/popover-id-hit-rank-step-3-id-allocate-time/",
+		"title": {
+			"rendered": "Hit Rank Step 3 ID Allocate time"
+		},
+		"content": {
+			"rendered": "<ul>\n<li>I will allocate one hour every week for focusing on personal rank goals and requirements.</li>\n<li>On the first and third week of each month, I will meet with my teams for one hour to discuss rank goals and to share strategies to achieve rank goals.</li>\n<li>I will spend $100 on rewards for the top four ideas my team presents to hit rank faster.</li>\n<li>I will organize a weekly follow-up plan so we can review progress, identify obstacles, make improvements, etc.</li>\n</ul>\n",
+			"protected": false
+		},
+		"excerpt": {
+			"rendered": "<p>I will allocate one hour every week for focusing on personal rank goals and requirements. On the first and third week of each month, I will meet with my teams for one hour to discuss rank goals and to share strategies to achieve rank goals. I will spend $100 on rewards for the top four &hellip; </p>\n<p class=\"link-more\"><a href=\"http://account.6icatalyst.com/api/popover-id-hit-rank-step-3-id-allocate-time/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> &#8220;Hit Rank Step 3 ID Allocate time&#8221;</span></a></p>\n",
+			"protected": false
+		},
+		"author": 3,
+		"featured_media": 0,
+		"parent": 0,
+		"menu_order": 0,
+		"comment_status": "closed",
+		"ping_status": "closed",
+		"template": "",
+		"meta": [],
+		"wf_page_folders": [22],
+		"_links": {
+			"self": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages/1136"
+				}
+			],
+			"collection": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages"
+				}
+			],
+			"about": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/types/page"
+				}
+			],
+			"author": [
+				{
+					"embeddable": true,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/users/3"
+				}
+			],
+			"replies": [
+				{
+					"embeddable": true,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/comments?post=1136"
+				}
+			],
+			"version-history": [
+				{
+					"count": 2,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages/1136/revisions"
+				}
+			],
+			"predecessor-version": [
+				{
+					"id": 1703,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages/1136/revisions/1703"
+				}
+			],
+			"wp:attachment": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/media?parent=1136"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "wf_page_folders",
+					"embeddable": true,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/wf_page_folders?post=1136"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https://api.w.org/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 1133,
+		"date": "2018-09-06T19:45:12",
+		"date_gmt": "2018-09-06T19:45:12",
+		"guid": {
+			"rendered": "http://account.6icatalyst.com/api/?page_id=1133"
+		},
+		"modified": "2019-03-11T19:59:05",
+		"modified_gmt": "2019-03-11T19:59:05",
+		"slug": "popover-id-hit-rank-step-3-id-learn-and-duplicate",
+		"status": "publish",
+		"type": "page",
+		"link": "http://account.6icatalyst.com/api/popover-id-hit-rank-step-3-id-learn-and-duplicate/",
+		"title": {
+			"rendered": "Hit Rank Step 3 ID Learn and Duplicate"
+		},
+		"content": {
+			"rendered": "<ul>\n<li>I will learn and duplicate what others who hit rank quickly do.</li>\n<li>I will implement new ways to increase volume through new channels or by adding to existing team efforts.</li>\n<li>I will introduce and teach different methods for how to: 1) increase volume, 2) increase loyalty enrollments, and 3) motivate teams.</li>\n<li>I will teach new or better methods of communicating that rank is a team effort.</li>\n</ul>\n",
+			"protected": false
+		},
+		"excerpt": {
+			"rendered": "<p>I will learn and duplicate what others who hit rank quickly do. I will implement new ways to increase volume through new channels or by adding to existing team efforts. I will introduce and teach different methods for how to: 1) increase volume, 2) increase loyalty enrollments, and 3) motivate teams. I will teach new &hellip; </p>\n<p class=\"link-more\"><a href=\"http://account.6icatalyst.com/api/popover-id-hit-rank-step-3-id-learn-and-duplicate/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> &#8220;Hit Rank Step 3 ID Learn and Duplicate&#8221;</span></a></p>\n",
+			"protected": false
+		},
+		"author": 3,
+		"featured_media": 0,
+		"parent": 0,
+		"menu_order": 0,
+		"comment_status": "closed",
+		"ping_status": "closed",
+		"template": "",
+		"meta": [],
+		"wf_page_folders": [22],
+		"_links": {
+			"self": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages/1133"
+				}
+			],
+			"collection": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages"
+				}
+			],
+			"about": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/types/page"
+				}
+			],
+			"author": [
+				{
+					"embeddable": true,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/users/3"
+				}
+			],
+			"replies": [
+				{
+					"embeddable": true,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/comments?post=1133"
+				}
+			],
+			"version-history": [
+				{
+					"count": 2,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages/1133/revisions"
+				}
+			],
+			"predecessor-version": [
+				{
+					"id": 1704,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages/1133/revisions/1704"
+				}
+			],
+			"wp:attachment": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/media?parent=1133"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "wf_page_folders",
+					"embeddable": true,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/wf_page_folders?post=1133"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https://api.w.org/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 1130,
+		"date": "2018-09-06T19:39:24",
+		"date_gmt": "2018-09-06T19:39:24",
+		"guid": {
+			"rendered": "http://account.6icatalyst.com/api/?page_id=1130"
+		},
+		"modified": "2019-03-11T20:15:20",
+		"modified_gmt": "2019-03-11T20:15:20",
+		"slug": "popover-dq-hit-rank-step-3-dq-important-things",
+		"status": "publish",
+		"type": "page",
+		"link": "http://account.6icatalyst.com/api/popover-dq-hit-rank-step-3-dq-important-things/",
+		"title": {
+			"rendered": "Hit Rank Step 3 DQ Important Things"
+		},
+		"content": {
+			"rendered": "<ul>\n<li>What are the most important things you must do to make sure you hit rank?</li>\n<li>Have you checked with other people to see if what you think is the most important actually matches what successful people do?</li>\n<li>When you identify the most important things to do, does this help you to keep your focus and be less distracted?</li>\n<li>How much effort and attention are you going to give to hitting rank faster?</li>\n<li>Do you need to rebalance work and family?</li>\n</ul>\n",
+			"protected": false
+		},
+		"excerpt": {
+			"rendered": "<p>What are the most important things you must do to make sure you hit rank? Have you checked with other people to see if what you think is the most important actually matches what successful people do? When you identify the most important things to do, does this help you to keep your focus and &hellip; </p>\n<p class=\"link-more\"><a href=\"http://account.6icatalyst.com/api/popover-dq-hit-rank-step-3-dq-important-things/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> &#8220;Hit Rank Step 3 DQ Important Things&#8221;</span></a></p>\n",
+			"protected": false
+		},
+		"author": 3,
+		"featured_media": 0,
+		"parent": 0,
+		"menu_order": 0,
+		"comment_status": "closed",
+		"ping_status": "closed",
+		"template": "",
+		"meta": [],
+		"wf_page_folders": [21],
+		"_links": {
+			"self": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages/1130"
+				}
+			],
+			"collection": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages"
+				}
+			],
+			"about": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/types/page"
+				}
+			],
+			"author": [
+				{
+					"embeddable": true,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/users/3"
+				}
+			],
+			"replies": [
+				{
+					"embeddable": true,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/comments?post=1130"
+				}
+			],
+			"version-history": [
+				{
+					"count": 2,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages/1130/revisions"
+				}
+			],
+			"predecessor-version": [
+				{
+					"id": 1731,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages/1130/revisions/1731"
+				}
+			],
+			"wp:attachment": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/media?parent=1130"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "wf_page_folders",
+					"embeddable": true,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/wf_page_folders?post=1130"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https://api.w.org/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 1127,
+		"date": "2018-09-06T19:36:06",
+		"date_gmt": "2018-09-06T19:36:06",
+		"guid": {
+			"rendered": "http://account.6icatalyst.com/api/?page_id=1127"
+		},
+		"modified": "2018-10-15T21:17:23",
+		"modified_gmt": "2018-10-15T21:17:23",
+		"slug": "popover-id-hit-rank-step-2-id-next-rank",
+		"status": "publish",
+		"type": "page",
+		"link": "http://account.6icatalyst.com/api/popover-id-hit-rank-step-2-id-next-rank/",
+		"title": {
+			"rendered": "Hit Rank Step 2 ID Next Rank"
+		},
+		"content": {
+			"rendered": "<ul>\n<li>I will hit my next rank in two months.</li>\n<li>I will achieve my next rank more quickly than it took to achieve my current rank.</li>\n<li>I will make sure that members of my team will hit their next rank within sixty days.</li>\n<li>I will hit my next rank within sixty days and help three members of my team to hit their next rank too.</li>\n</ul>\n",
+			"protected": false
+		},
+		"excerpt": {
+			"rendered": "<p>I will hit my next rank in two months. I will achieve my next rank more quickly than it took to achieve my current rank. I will make sure that members of my team will hit their next rank within sixty days. I will hit my next rank within sixty days and help three &hellip; </p>\n<p class=\"link-more\"><a href=\"http://account.6icatalyst.com/api/popover-id-hit-rank-step-2-id-next-rank/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> &#8220;Hit Rank Step 2 ID Next Rank&#8221;</span></a></p>\n",
+			"protected": false
+		},
+		"author": 3,
+		"featured_media": 0,
+		"parent": 0,
+		"menu_order": 0,
+		"comment_status": "closed",
+		"ping_status": "closed",
+		"template": "",
+		"meta": [],
+		"wf_page_folders": [22],
+		"_links": {
+			"self": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages/1127"
+				}
+			],
+			"collection": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages"
+				}
+			],
+			"about": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/types/page"
+				}
+			],
+			"author": [
+				{
+					"embeddable": true,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/users/3"
+				}
+			],
+			"replies": [
+				{
+					"embeddable": true,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/comments?post=1127"
+				}
+			],
+			"version-history": [
+				{
+					"count": 1,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages/1127/revisions"
+				}
+			],
+			"predecessor-version": [
+				{
+					"id": 1128,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages/1127/revisions/1128"
+				}
+			],
+			"wp:attachment": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/media?parent=1127"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "wf_page_folders",
+					"embeddable": true,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/wf_page_folders?post=1127"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https://api.w.org/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 1124,
+		"date": "2018-09-06T19:34:27",
+		"date_gmt": "2018-09-06T19:34:27",
+		"guid": {
+			"rendered": "http://account.6icatalyst.com/api/?page_id=1124"
+		},
+		"modified": "2019-03-11T20:13:42",
+		"modified_gmt": "2019-03-11T20:13:42",
+		"slug": "popover-dq-hit-rank-step-2-dq-increase-volume",
+		"status": "publish",
+		"type": "page",
+		"link": "http://account.6icatalyst.com/api/popover-dq-hit-rank-step-2-dq-increase-volume/",
+		"title": {
+			"rendered": "Hit Rank step 2 DQ Increase Volume"
+		},
+		"content": {
+			"rendered": "<ul>\n<li>What increases in volume, leader productivity, and enrollment will enable you to hit your desired rank faster?</li>\n<li>Have you laid out a specific timeline and strategy to achieve these goals?</li>\n<li>What kind of placements will strengthen your downline and result in hitting your desired rank faster?</li>\n<li>What are you doing to find and train new builders?</li>\n<li>Do you have a specific plan to enroll more people at a faster rate than in the past?</li>\n<li>What methods of hitting rank have you learned from a person with more experience?</li>\n<li>Have you asked for help from your upline?</li>\n<li>What kinds of collaboration and team building will help you hit rank faster?</li>\n<li>When working to hit rank, what have you tried that doesn\u2019t work well?</li>\n</ul>\n",
+			"protected": false
+		},
+		"excerpt": {
+			"rendered": "<p>What increases in volume, leader productivity, and enrollment will enable you to hit your desired rank faster? Have you laid out a specific timeline and strategy to achieve these goals? What kind of placements will strengthen your downline and result in hitting your desired rank faster? What are you doing to find and train new &hellip; </p>\n<p class=\"link-more\"><a href=\"http://account.6icatalyst.com/api/popover-dq-hit-rank-step-2-dq-increase-volume/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> &#8220;Hit Rank step 2 DQ Increase Volume&#8221;</span></a></p>\n",
+			"protected": false
+		},
+		"author": 3,
+		"featured_media": 0,
+		"parent": 0,
+		"menu_order": 0,
+		"comment_status": "closed",
+		"ping_status": "closed",
+		"template": "",
+		"meta": [],
+		"wf_page_folders": [21],
+		"_links": {
+			"self": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages/1124"
+				}
+			],
+			"collection": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages"
+				}
+			],
+			"about": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/types/page"
+				}
+			],
+			"author": [
+				{
+					"embeddable": true,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/users/3"
+				}
+			],
+			"replies": [
+				{
+					"embeddable": true,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/comments?post=1124"
+				}
+			],
+			"version-history": [
+				{
+					"count": 2,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages/1124/revisions"
+				}
+			],
+			"predecessor-version": [
+				{
+					"id": 1730,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages/1124/revisions/1730"
+				}
+			],
+			"wp:attachment": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/media?parent=1124"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "wf_page_folders",
+					"embeddable": true,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/wf_page_folders?post=1124"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https://api.w.org/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 1121,
+		"date": "2018-09-06T19:31:14",
+		"date_gmt": "2018-09-06T19:31:14",
+		"guid": {
+			"rendered": "http://account.6icatalyst.com/api/?page_id=1121"
+		},
+		"modified": "2019-03-11T19:56:54",
+		"modified_gmt": "2019-03-11T19:56:54",
+		"slug": "popover-id-hit-rank-step-1-id-unify-team",
+		"status": "publish",
+		"type": "page",
+		"link": "http://account.6icatalyst.com/api/popover-id-hit-rank-step-1-id-unify-team/",
+		"title": {
+			"rendered": "Hit Rank Step 1 ID Unify Team"
+		},
+		"content": {
+			"rendered": "<ul>\n<li>I will work on unifying my team.</li>\n<li>I will plan and conduct one or more strategy meetings and listen to each team member\u2019s ideas and concerns.</li>\n<li>I will learn what each leader in my downline is currently doing to hit rank faster.</li>\n<li>I will make sure that everyone has access to the 6i Catalyst app and is using it as a tool to help increase enrollments, volume, and leader motivation.</li>\n<li>I will create a climate of mutual helpfulness so all of us feel important to each other.</li>\n<li>I will identify teams that will benefit when I place new builders with them.</li>\n</ul>\n",
+			"protected": false
+		},
+		"excerpt": {
+			"rendered": "<p>I will work on unifying my team. I will plan and conduct one or more strategy meetings and listen to each team member\u2019s ideas and concerns. I will learn what each leader in my downline is currently doing to hit rank faster. I will make sure that everyone has access to the 6i Catalyst app &hellip; </p>\n<p class=\"link-more\"><a href=\"http://account.6icatalyst.com/api/popover-id-hit-rank-step-1-id-unify-team/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> &#8220;Hit Rank Step 1 ID Unify Team&#8221;</span></a></p>\n",
+			"protected": false
+		},
+		"author": 3,
+		"featured_media": 0,
+		"parent": 0,
+		"menu_order": 0,
+		"comment_status": "closed",
+		"ping_status": "closed",
+		"template": "",
+		"meta": [],
+		"wf_page_folders": [22],
+		"_links": {
+			"self": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages/1121"
+				}
+			],
+			"collection": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages"
+				}
+			],
+			"about": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/types/page"
+				}
+			],
+			"author": [
+				{
+					"embeddable": true,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/users/3"
+				}
+			],
+			"replies": [
+				{
+					"embeddable": true,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/comments?post=1121"
+				}
+			],
+			"version-history": [
+				{
+					"count": 2,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages/1121/revisions"
+				}
+			],
+			"predecessor-version": [
+				{
+					"id": 1702,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages/1121/revisions/1702"
+				}
+			],
+			"wp:attachment": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/media?parent=1121"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "wf_page_folders",
+					"embeddable": true,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/wf_page_folders?post=1121"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https://api.w.org/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 1117,
+		"date": "2018-09-06T17:23:31",
+		"date_gmt": "2018-09-06T17:23:31",
+		"guid": {
+			"rendered": "http://account.6icatalyst.com/api/?page_id=1117"
+		},
+		"modified": "2019-03-11T20:13:22",
+		"modified_gmt": "2019-03-11T20:13:22",
+		"slug": "popover-dq-hit-rank-step-1-dq",
+		"status": "publish",
+		"type": "page",
+		"link": "http://account.6icatalyst.com/api/popover-dq-hit-rank-step-1-dq/",
+		"title": {
+			"rendered": "Hit Rank Step 1 DQ Hit rank"
+		},
+		"content": {
+			"rendered": "<ul>\n<li>Why do attempts to hit rank faster require that people trust each other?</li>\n<li>When helping yourself and others work toward hitting rank faster, what have you observed that helps people trust each other?</li>\n<li>What conditions must exist to ensure that everyone has a sense of freedom and trust?</li>\n<li>What methods do you now use to make rapid progress toward a new rank?</li>\n<li>How many paths do you know and use to help others hit rank faster?</li>\n<li>How far and wide have you used 6i Catalyst as a tool to help people hit rank faster?</li>\n<li>What are you doing to build increased trust between you and your team members so you can hit new ranks faster and help others succeed too?</li>\n</ul>\n",
+			"protected": false
+		},
+		"excerpt": {
+			"rendered": "<p>Why do attempts to hit rank faster require that people trust each other? When helping yourself and others work toward hitting rank faster, what have you observed that helps people trust each other? What conditions must exist to ensure that everyone has a sense of freedom and trust? What methods do you now use to &hellip; </p>\n<p class=\"link-more\"><a href=\"http://account.6icatalyst.com/api/popover-dq-hit-rank-step-1-dq/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> &#8220;Hit Rank Step 1 DQ Hit rank&#8221;</span></a></p>\n",
+			"protected": false
+		},
+		"author": 3,
+		"featured_media": 0,
+		"parent": 0,
+		"menu_order": 0,
+		"comment_status": "closed",
+		"ping_status": "closed",
+		"template": "",
+		"meta": [],
+		"wf_page_folders": [21],
+		"_links": {
+			"self": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages/1117"
+				}
+			],
+			"collection": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages"
+				}
+			],
+			"about": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/types/page"
+				}
+			],
+			"author": [
+				{
+					"embeddable": true,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/users/3"
+				}
+			],
+			"replies": [
+				{
+					"embeddable": true,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/comments?post=1117"
+				}
+			],
+			"version-history": [
+				{
+					"count": 2,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages/1117/revisions"
+				}
+			],
+			"predecessor-version": [
+				{
+					"id": 1729,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages/1117/revisions/1729"
+				}
+			],
+			"wp:attachment": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/media?parent=1117"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "wf_page_folders",
+					"embeddable": true,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/wf_page_folders?post=1117"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https://api.w.org/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 1112,
+		"date": "2018-09-05T22:09:27",
+		"date_gmt": "2018-09-05T22:09:27",
+		"guid": {
+			"rendered": "http://account.6icatalyst.com/api/?page_id=1112"
+		},
+		"modified": "2019-03-06T22:39:40",
+		"modified_gmt": "2019-03-06T22:39:40",
+		"slug": "popover-co-boost-leaders-render-acct-co",
+		"status": "publish",
+		"type": "page",
+		"link": "http://account.6icatalyst.com/api/popover-co-boost-leaders-render-acct-co/",
+		"title": {
+			"rendered": "Boost Leaders Render Acct CO"
+		},
+		"content": {
+			"rendered": "<p>Boost leader motivation faster with private coaching. Go to 6innovations.com to find a personal 6i Catalyst coach.</p>\n<p>If you find it difficult to motivate yourself, you may be feeling conflicted between your work and family relationships or your own emotional wellbeing. Go to FirstAnswers.com to find a private relationship and wellbeing coach.</p>\n",
+			"protected": false
+		},
+		"excerpt": {
+			"rendered": "<p>Boost leader motivation faster with private coaching. Go to 6innovations.com to find a personal 6i Catalyst coach. If you find it difficult to motivate yourself, you may be feeling conflicted between your work and family relationships or your own emotional wellbeing. Go to FirstAnswers.com to find a private relationship and wellbeing coach.</p>\n",
+			"protected": false
+		},
+		"author": 3,
+		"featured_media": 0,
+		"parent": 0,
+		"menu_order": 0,
+		"comment_status": "closed",
+		"ping_status": "closed",
+		"template": "",
+		"meta": [],
+		"wf_page_folders": [23],
+		"_links": {
+			"self": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages/1112"
+				}
+			],
+			"collection": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages"
+				}
+			],
+			"about": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/types/page"
+				}
+			],
+			"author": [
+				{
+					"embeddable": true,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/users/3"
+				}
+			],
+			"replies": [
+				{
+					"embeddable": true,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/comments?post=1112"
+				}
+			],
+			"version-history": [
+				{
+					"count": 2,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages/1112/revisions"
+				}
+			],
+			"predecessor-version": [
+				{
+					"id": 1676,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages/1112/revisions/1676"
+				}
+			],
+			"wp:attachment": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/media?parent=1112"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "wf_page_folders",
+					"embeddable": true,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/wf_page_folders?post=1112"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https://api.w.org/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 1109,
+		"date": "2018-09-05T22:03:37",
+		"date_gmt": "2018-09-05T22:03:37",
+		"guid": {
+			"rendered": "http://account.6icatalyst.com/api/?page_id=1109"
+		},
+		"modified": "2018-10-11T17:58:49",
+		"modified_gmt": "2018-10-11T17:58:49",
+		"slug": "popover-id-render-acct",
+		"status": "publish",
+		"type": "page",
+		"link": "http://account.6icatalyst.com/api/popover-id-render-acct/",
+		"title": {
+			"rendered": "Boost Leaders Render Acct ID"
+		},
+		"content": {
+			"rendered": "<ul>\n<li>I will call my upline leader every two weeks to report how my leaders\u2019 motivation is improving.</li>\n<li>I will set up a monthly schedule to ask leaders to render an account of their progress.</li>\n<li>I will report team achievements (volume, loyalty, enrollments, rank, etc.) on a weekly schedule.</li>\n<li>At our weekly team meetings, I will share success stories of how I and my team have improved our results or reached our goals.</li>\n</ul>\n",
+			"protected": false
+		},
+		"excerpt": {
+			"rendered": "<p>I will call my upline leader every two weeks to report how my leaders\u2019 motivation is improving. I will set up a monthly schedule to ask leaders to render an account of their progress. I will report team achievements (volume, loyalty, enrollments, rank, etc.) on a weekly schedule. At our weekly team meetings, I will &hellip; </p>\n<p class=\"link-more\"><a href=\"http://account.6icatalyst.com/api/popover-id-render-acct/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> &#8220;Boost Leaders Render Acct ID&#8221;</span></a></p>\n",
+			"protected": false
+		},
+		"author": 3,
+		"featured_media": 0,
+		"parent": 0,
+		"menu_order": 0,
+		"comment_status": "closed",
+		"ping_status": "closed",
+		"template": "",
+		"meta": [],
+		"wf_page_folders": [22],
+		"_links": {
+			"self": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages/1109"
+				}
+			],
+			"collection": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages"
+				}
+			],
+			"about": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/types/page"
+				}
+			],
+			"author": [
+				{
+					"embeddable": true,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/users/3"
+				}
+			],
+			"replies": [
+				{
+					"embeddable": true,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/comments?post=1109"
+				}
+			],
+			"version-history": [
+				{
+					"count": 3,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages/1109/revisions"
+				}
+			],
+			"predecessor-version": [
+				{
+					"id": 1498,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages/1109/revisions/1498"
+				}
+			],
+			"wp:attachment": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/media?parent=1109"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "wf_page_folders",
+					"embeddable": true,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/wf_page_folders?post=1109"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https://api.w.org/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 1106,
+		"date": "2018-09-05T22:00:49",
+		"date_gmt": "2018-09-05T22:00:49",
+		"guid": {
+			"rendered": "http://account.6icatalyst.com/api/?page_id=1106"
+		},
+		"modified": "2019-03-06T22:47:38",
+		"modified_gmt": "2019-03-06T22:47:38",
+		"slug": "popover-dq-boost-leaders-render-acct-dq",
+		"status": "publish",
+		"type": "page",
+		"link": "http://account.6icatalyst.com/api/popover-dq-boost-leaders-render-acct-dq/",
+		"title": {
+			"rendered": "Boost Leaders Render Acct DQ"
+		},
+		"content": {
+			"rendered": "<ul>\n<li>What information do you want from people who report to you?</li>\n<li>How and when do you intend to obtain this information?</li>\n<li>Have you made it clear to others what you want?</li>\n<li>Have you created a format for a conversation where a leader is rendering an account of his or her work?</li>\n<li>Do you regularly conduct interviews where leaders render an account and report to you?</li>\n<li>Have you taught your leaders to expect others to render an account to them?</li>\n<li>Who will you report to, and how often will you render an account of your progress?</li>\n</ul>\n",
+			"protected": false
+		},
+		"excerpt": {
+			"rendered": "<p>What information do you want from people who report to you? How and when do you intend to obtain this information? Have you made it clear to others what you want? Have you created a format for a conversation where a leader is rendering an account of his or her work? Do you regularly conduct &hellip; </p>\n<p class=\"link-more\"><a href=\"http://account.6icatalyst.com/api/popover-dq-boost-leaders-render-acct-dq/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> &#8220;Boost Leaders Render Acct DQ&#8221;</span></a></p>\n",
+			"protected": false
+		},
+		"author": 3,
+		"featured_media": 0,
+		"parent": 0,
+		"menu_order": 0,
+		"comment_status": "closed",
+		"ping_status": "closed",
+		"template": "",
+		"meta": [],
+		"wf_page_folders": [21],
+		"_links": {
+			"self": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages/1106"
+				}
+			],
+			"collection": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages"
+				}
+			],
+			"about": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/types/page"
+				}
+			],
+			"author": [
+				{
+					"embeddable": true,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/users/3"
+				}
+			],
+			"replies": [
+				{
+					"embeddable": true,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/comments?post=1106"
+				}
+			],
+			"version-history": [
+				{
+					"count": 2,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages/1106/revisions"
+				}
+			],
+			"predecessor-version": [
+				{
+					"id": 1682,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages/1106/revisions/1682"
+				}
+			],
+			"wp:attachment": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/media?parent=1106"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "wf_page_folders",
+					"embeddable": true,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/wf_page_folders?post=1106"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https://api.w.org/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 1103,
+		"date": "2018-09-05T21:55:40",
+		"date_gmt": "2018-09-05T21:55:40",
+		"guid": {
+			"rendered": "http://account.6icatalyst.com/api/?page_id=1103"
+		},
+		"modified": "2018-10-11T17:55:28",
+		"modified_gmt": "2018-10-11T17:55:28",
+		"slug": "popover-id-every-monday",
+		"status": "publish",
+		"type": "page",
+		"link": "http://account.6icatalyst.com/api/popover-id-every-monday/",
+		"title": {
+			"rendered": "Boost leaders step 6 ID Every monday"
+		},
+		"content": {
+			"rendered": "<ul>\n<li>Every Monday, I will ask my leaders to set new goals to help them progress. Then I will check in with them the next week to see how many of them are working on their goals.</li>\n<li>Twice a month, I will measure my leaders\u2019 volume and enrollments to see if they are increasing.</li>\n<li>At our trainings, I will ask each leader how many potential customers they talked to that week.</li>\n<li>I will measure the number of positive stories or results shared at our team meetings to see if they increase each week.</li>\n<li>Each week I will measure if results are improving after I\u2019ve reduced or eliminated external rewards.</li>\n<li>Every Thursday, I will track the rate of volume, new builder enrollments, loyalty enrollments, and/or rank goals to measure if they are increasing faster.</li>\n<li>I will assess our weekly team meetings and measure if complaints and blaming are reduced among my team.</li>\n<li>Each week I will track the number of times my leaders solve problems on their own without\u2014or with less of\u2014my help.</li>\n</ul>\n",
+			"protected": false
+		},
+		"excerpt": {
+			"rendered": "<p>Every Monday, I will ask my leaders to set new goals to help them progress. Then I will check in with them the next week to see how many of them are working on their goals. Twice a month, I will measure my leaders\u2019 volume and enrollments to see if they are increasing. At our &hellip; </p>\n<p class=\"link-more\"><a href=\"http://account.6icatalyst.com/api/popover-id-every-monday/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> &#8220;Boost leaders step 6 ID Every monday&#8221;</span></a></p>\n",
+			"protected": false
+		},
+		"author": 3,
+		"featured_media": 0,
+		"parent": 0,
+		"menu_order": 0,
+		"comment_status": "closed",
+		"ping_status": "closed",
+		"template": "",
+		"meta": [],
+		"wf_page_folders": [22],
+		"_links": {
+			"self": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages/1103"
+				}
+			],
+			"collection": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages"
+				}
+			],
+			"about": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/types/page"
+				}
+			],
+			"author": [
+				{
+					"embeddable": true,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/users/3"
+				}
+			],
+			"replies": [
+				{
+					"embeddable": true,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/comments?post=1103"
+				}
+			],
+			"version-history": [
+				{
+					"count": 3,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages/1103/revisions"
+				}
+			],
+			"predecessor-version": [
+				{
+					"id": 1497,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages/1103/revisions/1497"
+				}
+			],
+			"wp:attachment": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/media?parent=1103"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "wf_page_folders",
+					"embeddable": true,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/wf_page_folders?post=1103"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https://api.w.org/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 1100,
+		"date": "2018-09-05T21:50:29",
+		"date_gmt": "2018-09-05T21:50:29",
+		"guid": {
+			"rendered": "http://account.6icatalyst.com/api/?page_id=1100"
+		},
+		"modified": "2019-03-06T22:48:54",
+		"modified_gmt": "2019-03-06T22:48:54",
+		"slug": "popover-dq-boost-leaders-step-6-dq-working",
+		"status": "publish",
+		"type": "page",
+		"link": "http://account.6icatalyst.com/api/popover-dq-boost-leaders-step-6-dq-working/",
+		"title": {
+			"rendered": "Boost Leaders Step 6 DQ Working"
+		},
+		"content": {
+			"rendered": "<ul>\n<li>How will you know that what you are doing to motivate your leaders is working?</li>\n<li>Have you taught your leaders the importance of measuring progress?</li>\n<li>How will you take advantage of progress to sustain and improve it?</li>\n</ul>\n",
+			"protected": false
+		},
+		"excerpt": {
+			"rendered": "<p>How will you know that what you are doing to motivate your leaders is working? Have you taught your leaders the importance of measuring progress? How will you take advantage of progress to sustain and improve it?</p>\n",
+			"protected": false
+		},
+		"author": 3,
+		"featured_media": 0,
+		"parent": 0,
+		"menu_order": 0,
+		"comment_status": "closed",
+		"ping_status": "closed",
+		"template": "",
+		"meta": [],
+		"wf_page_folders": [21],
+		"_links": {
+			"self": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages/1100"
+				}
+			],
+			"collection": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages"
+				}
+			],
+			"about": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/types/page"
+				}
+			],
+			"author": [
+				{
+					"embeddable": true,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/users/3"
+				}
+			],
+			"replies": [
+				{
+					"embeddable": true,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/comments?post=1100"
+				}
+			],
+			"version-history": [
+				{
+					"count": 2,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages/1100/revisions"
+				}
+			],
+			"predecessor-version": [
+				{
+					"id": 1685,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages/1100/revisions/1685"
+				}
+			],
+			"wp:attachment": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/media?parent=1100"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "wf_page_folders",
+					"embeddable": true,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/wf_page_folders?post=1100"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https://api.w.org/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 1097,
+		"date": "2018-09-05T21:47:11",
+		"date_gmt": "2018-09-05T21:47:11",
+		"guid": {
+			"rendered": "http://account.6icatalyst.com/api/?page_id=1097"
+		},
+		"modified": "2018-10-11T17:51:44",
+		"modified_gmt": "2018-10-11T17:51:44",
+		"slug": "popover-id-personal-mastery",
+		"status": "publish",
+		"type": "page",
+		"link": "http://account.6icatalyst.com/api/popover-id-personal-mastery/",
+		"title": {
+			"rendered": "Boost Leaders step 5 ID Personal Mastery"
+		},
+		"content": {
+			"rendered": "<ul>\n<li>I will learn more about personal mastery and successfully teach others about it.</li>\n<li>I will learn more about incentive programs and apply them with my leaders.</li>\n<li>I will learn more about time management so I can teach my leaders.</li>\n<li>I will learn more about team-building activities so our team is more unified.</li>\n<li>I will learn more about the Catalyst Leadership System and teach it to boost motivation.</li>\n<li>I will develop a new method of planning strategies to achieve my goals.</li>\n<li>I will find new ways to tell achievement and success stories.</li>\n</ul>\n",
+			"protected": false
+		},
+		"excerpt": {
+			"rendered": "<p>I will learn more about personal mastery and successfully teach others about it. I will learn more about incentive programs and apply them with my leaders. I will learn more about time management so I can teach my leaders. I will learn more about team-building activities so our team is more unified. I will learn &hellip; </p>\n<p class=\"link-more\"><a href=\"http://account.6icatalyst.com/api/popover-id-personal-mastery/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> &#8220;Boost Leaders step 5 ID Personal Mastery&#8221;</span></a></p>\n",
+			"protected": false
+		},
+		"author": 3,
+		"featured_media": 0,
+		"parent": 0,
+		"menu_order": 0,
+		"comment_status": "closed",
+		"ping_status": "closed",
+		"template": "",
+		"meta": [],
+		"wf_page_folders": [22],
+		"_links": {
+			"self": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages/1097"
+				}
+			],
+			"collection": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages"
+				}
+			],
+			"about": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/types/page"
+				}
+			],
+			"author": [
+				{
+					"embeddable": true,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/users/3"
+				}
+			],
+			"replies": [
+				{
+					"embeddable": true,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/comments?post=1097"
+				}
+			],
+			"version-history": [
+				{
+					"count": 3,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages/1097/revisions"
+				}
+			],
+			"predecessor-version": [
+				{
+					"id": 1495,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages/1097/revisions/1495"
+				}
+			],
+			"wp:attachment": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/media?parent=1097"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "wf_page_folders",
+					"embeddable": true,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/wf_page_folders?post=1097"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https://api.w.org/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 1094,
+		"date": "2018-09-05T21:40:47",
+		"date_gmt": "2018-09-05T21:40:47",
+		"guid": {
+			"rendered": "http://account.6icatalyst.com/api/?page_id=1094"
+		},
+		"modified": "2019-03-06T22:48:44",
+		"modified_gmt": "2019-03-06T22:48:44",
+		"slug": "popover-dq-boost-leaders-step-5-dq-expert-in-cls",
+		"status": "publish",
+		"type": "page",
+		"link": "http://account.6icatalyst.com/api/popover-dq-boost-leaders-step-5-dq-expert-in-cls/",
+		"title": {
+			"rendered": "Boost Leaders Step 5 DQ Expert in CLS"
+		},
+		"content": {
+			"rendered": "<ul>\n<li>Are you sufficiently expert in the Catalyst Leadership System?</li>\n<li>Do you know enough about motivating others and how to help people improve themselves?</li>\n<li>What do you need to know more about to achieve your goals?</li>\n<li>What obstacles are your leaders facing when it comes to motivation? What can you teach them that will help?</li>\n<li>What skills do you need to improve to make yourself more effective? (e.g., time management, planning, communication, collaboration, problem solving, networking, organization skills, technology, etc.)</li>\n<li>In observing your leaders\u2019 actions and attitudes, what changes of behavior do you want to see?</li>\n</ul>\n",
+			"protected": false
+		},
+		"excerpt": {
+			"rendered": "<p>Are you sufficiently expert in the Catalyst Leadership System? Do you know enough about motivating others and how to help people improve themselves? What do you need to know more about to achieve your goals? What obstacles are your leaders facing when it comes to motivation? What can you teach them that will help? What &hellip; </p>\n<p class=\"link-more\"><a href=\"http://account.6icatalyst.com/api/popover-dq-boost-leaders-step-5-dq-expert-in-cls/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> &#8220;Boost Leaders Step 5 DQ Expert in CLS&#8221;</span></a></p>\n",
+			"protected": false
+		},
+		"author": 3,
+		"featured_media": 0,
+		"parent": 0,
+		"menu_order": 0,
+		"comment_status": "closed",
+		"ping_status": "closed",
+		"template": "",
+		"meta": [],
+		"wf_page_folders": [21],
+		"_links": {
+			"self": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages/1094"
+				}
+			],
+			"collection": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages"
+				}
+			],
+			"about": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/types/page"
+				}
+			],
+			"author": [
+				{
+					"embeddable": true,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/users/3"
+				}
+			],
+			"replies": [
+				{
+					"embeddable": true,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/comments?post=1094"
+				}
+			],
+			"version-history": [
+				{
+					"count": 2,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages/1094/revisions"
+				}
+			],
+			"predecessor-version": [
+				{
+					"id": 1684,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages/1094/revisions/1684"
+				}
+			],
+			"wp:attachment": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/media?parent=1094"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "wf_page_folders",
+					"embeddable": true,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/wf_page_folders?post=1094"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https://api.w.org/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 1091,
+		"date": "2018-09-05T21:35:30",
+		"date_gmt": "2018-09-05T21:35:30",
+		"guid": {
+			"rendered": "http://account.6icatalyst.com/api/?page_id=1091"
+		},
+		"modified": "2018-09-27T04:26:50",
+		"modified_gmt": "2018-09-27T04:26:50",
+		"slug": "popover-id-ally",
+		"status": "publish",
+		"type": "page",
+		"link": "http://account.6icatalyst.com/api/popover-id-ally/",
+		"title": {
+			"rendered": "ID: Ally"
+		},
+		"content": {
+			"rendered": "<ul>\n<li><strong>Ally</strong>: Each of my top leaders</li>\n<li><strong>How I will help this ally</strong>: I will talk with each leader and find out what they want from me and explain what I would like from them. I will regularly follow up and voice appreciation for what they do to help me.</li>\n<li><strong>How this ally will help me</strong>: My top leaders will report regularly with successes and even failures so we can work together to motivate and strengthen our downlines.</li>\n</ul>\n",
+			"protected": false
+		},
+		"excerpt": {
+			"rendered": "<p>Ally: Each of my top leaders How I will help this ally: I will talk with each leader and find out what they want from me and explain what I would like from them. I will regularly follow up and voice appreciation for what they do to help me. How this ally will help me: &hellip; </p>\n<p class=\"link-more\"><a href=\"http://account.6icatalyst.com/api/popover-id-ally/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> &#8220;ID: Ally&#8221;</span></a></p>\n",
+			"protected": false
+		},
+		"author": 3,
+		"featured_media": 0,
+		"parent": 0,
+		"menu_order": 0,
+		"comment_status": "closed",
+		"ping_status": "closed",
+		"template": "",
+		"meta": [],
+		"wf_page_folders": [22],
+		"_links": {
+			"self": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages/1091"
+				}
+			],
+			"collection": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages"
+				}
+			],
+			"about": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/types/page"
+				}
+			],
+			"author": [
+				{
+					"embeddable": true,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/users/3"
+				}
+			],
+			"replies": [
+				{
+					"embeddable": true,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/comments?post=1091"
+				}
+			],
+			"version-history": [
+				{
+					"count": 2,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages/1091/revisions"
+				}
+			],
+			"predecessor-version": [
+				{
+					"id": 1391,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages/1091/revisions/1391"
+				}
+			],
+			"wp:attachment": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/media?parent=1091"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "wf_page_folders",
+					"embeddable": true,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/wf_page_folders?post=1091"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https://api.w.org/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 1088,
+		"date": "2018-09-05T21:32:10",
+		"date_gmt": "2018-09-05T21:32:10",
+		"guid": {
+			"rendered": "http://account.6icatalyst.com/api/?page_id=1088"
+		},
+		"modified": "2019-03-06T22:48:33",
+		"modified_gmt": "2019-03-06T22:48:33",
+		"slug": "popover-dq-boost-leaders-step-4-dq-boost",
+		"status": "publish",
+		"type": "page",
+		"link": "http://account.6icatalyst.com/api/popover-dq-boost-leaders-step-4-dq-boost/",
+		"title": {
+			"rendered": "Boost Leaders Step 4 DQ boost"
+		},
+		"content": {
+			"rendered": "<ul>\n<li>Who can help you boost your leaders\u2019 motivation?</li>\n<li>What help do you need from others?</li>\n<li>What do your leaders need from you (follow up, encouragement, etc.) in order to want to commit to better habits?</li>\n<li>Have you identified several methods of motivation? And have you identified which methods are most likely to work with each leader you want to motivate?</li>\n<li>Have you identified those who have successfully motivated others?</li>\n<li>Have you communicated with your upline leaders what you are trying to do and asked what they did to successfully motivate others?</li>\n<li>Have you formed alliances with your leaders, where you help them and they help you?</li>\n<li>What do incredibly motivated people do to keep themselves going?</li>\n<li>Have you trained all your leaders in the need for and skill in forming alliances with others?</li>\n</ul>\n",
+			"protected": false
+		},
+		"excerpt": {
+			"rendered": "<p>Who can help you boost your leaders\u2019 motivation? What help do you need from others? What do your leaders need from you (follow up, encouragement, etc.) in order to want to commit to better habits? Have you identified several methods of motivation? And have you identified which methods are most likely to work with each &hellip; </p>\n<p class=\"link-more\"><a href=\"http://account.6icatalyst.com/api/popover-dq-boost-leaders-step-4-dq-boost/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> &#8220;Boost Leaders Step 4 DQ boost&#8221;</span></a></p>\n",
+			"protected": false
+		},
+		"author": 3,
+		"featured_media": 0,
+		"parent": 0,
+		"menu_order": 0,
+		"comment_status": "closed",
+		"ping_status": "closed",
+		"template": "",
+		"meta": [],
+		"wf_page_folders": [21],
+		"_links": {
+			"self": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages/1088"
+				}
+			],
+			"collection": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages"
+				}
+			],
+			"about": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/types/page"
+				}
+			],
+			"author": [
+				{
+					"embeddable": true,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/users/3"
+				}
+			],
+			"replies": [
+				{
+					"embeddable": true,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/comments?post=1088"
+				}
+			],
+			"version-history": [
+				{
+					"count": 2,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages/1088/revisions"
+				}
+			],
+			"predecessor-version": [
+				{
+					"id": 1683,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages/1088/revisions/1683"
+				}
+			],
+			"wp:attachment": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/media?parent=1088"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "wf_page_folders",
+					"embeddable": true,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/wf_page_folders?post=1088"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https://api.w.org/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 1085,
+		"date": "2018-09-05T21:29:03",
+		"date_gmt": "2018-09-05T21:29:03",
+		"guid": {
+			"rendered": "http://account.6icatalyst.com/api/?page_id=1085"
+		},
+		"modified": "2018-10-11T16:07:41",
+		"modified_gmt": "2018-10-11T16:07:41",
+		"slug": "popover-id-boost-leader-step-3-id-10day",
+		"status": "publish",
+		"type": "page",
+		"link": "http://account.6icatalyst.com/api/popover-id-boost-leader-step-3-id-10day/",
+		"title": {
+			"rendered": "Boost leaders 10 day ID"
+		},
+		"content": {
+			"rendered": "<ul>\n<li>Share at least one win or positive experience or observation in every conversation I have each day.</li>\n<li>Build trust with my team by getting to know my leaders and builders on a more personal level.</li>\n<li>Refine weekly strategy calls with upline and downline leaders to focus on a more clear understanding of expectations, goals, and how we want to help each other.</li>\n<li>Make sure less experienced builders and leaders have enough support and ideas to make the daily success habits of contacting and following up easier and more effective.</li>\n<li>Attend a sales training webinar with my top leaders so we are learning something together.</li>\n<li>Match my rewards and incentives to what my leaders like.</li>\n<li>Match rewards and incentives to long-term growth instead of short-term goals.</li>\n<li>Have an online \u201cparty\u201d to celebrate the wins in my team.</li>\n<li>Communicate so all leaders and builders understand how their contributions support our goals for growth.</li>\n</ul>\n",
+			"protected": false
+		},
+		"excerpt": {
+			"rendered": "<p>Share at least one win or positive experience or observation in every conversation I have each day. Build trust with my team by getting to know my leaders and builders on a more personal level. Refine weekly strategy calls with upline and downline leaders to focus on a more clear understanding of expectations, goals, and &hellip; </p>\n<p class=\"link-more\"><a href=\"http://account.6icatalyst.com/api/popover-id-boost-leader-step-3-id-10day/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> &#8220;Boost leaders 10 day ID&#8221;</span></a></p>\n",
+			"protected": false
+		},
+		"author": 3,
+		"featured_media": 0,
+		"parent": 0,
+		"menu_order": 0,
+		"comment_status": "closed",
+		"ping_status": "closed",
+		"template": "",
+		"meta": [],
+		"wf_page_folders": [22],
+		"_links": {
+			"self": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages/1085"
+				}
+			],
+			"collection": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages"
+				}
+			],
+			"about": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/types/page"
+				}
+			],
+			"author": [
+				{
+					"embeddable": true,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/users/3"
+				}
+			],
+			"replies": [
+				{
+					"embeddable": true,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/comments?post=1085"
+				}
+			],
+			"version-history": [
+				{
+					"count": 4,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages/1085/revisions"
+				}
+			],
+			"predecessor-version": [
+				{
+					"id": 1491,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages/1085/revisions/1491"
+				}
+			],
+			"wp:attachment": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/media?parent=1085"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "wf_page_folders",
+					"embeddable": true,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/wf_page_folders?post=1085"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https://api.w.org/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 1082,
+		"date": "2018-09-05T21:21:41",
+		"date_gmt": "2018-09-05T21:21:41",
+		"guid": {
+			"rendered": "http://account.6icatalyst.com/api/?page_id=1082"
+		},
+		"modified": "2019-03-06T23:00:33",
+		"modified_gmt": "2019-03-06T23:00:33",
+		"slug": "popover-id-boost-leaders-step-3-id-communicate",
+		"status": "publish",
+		"type": "page",
+		"link": "http://account.6icatalyst.com/api/popover-id-boost-leaders-step-3-id-communicate/",
+		"title": {
+			"rendered": "Boost Leaders Step 3 ID Communicate"
+		},
+		"content": {
+			"rendered": "<ul>\n<li>I will communicate with my leaders once a week to identify our progress and share our successes.</li>\n<li>I will schedule one hour from 11:00 to noon every Tuesday to focus on motivation.</li>\n<li>I will spend 30 minutes every day on improving my motivation and leadership skills.</li>\n<li>I will spend $100 on fun recognition rewards, good/new idea awards, etc.</li>\n<li>I will reserve a space once a month so my team leaders can meet face-to-face.</li>\n<li>Every week, I will share a new motivational idea or principle and teach how to implement it in teams.</li>\n</ul>\n",
+			"protected": false
+		},
+		"excerpt": {
+			"rendered": "<p>I will communicate with my leaders once a week to identify our progress and share our successes. I will schedule one hour from 11:00 to noon every Tuesday to focus on motivation. I will spend 30 minutes every day on improving my motivation and leadership skills. I will spend $100 on fun recognition rewards, good/new &hellip; </p>\n<p class=\"link-more\"><a href=\"http://account.6icatalyst.com/api/popover-id-boost-leaders-step-3-id-communicate/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> &#8220;Boost Leaders Step 3 ID Communicate&#8221;</span></a></p>\n",
+			"protected": false
+		},
+		"author": 3,
+		"featured_media": 0,
+		"parent": 0,
+		"menu_order": 0,
+		"comment_status": "closed",
+		"ping_status": "closed",
+		"template": "",
+		"meta": [],
+		"wf_page_folders": [22],
+		"_links": {
+			"self": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages/1082"
+				}
+			],
+			"collection": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages"
+				}
+			],
+			"about": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/types/page"
+				}
+			],
+			"author": [
+				{
+					"embeddable": true,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/users/3"
+				}
+			],
+			"replies": [
+				{
+					"embeddable": true,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/comments?post=1082"
+				}
+			],
+			"version-history": [
+				{
+					"count": 4,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages/1082/revisions"
+				}
+			],
+			"predecessor-version": [
+				{
+					"id": 1686,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages/1082/revisions/1686"
+				}
+			],
+			"wp:attachment": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/media?parent=1082"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "wf_page_folders",
+					"embeddable": true,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/wf_page_folders?post=1082"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https://api.w.org/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 1079,
+		"date": "2018-09-05T19:30:17",
+		"date_gmt": "2018-09-05T19:30:17",
+		"guid": {
+			"rendered": "http://account.6icatalyst.com/api/?page_id=1079"
+		},
+		"modified": "2018-10-11T15:57:06",
+		"modified_gmt": "2018-10-11T15:57:06",
+		"slug": "popover-id-boost-leader-step-3-id-delegate",
+		"status": "publish",
+		"type": "page",
+		"link": "http://account.6icatalyst.com/api/popover-id-boost-leader-step-3-id-delegate/",
+		"title": {
+			"rendered": "Boost Leaders Step 3 ID Delegate"
+		},
+		"content": {
+			"rendered": "<ul>\n<li>I will delegate assignments to my leaders that require genuine effort and opportunity for them.</li>\n<li>I will focus more on developing leadership skills in my leaders.</li>\n<li>I will keep my focus on the defined direction I have selected until I see the progress I want to see.</li>\n<li>I will meet with team members, and together we will organize a set of goals designed to increase their motivation.</li>\n<li>I will follow up, encourage, and reward improved diligence in my leaders.</li>\n<li>I will identify and resolve reasons for a lack of motivation\u2014lack of or misdirected effort, lack of understanding how to do things, poor communication, etc.</li>\n<li>I will learn new ways to motivate.</li>\n<li>I will refer others to 6i Catalyst so they can learn and be motivated too.</li>\n<li>I will work to build trust. I will be consistent and supportive and lead by example. I will do what I say I will do.</li>\n<li>I will invite more participation from others to generate commitment and a sense ownership.</li>\n<li>I will communicate more positive results and experiences.</li>\n</ul>\n",
+			"protected": false
+		},
+		"excerpt": {
+			"rendered": "<p>I will delegate assignments to my leaders that require genuine effort and opportunity for them. I will focus more on developing leadership skills in my leaders. I will keep my focus on the defined direction I have selected until I see the progress I want to see. I will meet with team members, and together &hellip; </p>\n<p class=\"link-more\"><a href=\"http://account.6icatalyst.com/api/popover-id-boost-leader-step-3-id-delegate/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> &#8220;Boost Leaders Step 3 ID Delegate&#8221;</span></a></p>\n",
+			"protected": false
+		},
+		"author": 3,
+		"featured_media": 0,
+		"parent": 0,
+		"menu_order": 0,
+		"comment_status": "closed",
+		"ping_status": "closed",
+		"template": "",
+		"meta": [],
+		"wf_page_folders": [22],
+		"_links": {
+			"self": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages/1079"
+				}
+			],
+			"collection": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages"
+				}
+			],
+			"about": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/types/page"
+				}
+			],
+			"author": [
+				{
+					"embeddable": true,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/users/3"
+				}
+			],
+			"replies": [
+				{
+					"embeddable": true,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/comments?post=1079"
+				}
+			],
+			"version-history": [
+				{
+					"count": 3,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages/1079/revisions"
+				}
+			],
+			"predecessor-version": [
+				{
+					"id": 1486,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages/1079/revisions/1486"
+				}
+			],
+			"wp:attachment": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/media?parent=1079"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "wf_page_folders",
+					"embeddable": true,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/wf_page_folders?post=1079"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https://api.w.org/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 1076,
+		"date": "2018-09-05T18:14:09",
+		"date_gmt": "2018-09-05T18:14:09",
+		"guid": {
+			"rendered": "http://account.6icatalyst.com/api/?page_id=1076"
+		},
+		"modified": "2019-03-06T22:47:25",
+		"modified_gmt": "2019-03-06T22:47:25",
+		"slug": "popover-dq-boost-leader-step-3-dq-enough-time",
+		"status": "publish",
+		"type": "page",
+		"link": "http://account.6icatalyst.com/api/popover-dq-boost-leader-step-3-dq-enough-time/",
+		"title": {
+			"rendered": "Boost Leader Step 3 DQ enough time"
+		},
+		"content": {
+			"rendered": "<ul>\n<li>Do you take enough time to prepare a plan for innovation (to make things better)?</li>\n<li>Do you know the ingredients of a good plan?</li>\n<li>Why does creating a good strategy reduce the time it takes to achieve your goals?</li>\n<li>Do you train other members of your team to plan well?</li>\n<li>Which plans have been the most successful, and which have been the least successful?</li>\n</ul>\n",
+			"protected": false
+		},
+		"excerpt": {
+			"rendered": "<p>Do you take enough time to prepare a plan for innovation (to make things better)? Do you know the ingredients of a good plan? Why does creating a good strategy reduce the time it takes to achieve your goals? Do you train other members of your team to plan well? Which plans have been the &hellip; </p>\n<p class=\"link-more\"><a href=\"http://account.6icatalyst.com/api/popover-dq-boost-leader-step-3-dq-enough-time/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> &#8220;Boost Leader Step 3 DQ enough time&#8221;</span></a></p>\n",
+			"protected": false
+		},
+		"author": 3,
+		"featured_media": 0,
+		"parent": 0,
+		"menu_order": 0,
+		"comment_status": "closed",
+		"ping_status": "closed",
+		"template": "",
+		"meta": [],
+		"wf_page_folders": [21],
+		"_links": {
+			"self": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages/1076"
+				}
+			],
+			"collection": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages"
+				}
+			],
+			"about": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/types/page"
+				}
+			],
+			"author": [
+				{
+					"embeddable": true,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/users/3"
+				}
+			],
+			"replies": [
+				{
+					"embeddable": true,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/comments?post=1076"
+				}
+			],
+			"version-history": [
+				{
+					"count": 2,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages/1076/revisions"
+				}
+			],
+			"predecessor-version": [
+				{
+					"id": 1681,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages/1076/revisions/1681"
+				}
+			],
+			"wp:attachment": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/media?parent=1076"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "wf_page_folders",
+					"embeddable": true,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/wf_page_folders?post=1076"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https://api.w.org/{rel}",
+					"templated": true
+				}
+			]
+		}
+	},
+	{
+		"id": 1073,
+		"date": "2018-09-05T18:10:52",
+		"date_gmt": "2018-09-05T18:10:52",
+		"guid": {
+			"rendered": "http://account.6icatalyst.com/api/?page_id=1073"
+		},
+		"modified": "2018-10-11T01:37:34",
+		"modified_gmt": "2018-10-11T01:37:34",
+		"slug": "popover-id-initiative",
+		"status": "publish",
+		"type": "page",
+		"link": "http://account.6icatalyst.com/api/popover-id-initiative/",
+		"title": {
+			"rendered": "Boost leaders step 2 id More Initiative"
+		},
+		"content": {
+			"rendered": "<ul>\n<li>I want my leaders to show more initiative.</li>\n<li>I want my leaders to be more diligent and follow through better on assignments.</li>\n<li>I want my leaders to organize and use a schedule so they are more efficient.</li>\n<li>I want my leaders to communicate more often and more accurately with their team members.</li>\n<li>I want my leaders to respond more quickly to their team\u2019s requests and take the time to be more helpful.</li>\n<li>I want my leaders to communicate more with me.</li>\n<li>I want my leaders to set goals, better organize a plan for achieving them, and work more diligently toward achieving them.</li>\n<li>I want my leaders to learn more about the product and more about sharing and teaching.</li>\n<li>I want my leaders to train others more effectively.</li>\n</ul>\n",
+			"protected": false
+		},
+		"excerpt": {
+			"rendered": "<p>I want my leaders to show more initiative. I want my leaders to be more diligent and follow through better on assignments. I want my leaders to organize and use a schedule so they are more efficient. I want my leaders to communicate more often and more accurately with their team members. I want my &hellip; </p>\n<p class=\"link-more\"><a href=\"http://account.6icatalyst.com/api/popover-id-initiative/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> &#8220;Boost leaders step 2 id More Initiative&#8221;</span></a></p>\n",
+			"protected": false
+		},
+		"author": 3,
+		"featured_media": 0,
+		"parent": 0,
+		"menu_order": 0,
+		"comment_status": "closed",
+		"ping_status": "closed",
+		"template": "",
+		"meta": [],
+		"wf_page_folders": [22],
+		"_links": {
+			"self": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages/1073"
+				}
+			],
+			"collection": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages"
+				}
+			],
+			"about": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/types/page"
+				}
+			],
+			"author": [
+				{
+					"embeddable": true,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/users/3"
+				}
+			],
+			"replies": [
+				{
+					"embeddable": true,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/comments?post=1073"
+				}
+			],
+			"version-history": [
+				{
+					"count": 3,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages/1073/revisions"
+				}
+			],
+			"predecessor-version": [
+				{
+					"id": 1480,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages/1073/revisions/1480"
+				}
+			],
+			"wp:attachment": [
+				{
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/media?parent=1073"
+				}
+			],
+			"wp:term": [
+				{
+					"taxonomy": "wf_page_folders",
+					"embeddable": true,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/wf_page_folders?post=1073"
+				}
+			],
+			"curies": [
+				{
+					"name": "wp",
+					"href": "https://api.w.org/{rel}",
+					"templated": true
+				}
+			]
+		}
+	}
+]

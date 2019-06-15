@@ -1,0 +1,9 @@
+<div>
+	<button
+		class="fa"
+		[class.fa-filter]="filterText === ''"
+		[class.fa-times]="filterText != ''"
+		(click)="searchControl.setValue('')"
+	></button>
+	<input type="search" [formControl]="searchControl" [placeholder]="placeHolderText" />
+</div>

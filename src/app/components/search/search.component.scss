@@ -1,0 +1,44 @@
+div {
+	position: relative;
+}
+button {
+	position: absolute;
+	background: transparent;
+	border: none;
+	width: 35px;
+	height: 35px;
+	text-align: center;
+	line-height: 2.25rem;
+	right: 0px;
+	color: var(--icon);
+	font-size: 1rem;
+}
+input {
+	width: 100%;
+	background: transparent;
+	border: 1px solid var(--border_color_lite);
+	height: 2.25rem;
+	border-radius: 0.25rem;
+	padding-left: 0.5rem;
+	padding-right: 2.25rem;
+	&:focus {
+		outline: none;
+	}
+	&::placeholder {
+		color: var(--icon);
+		font-style: italic;
+	}
+}
+:host(.onDarkBg) {
+	input {
+		border-color: var(--border_color_modal);
+		color: #fff;
+		background: var(--fade_bg);
+		&::placeholder {
+			color: var(--fade_text);
+		}
+	}
+	button {
+		color: var(--fade_text);
+	}
+}

@@ -1,0 +1,57 @@
+@import './../../../../assets/css/mixins';
+@import './../../../../assets/css/form';
+@include emptyList;
+
+ion-header {
+	--background: var(--success);
+	ion-toolbar {
+		--background: var(--success);
+	}
+	ion-item {
+		--background: var(--success);
+	}
+}
+ion-content {
+	--background: var(--success);
+	ion-label {
+		padding-right: 3.5rem;
+	}
+	small {
+		font-size: 0.8rem;
+		position: absolute;
+		right: 0px;
+		text-align: center;
+		i {
+			display: block;
+			font-size: 1.5rem;
+		}
+	}
+}
+ion-footer {
+	background: var(--success);
+	&:before {
+		content: ' ';
+		height: 2px;
+		position: absolute;
+		background: var(--footer-button-border);
+		top: 0px;
+		left: var(--padding-start);
+		right: var(--padding-end);
+	}
+}
+[padding] {
+	padding-top: 8px;
+	padding-bottom: 8px;
+}
+.filter {
+	position: relative;
+	button {
+		position: absolute;
+		background: none;
+	}
+}
+app-search {
+	width: 100%;
+	margin-right: 8px;
+	margin-bottom: 0.5rem;
+}

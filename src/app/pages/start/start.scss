@@ -1,0 +1,27 @@
+ion-content {
+	--background: var(--home);
+	background: var(--home);
+	.startLogo {
+		background-image: url(/assets/img/6iCatalyst.png);
+		background-repeat: no-repeat;
+		background-position: center center;
+		background-size: auto 80px;
+		height: 200px;
+		display: block;
+	}
+	ion-button {
+		--background: var(--fade_bg);
+		--border-color: var(--footer-button-border);
+		--border-width: 1px;
+		--border-style: solid;
+		margin-top: 20px;
+		font-weight: 600;
+		font-size: 1.1rem;
+		text-transform: uppercase;
+	}
+	.bottom_link {
+		text-align: center;
+		margin-top: 40px;
+		color: #ffffff;
+	}
+}

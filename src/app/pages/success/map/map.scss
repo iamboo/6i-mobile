@@ -1,0 +1,26 @@
+@import './../../../../assets/css/form';
+@import './../../../../assets/css/mixins';
+
+ion-item {
+	--border-color: transparent;
+}
+ion-header {
+	ion-toolbar {
+		--background: var(--success);
+	}
+}
+ion-footer {
+	display: flex;
+	background: var(--success);
+}
+.fa-calendar-alt {
+	position: absolute;
+	color: var(--icon);
+	right: 1rem;
+	bottom: 1.4rem;
+	font-size: 1.4rem;
+}
+app-rating {
+	display: block;
+	width: 100%;
+}

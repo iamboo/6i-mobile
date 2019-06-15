@@ -1,0 +1,20 @@
+ion-header {
+	ion-toolbar {
+		--background: var(--todo);
+	}
+}
+ion-footer {
+	background: var(--todo);
+}
+ion-list {
+	ion-item {
+		small {
+			display: block;
+			color: var(--todo);
+		}
+		ion-checkbox {
+			--background-checked: var(--todo);
+			--border-color-checked: var(--todo);
+		}
+	}
+}

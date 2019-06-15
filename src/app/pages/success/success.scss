@@ -1,0 +1,139 @@
+@import '../../../assets/css/mixins';
+ion-header {
+	ion-toolbar {
+		--background: var(--success);
+		background-color: var(--success);
+	}
+	h1 {
+		text-align: left;
+		background: #fff;
+	}
+	.button-bar {
+		position: absolute;
+		right: 0px;
+		margin-top: -45px;
+		ion-button {
+			--padding-start: 0.5rem;
+			--padding-end: 0.5rem;
+			margin-top: 0px;
+			margin-bottom: 0px;
+			--background: transparent;
+			--background-activated: transparent;
+			--background-focused: transparent;
+			--color: unset;
+			color: var(--success);
+			fa-icon {
+				font-size: 1.8rem;
+			}
+		}
+	}
+	.filter {
+		padding-top: 5px;
+		padding-bottom: 5px;
+		background: #fff;
+		.fa {
+			position: absolute;
+			right: 17px;
+			background: transparent;
+			border: none;
+			height: 38px;
+			line-height: 38px;
+			width: 30px;
+			text-align: center;
+			font-size: 1rem;
+			color: var(--icon);
+		}
+		ion-input {
+			border: 1px solid var(--border_color_lite);
+			border-radius: 5px;
+			--padding-start: 10px;
+			--padding-end: 30px;
+		}
+	}
+}
+ion-content {
+	ion-list {
+		ion-item-sliding {
+			border-bottom: var(--border);
+			border-top: var(--border);
+			ion-item {
+				ion-label {
+					i {
+						margin-right: 0.25rem;
+					}
+					min-height: 4rem;
+					app-rating {
+						display: block;
+						position: absolute;
+						bottom: 0.5rem;
+						right: 3rem;
+					}
+					font-size: 1.2rem;
+					small {
+						font-size: 0.9rem;
+						--color: unset;
+						color: var(--success);
+						display: block;
+					}
+				}
+				ion-icon {
+					min-height: 4.5rem;
+				}
+			}
+			button {
+				color: #fff;
+				text-align: center;
+				width: 4rem;
+				i {
+					display: block;
+					font-size: 1.5rem;
+					height: 2.5rem;
+					width: 100%;
+					text-align: center;
+					line-height: 2.5rem;
+				}
+				b {
+					font-weight: 600;
+				}
+				&.duplicate {
+					background: var(--home);
+				}
+				&.modify {
+					background: var(--success);
+				}
+				&.delete {
+					background: var(--ion-color-danger);
+				}
+			}
+		}
+		&.list-md {
+			ion-item-sliding {
+				ion-item {
+					ion-label {
+						app-rating {
+							bottom: 1rem;
+						}
+					}
+				}
+			}
+		}
+	}
+}
+
+@include emptyList;
+
+ion-footer {
+	background: var(--success);
+	--padding-top: 8px;
+	ion-button {
+		color: #fff;
+		min-height: 3rem;
+		b {
+			font-size: 0.8rem;
+			font-weight: 500;
+		}
+		i {
+			display: block;
+		}
+	}
+}

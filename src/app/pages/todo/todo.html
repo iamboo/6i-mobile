@@ -1,0 +1,39 @@
+<ion-header>
+	<ion-toolbar>
+		<ion-buttons slot="start">
+			<ion-button routerLink="/home" routerDirection="root" class="global-back">
+				<ion-icon name="arrow-back" slot="icon-only"></ion-icon>
+			</ion-button>
+		</ion-buttons>
+		<ion-title>To Do</ion-title>
+		<ion-buttons slot="end">
+			<ion-menu-button class="fas fa-bars"></ion-menu-button>
+		</ion-buttons>
+	</ion-toolbar>
+</ion-header>
+<ion-content>
+	<ion-list lines="full">
+		<ion-item
+			lines="full"
+			(click)="toggleTodo(todo)"
+			*ngFor="let todo of todoList"
+			[hidden]="todo.complete && !showCompleted"
+		>
+			<ion-checkbox [checked]="todo.complete" slot="start"> </ion-checkbox>
+			<ion-label>
+				{{ todo.description }}
+				<small>{{ todo.date_due | date: 'dd MMM y' }} | {{ todo.map_name }}</small>
+			</ion-label>
+		</ion-item>
+	</ion-list>
+	<div class="emptyList" *ngIf="emptyList">
+		<p>Nothing To Do</p>
+		<span class="fa fa-inbox"></span>
+		<button ion-button (click)="setMoreGoals()">Set New Goals</button>
+	</div>
+</ion-content>
+<ion-footer [hidden]="todoList.length === 0">
+	<ion-button expand="block" (click)="showCompleted = !showCompleted">
+		{{ showCompleted ? 'Hide Completed' : 'Show Completed' }}
+	</ion-button>
+</ion-footer>

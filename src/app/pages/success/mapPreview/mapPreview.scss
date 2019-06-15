@@ -1,0 +1,45 @@
+@import './../../../../assets/css/form';
+@import './../../../../assets/css/mixins';
+ion-header {
+	ion-toolbar.success {
+		--background: var(--success);
+	}
+}
+ion-footer {
+	background: var(--success);
+}
+ion-list {
+	&#reviewList {
+		ion-item {
+			small {
+				position: absolute;
+				top: 0.75rem;
+			}
+			app-rating {
+				position: absolute;
+				top: 0.5rem;
+				right: 1rem;
+			}
+			p {
+				padding-top: 2.25rem;
+			}
+		}
+	}
+	&#info {
+		ion-item {
+			ion-label {
+				text-transform: uppercase;
+			}
+			p {
+				width: 100%;
+				margin: 0px 0px 0.75rem 0px;
+				font-size: 1.2rem;
+			}
+			app-rating {
+				position: absolute;
+				right: 1rem;
+				top: 0.5rem;
+			}
+		}
+	}
+}

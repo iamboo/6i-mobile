@@ -1,0 +1,22 @@
+<ion-app>
+	<ion-split-pane>
+		<ion-menu side="end">
+			<ion-header (click)="goHome()">
+				<ion-toolbar class="menuHeader"></ion-toolbar>
+			</ion-header>
+			<ion-content>
+				<ion-list lines="none" class="menuList">
+					<ion-menu-toggle auto-hide="true">
+						<ion-item detail="false" (click)="navMenu(p)" *ngFor="let p of appPages">
+							<span slot="start" class="listIcon" [class]="p.className"></span>
+							<ion-label>
+								{{ p.title }}
+							</ion-label>
+						</ion-item>
+					</ion-menu-toggle>
+				</ion-list>
+			</ion-content>
+		</ion-menu>
+		<ion-router-outlet main></ion-router-outlet>
+	</ion-split-pane>
+</ion-app>

@@ -1,0 +1,17 @@
+<ion-header>
+	<ion-toolbar>
+		<ion-title>Moderator Comments</ion-title>
+		<ion-buttons slot="end">
+			<span class="fas fa-times btn-close" (click)="dismiss()" slot="end"></span>
+		</ion-buttons>
+	</ion-toolbar>
+</ion-header>
+
+<ion-content padding>
+	<p>
+		Your {{ map && map.is_admin ? 'Strategy Map' : 'review' }} was not approved. Please refer to the moderator
+		comments below and make any required changes.
+	</p>
+	<hr />
+	<p>{{ comments }}</p>
+</ion-content>

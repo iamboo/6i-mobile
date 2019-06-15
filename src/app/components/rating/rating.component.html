@@ -1,0 +1,14 @@
+<span class="rating" [class.links]="clickDefined" [hidden]="ratingCount === 0 && !clickDefined">
+	<i [hidden]="ratingCount < 1">{{ ratingCount }}</i>
+	<span
+		(click)="onStarClick(starInt)"
+		[ngClass]="
+			starInt - 0.25 <= ratingAve
+				? 'fas fa-star'
+				: starInt - 0.75 <= ratingAve && starInt - 0.26 >= ratingAve
+				? 'fas fa-star-half-alt'
+				: 'far fa-star'
+		"
+		*ngFor="let starInt of [1, 2, 3, 4, 5]"
+	></span>
+</span>

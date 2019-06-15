@@ -1,0 +1,121 @@
+<ion-header>
+	<ion-toolbar>
+		<ion-buttons slot="start" [hidden]="headerClass === 'homePage'">
+			<ion-nav-pop>
+				<ion-button class="global-back" (click)="goBack()">
+					<ion-icon name="arrow-back" slot="icon-only"></ion-icon>
+				</ion-button>
+			</ion-nav-pop>
+		</ion-buttons>
+		<ion-title>Map Settings</ion-title>
+		<ion-buttons slot="end">
+			<ion-menu-button class="fas fa-bars"></ion-menu-button>
+		</ion-buttons>
+	</ion-toolbar>
+	<h1 *ngIf="!isMapEdit">{{ currentMap?.name }}</h1>
+</ion-header>
+<ion-content>
+	<form [formGroup]="mapForm" (ngSubmit)="saveMap()">
+		<ion-grid lines="full">
+			<ion-row *ngIf="isMapEdit">
+				<ion-col>
+					<ion-item>
+						<ion-label position="stacked">Strategy Map Name</ion-label>
+						<ion-input
+							type="text"
+							formControlName="name"
+							aria-placeholder="What would you like to call this map?"
+						></ion-input>
+					</ion-item>
+				</ion-col>
+			</ion-row>
+			<ion-row *ngIf="isValid">
+				<ion-col>
+					<ion-item>
+						<ion-label position="stacked">Start Date</ion-label>
+						<span class="far fa-calendar-alt"></span>
+						<ion-datetime
+							displayFormat="YYYY-MM-DD"
+							formControlName="date_start"
+							[min]="startMinDate"
+						></ion-datetime>
+					</ion-item>
+				</ion-col>
+				<ion-col [hidden]="!mapForm.controls.date_start.valid">
+					<ion-item>
+						<ion-label position="stacked">Due Date</ion-label>
+						<span class="far fa-calendar-alt"></span>
+						<ion-datetime
+							displayFormat="YYYY-MM-DD"
+							formControlName="date_due"
+							[min]="dueMinDate"
+						></ion-datetime>
+					</ion-item>
+				</ion-col>
+			</ion-row>
+			<ion-row *ngIf="showPublic">
+				<ion-col>
+					<ion-item>
+						<ion-label position="stacked">Author Notes</ion-label>
+						<ion-textarea
+							rows="6"
+							formControlName="author_notes"
+							placeholder="Share the benefits of this map..."
+						></ion-textarea>
+					</ion-item>
+				</ion-col>
+			</ion-row>
+			<ion-row *ngIf="showPublic && isValid">
+				<ion-col>
+					<ion-item>
+						<ion-label>Public</ion-label>
+						<ion-toggle formControlName="public" color="primary"></ion-toggle>
+					</ion-item>
+				</ion-col>
+			</ion-row>
+			<ion-row *ngIf="showRating && isValid">
+				<ion-col>
+					<ion-item>
+						<ion-label position="stacked">Rate this strategy</ion-label>
+						<app-rating [ratingAve]="rating" (starClick)="onStarClick($event)"></app-rating>
+					</ion-item>
+				</ion-col>
+			</ion-row>
+			<ion-row *ngIf="showRating && isValid">
+				<ion-col>
+					<ion-item>
+						<ion-label position="stacked">What are your results?</ion-label>
+						<ion-textarea
+							rows="6"
+							formControlName="review"
+							aria-placeholder="Enter results..."
+						></ion-textarea>
+					</ion-item>
+				</ion-col>
+			</ion-row>
+			<ion-row *ngIf="!isValid">
+				<ion-col>
+					<ion-item>
+						<p>
+							This Strategy Map is incomplete. To enable all features, please go back and complete all of
+							the responses.
+							<br />
+							<br />
+							Can't complete it now? Give it a name, save as a draft, and come back to finish it later.
+						</p>
+					</ion-item>
+				</ion-col>
+			</ion-row>
+		</ion-grid>
+	</form>
+</ion-content>
+<ion-footer>
+	<ion-buttons slot="start" *ngIf="needsUpdate">
+		<ion-button (click)="showModeratorComments()" class="btn-menu">
+			<span class="fa fa-exclamation-triangle"></span>
+		</ion-button>
+	</ion-buttons>
+	<ion-button expand="block" (click)="saveMap()">
+		{{ isValid ? 'Save Map' : 'Save Draft' }} <span class="fa fa-check-circle button-icon"></span>
+	</ion-button>
+</ion-footer>

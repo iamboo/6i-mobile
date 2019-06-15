@@ -1,0 +1,52 @@
+.toolbar-ios {
+	ion-title {
+		padding: 0 44px 1px !important;
+	}
+}
+ion-app.ios {
+	font-family: 'Kohinoor Bangla', Helvetica;
+}
+.item {
+	background: transparent;
+	&.item-block {
+		.item-inner {
+			border-color: rgba(255, 255, 255, 0.7);
+		}
+	}
+	&.item-checkbox {
+		margin-top: 15px;
+		color: rgba(255, 255, 255, 0.7);
+		.item-inner {
+			border-color: transparent;
+		}
+		.checkbox-icon {
+			-webkit-border-radius: 3px;
+			-moz-border-radius: 3px;
+			border-radius: 3px;
+			background-color: rgba(255, 255, 255, 0.2);
+			height: 26px;
+			width: 26px;
+		}
+	}
+	&.item-checkbox-checked {
+		color: #fff;
+	}
+	.checkbox-ios {
+		.checkbox-checked {
+			text-align: center;
+			border-color: #fff;
+			&:before {
+				margin-top: 3px;
+				content: '\f00c';
+				font: normal normal normal 14px/1 FontAwesome;
+				display: block;
+			}
+			.checkbox-inner {
+				display: none;
+			}
+		}
+	}
+}
+.button-ios {
+	@include button();
+}
