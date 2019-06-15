@@ -230,6 +230,41 @@ ion-modal {
 				}
 			}
 		}
+		.info_icon {
+			background: var(--fade_bg);
+			height: 3rem;
+			line-height: 3rem;
+			padding-left: 3rem;
+			border: 1px solid var(--footer-button-border);
+			border-radius: 0.25rem;
+			position: relative;
+			&:before {
+				font-family: 'Font Awesome 5 Free';
+				position: absolute;
+				height: 3rem;
+				width: 3rem;
+				left: 0rem;
+				top: 0rem;
+				font-size: 1.8rem;
+				text-align: center;
+				line-height: 3rem;
+			}
+			&.info_icon_dq {
+				&:before {
+					content: '\f059';
+				}
+			}
+			&.info_icon_id {
+				&:before {
+					content: '\f0eb';
+				}
+			}
+			&.info_icon_ch {
+				&:before {
+					content: '\f2bd';
+				}
+			}
+		}
 	}
 	&.popover_lm {
 		--background: var(--learn_more);
