@@ -33,7 +33,7 @@ export class AccountPage {
 		postData['action'] = 'add';
 		postData['passkey'] = '!nN0v8x6';
 		this.accountService.accountApi(postData).subscribe(accountData => {
-			this.navCtrl.navigateRoot(['main'], { queryParams: { slug: 'home' } });
+			this.navCtrl.navigateRoot(['home']);
 		});
 	}
 

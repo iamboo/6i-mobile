@@ -235,7 +235,11 @@ export class MainPage implements OnInit, OnDestroy {
 
 	leaderNext() {
 		const nextPageSlug = this.leaderNextUrl.split('/api/')[1].replace('/', '');
-		this.navCtrl.navigateRoot(['main'], { queryParams: { slug: nextPageSlug } });
+		if (nextPageSlug === 'home') {
+			this.navCtrl.navigateRoot(['home']);
+		} else {
+			this.navCtrl.navigateRoot(['main'], { queryParams: { slug: nextPageSlug } });
+		}
 	}
 
 	applyMapValues() {
