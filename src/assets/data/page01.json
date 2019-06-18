@@ -6,8 +6,8 @@
 		"guid": {
 			"rendered": "http:\/\/account.6icatalyst.com\/api\/?page_id=1688"
 		},
-		"modified": "2019-03-07T04:48:09",
-		"modified_gmt": "2019-03-07T04:48:09",
+		"modified": "2019-05-26T20:22:17",
+		"modified_gmt": "2019-05-26T20:22:17",
 		"slug": "library-train-and-retain",
 		"status": "publish",
 		"type": "page",
@@ -16,11 +16,11 @@
 			"rendered": "Train and Retain"
 		},
 		"content": {
-			"rendered": "<ul class=\"list pdf\">\n<li><a href=\"http:\/\/catlib.netbing.com\/TrainAndRetain\/HowtoMisinterpretOthers.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">How to Misinterpret Others<\/a><\/li>\n<li><a href=\"http:\/\/catlib.netbing.com\/TrainAndRetain\/Relationshipattitudesandtools.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Relationship Attitudes<\/a><\/li>\n<\/ul>\n",
+			"rendered": "<ul class=\"list pdf\">\n<li><a href=\"http:\/\/catlib.netbing.com\/train_and_retain\/training_increase_class_attendance.pdf\">TRAINING: Increase Class Attendance<\/a><\/li>\n<li><a href=\"http:\/\/catlib.netbing.com\/train_and_retain\/training_teach_ trust.pdf\">TRAINING: Teach Trust<\/a><\/li>\n<\/ul>\n",
 			"protected": false
 		},
 		"excerpt": {
-			"rendered": "<p>How to Misinterpret Others Relationship Attitudes<\/p>\n",
+			"rendered": "<p>TRAINING: Increase Class Attendance TRAINING: Teach Trust<\/p>\n",
 			"protected": false
 		},
 		"author": 3,
@@ -64,14 +64,14 @@
 			],
 			"version-history": [
 				{
-					"count": 7,
+					"count": 9,
 					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages\/1688\/revisions"
 				}
 			],
 			"predecessor-version": [
 				{
-					"id": 1699,
-					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages\/1688\/revisions\/1699"
+					"id": 1899,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages\/1688\/revisions\/1899"
 				}
 			],
 			"wp:attachment": [
@@ -4710,8 +4710,8 @@
 		"guid": {
 			"rendered": "http:\/\/account.6icatalyst.com\/api\/?page_id=1245"
 		},
-		"modified": "2019-03-04T05:15:18",
-		"modified_gmt": "2019-03-04T05:15:18",
+		"modified": "2019-05-29T16:55:21",
+		"modified_gmt": "2019-05-29T16:55:21",
 		"slug": "popover-sp-templates",
 		"status": "publish",
 		"type": "page",
@@ -4720,11 +4720,11 @@
 			"rendered": "Choose Template"
 		},
 		"content": {
-			"rendered": "<ul class=\"list template_list\">\n<li><a href=\"http:\/\/account.6icatalyst.com\/api\/sp_boost-leader-motivation\/\">Boost Leader Motivation<\/a><\/li>\n<li><a href=\"http:\/\/account.6icatalyst.com\/api\/sp_create-strong-leaders\/\">Create Strong Leaders<\/a><\/li>\n<li><a href=\"http:\/\/account.6icatalyst.com\/api\/sp_customize-your-goal\/\">Customize Your Goal<\/a><\/li>\n<li><a href=\"http:\/\/account.6icatalyst.com\/api\/sp_enroll-more-people\/\">Enroll More People<\/a><\/li>\n<li><a href=\"http:\/\/account.6icatalyst.com\/api\/sp_hit-rank-faster\/\">Hit Rank Faster<\/a><\/li>\n<li><a href=\"http:\/\/account.6icatalyst.com\/api\/sp_improve-teaching\/\">Improve Product Knowledge and Teaching<\/a><\/li>\n<li><a href=\"http:\/\/account.6icatalyst.com\/api\/sp_increase-volume\/\">Increase Volume<\/a><\/li>\n<\/ul>\n",
+			"rendered": "<ul class=\"list template_list\">\n<li><a href=\"http:\/\/account.6icatalyst.com\/api\/sp_boost-leader-motivation\/\">Boost Leader Motivation<\/a><\/li>\n<li><a href=\"http:\/\/account.6icatalyst.com\/api\/sp_create-strong-leaders\/\">Create Strong Leaders<\/a><\/li>\n<li><a href=\"http:\/\/account.6icatalyst.com\/api\/sp_enroll-more-people\/\">Enroll More People<\/a><\/li>\n<li><a href=\"http:\/\/account.6icatalyst.com\/api\/sp_hit-rank-faster\/\">Hit Rank Faster<\/a><\/li>\n<li><a href=\"http:\/\/account.6icatalyst.com\/api\/sp_improve-teaching\/\">Improve Product Knowledge and Teaching<\/a><\/li>\n<li><a href=\"http:\/\/account.6icatalyst.com\/api\/sp_increase-volume\/\">Increase Volume<\/a><\/li>\n<\/ul>\n",
 			"protected": false
 		},
 		"excerpt": {
-			"rendered": "<p>Boost Leader Motivation Create Strong Leaders Customize Your Goal Enroll More People Hit Rank Faster Improve Product Knowledge and Teaching Increase Volume<\/p>\n",
+			"rendered": "<p>Boost Leader Motivation Create Strong Leaders Enroll More People Hit Rank Faster Improve Product Knowledge and Teaching Increase Volume<\/p>\n",
 			"protected": false
 		},
 		"author": 1,
@@ -4768,14 +4768,14 @@
 			],
 			"version-history": [
 				{
-					"count": 7,
+					"count": 13,
 					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages\/1245\/revisions"
 				}
 			],
 			"predecessor-version": [
 				{
-					"id": 1669,
-					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages\/1245\/revisions\/1669"
+					"id": 1905,
+					"href": "http:\/\/account.6icatalyst.com\/api\/wp-json\/wp\/v2\/pages\/1245\/revisions\/1905"
 				}
 			],
 			"wp:attachment": [

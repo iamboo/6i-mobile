@@ -14,7 +14,7 @@ import { MainPopover } from '../main/popover';
 	providers: [MapService]
 })
 export class SuccessPage implements OnInit {
-	private mapList: StrategyMap[] = [];
+	public mapList: StrategyMap[] = [];
 	public filterMaps: StrategyMap[] = [];
 	public templateTitle = {};
 	public filterText = '';

@@ -46,7 +46,6 @@ library.add(fas, far);
 		NotifyService,
 		StatusBar,
 		SplashScreen,
-		Storage,
 		{ provide: RouteReuseStrategy, useClass: IonicRouteStrategy }
 	],
 	bootstrap: [AppComponent]

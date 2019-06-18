@@ -172,15 +172,15 @@ export class ContentService {
 		return pageTitle;
 	}
 
-	public getMenuData(menuId: number, menuSlug: string) {
-		this.http.get(this.contentUrl + 'wp-json/wp-api-menus/v2/menus/' + menuId).subscribe(
+	public getMenuData() {
+		this.http.get(this.contentUrl + 'wp-json/wp-api-menus/v2/menus/20').subscribe(
 			menuObj => {
 				if (menuObj) {
 					this.storeMenu(menuObj);
 				}
 			},
 			() => {
-				this.http.get('assets/data/' + menuSlug + '.json').subscribe(menuObj => {
+				this.http.get('assets/data/menu_main.json').subscribe(menuObj => {
 					if (menuObj) {
 						this.storeMenu(menuObj);
 					}

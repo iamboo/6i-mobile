@@ -35,7 +35,14 @@ export class AppComponent {
 
 	getMenu() {
 		this.storage.get('menu_main').then(menuData => {
-			this.appPages = menuData;
+			if (menuData) {
+				this.appPages = menuData;
+			} else {
+				this.contentService.getMenuData();
+				setTimeout(() => {
+					this.getMenu();
+				}, 500);
+			}
 		});
 	}
 

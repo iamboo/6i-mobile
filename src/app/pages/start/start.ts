@@ -26,7 +26,7 @@ export class StartPage implements OnInit {
 		this.storage.remove('challengeData');
 		this.storage.remove('strategy_maps');
 		this.contentService.initPageData();
-		this.contentService.getMenuData(20, 'menu_main');
+		this.contentService.getMenuData();
 
 		setTimeout(() => {
 			this.loaderService.stopLoader();

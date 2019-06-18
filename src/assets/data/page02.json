@@ -3014,8 +3014,8 @@
 		"guid": {
 			"rendered": "http://account.6icatalyst.com/api/?page_id=1127"
 		},
-		"modified": "2018-10-15T21:17:23",
-		"modified_gmt": "2018-10-15T21:17:23",
+		"modified": "2019-03-12T04:09:20",
+		"modified_gmt": "2019-03-12T04:09:20",
 		"slug": "popover-id-hit-rank-step-2-id-next-rank",
 		"status": "publish",
 		"type": "page",
@@ -3028,7 +3028,7 @@
 			"protected": false
 		},
 		"excerpt": {
-			"rendered": "<p>I will hit my next rank in two months. I will achieve my next rank more quickly than it took to achieve my current rank. I will make sure that members of my team will hit their next rank within sixty days. I will hit my next rank within sixty days and help three &hellip; </p>\n<p class=\"link-more\"><a href=\"http://account.6icatalyst.com/api/popover-id-hit-rank-step-2-id-next-rank/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> &#8220;Hit Rank Step 2 ID Next Rank&#8221;</span></a></p>\n",
+			"rendered": "<p>I will hit my next rank in two months. I will achieve my next rank more quickly than it took to achieve my current rank. I will make sure that members of my team will hit their next rank within sixty days. I will hit my next rank within sixty days and help three members &hellip; </p>\n<p class=\"link-more\"><a href=\"http://account.6icatalyst.com/api/popover-id-hit-rank-step-2-id-next-rank/\" class=\"more-link\">Continue reading<span class=\"screen-reader-text\"> &#8220;Hit Rank Step 2 ID Next Rank&#8221;</span></a></p>\n",
 			"protected": false
 		},
 		"author": 3,
@@ -3070,14 +3070,14 @@
 			],
 			"version-history": [
 				{
-					"count": 1,
+					"count": 2,
 					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages/1127/revisions"
 				}
 			],
 			"predecessor-version": [
 				{
-					"id": 1128,
-					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages/1127/revisions/1128"
+					"id": 1750,
+					"href": "http://account.6icatalyst.com/api/wp-json/wp/v2/pages/1127/revisions/1750"
 				}
 			],
 			"wp:attachment": [

@@ -3,6 +3,7 @@ import { ToDoInterface } from 'src/app/interfaces/todo.interface';
 import { Storage } from '@ionic/storage';
 import { NavController } from '@ionic/angular';
 import { ContentService } from 'src/app/services/content.service';
+import { LoaderService } from 'src/app/services/loading.service';
 
 @Component({
 	selector: 'app-home',
@@ -12,10 +13,16 @@ import { ContentService } from 'src/app/services/content.service';
 export class HomePage implements OnInit {
 	public homeLinks;
 	public badgeData;
-	constructor(private storage: Storage, private navCtrl: NavController, private contentService: ContentService) {}
+	constructor(
+		private loaderService: LoaderService,
+		private storage: Storage,
+		private navCtrl: NavController,
+		private contentService: ContentService
+	) {}
 
 	ngOnInit() {
 		this.badgeData = {};
+		this.loaderService.startLoader('Loading...');
 		Promise.all([
 			this.storage.get('menu_main'),
 			this.storage.get('goalData'),
@@ -30,6 +37,7 @@ export class HomePage implements OnInit {
 			const filteredGoals: ToDoInterface[] = goalData.filter(g => g.complete === 0 || g.complete === '0');
 			this.badgeData['to-do'] = filteredGoals.length;
 			this.showChallengePercentage(menuData, challengeData);
+			this.loaderService.stopLoader();
 		});
 	}
 

@@ -88,7 +88,7 @@ export class MapPreviewPage implements OnInit {
 		}
 	}
 
-	private returnToMapList() {
+	returnToMapList() {
 		this.navCtrl.navigateRoot(['success']);
 	}
 }

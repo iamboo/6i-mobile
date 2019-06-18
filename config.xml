@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.6icatalyst.6iApp" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-    <name>6i Catalyst</name>
+<widget android-packageName="com.sixicatalyst.mobile" id="com.6icatalyst.6iApp" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>The 6i Catalyst</name>
     <description>The 6i Catalyst app provides the natural conditions to transform people into high performing business builders.</description>
     <author email="mobile@netbing.com" href="http://netbing.com/">netBing</author>
     <content src="index.html" />

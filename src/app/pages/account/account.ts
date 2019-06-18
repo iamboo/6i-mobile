@@ -10,7 +10,7 @@ import { AccountService } from '../../services/account.service';
 	providers: [AccountService]
 })
 export class AccountPage {
-	private accountObj: FormGroup;
+	public accountObj: FormGroup;
 	public pageTitle = 'Register';
 
 	constructor(
