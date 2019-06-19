@@ -7,11 +7,17 @@ import { combineLatest } from 'rxjs';
 import { ActivatedRoute } from '@angular/router';
 import { AlertController, NavController } from '@ionic/angular';
 
-export interface TabInterface {
+interface TabInterface {
 	name: string;
 	icon: string;
 	label: string;
 	count: number;
+}
+
+interface MapResponseInterface {
+	label: string;
+	placeholder: string;
+	response: string;
 }
 
 @Component({
@@ -24,7 +30,7 @@ export class MapPreviewPage implements OnInit {
 	public map: StrategyMap;
 	public mapTemplate: string = '';
 	public mapReviews: MapReview[] = [];
-	public mapChallenges: string[] = [];
+	public mapChallenges: MapResponseInterface[] = [];
 	public currentTab: string = 'info';
 	public tabs: TabInterface[] = [];
 
@@ -48,18 +54,35 @@ export class MapPreviewPage implements OnInit {
 					this.map = map;
 					this.mapTemplate = templates[map.map_key];
 					this.mapReviews = reviews;
-					let challenges = [];
 					const responseData = JSON.parse(map.response);
-					Object.keys(responseData).forEach(c => {
-						challenges.push(responseData[c]);
-					});
-					this.mapChallenges = challenges;
+					this.mapPromptWithResponse(map, responseData);
 					this.tabs = [
 						{ name: 'info', icon: 'information-circle', label: 'Map Info', count: null },
-						{ name: 'challenges', icon: 'checkmark-circle', label: 'Challenges', count: null },
+						{ name: 'challenges', icon: 'checkmark-circle', label: 'Strategy', count: null },
 						{ name: 'reviews', icon: 'text', label: 'Reviews', count: this.mapReviews.length }
 					];
 				});
+			}
+		});
+	}
+
+	mapPromptWithResponse(map, responses) {
+		this.storage.get('content-' + map.map_key).then(response => {
+			const responseData: MapResponseInterface[] = [];
+			if (response && response.markup) {
+				const parser = new DOMParser();
+				const htmlObj = parser.parseFromString(response.markup, 'text/html');
+				Object.keys(responses).forEach(r => {
+					const input = htmlObj.querySelector('input[name="' + r + '"],textarea[name="' + r + '"]');
+					const placeholder = input.getAttribute('placeholder');
+					const label = input.parentElement.querySelector('label').textContent;
+					responseData.push({
+						label: label,
+						placeholder: placeholder,
+						response: responses[r]
+					});
+				});
+				this.mapChallenges = responseData;
 			}
 		});
 	}

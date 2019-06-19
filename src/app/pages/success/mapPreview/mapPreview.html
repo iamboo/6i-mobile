@@ -44,8 +44,14 @@
 			<p>{{ map.author_notes }}</p>
 		</ion-item>
 	</ion-list>
-	<ion-list [hidden]="currentTab !== 'challenges'" lines="full">
-		<ion-item *ngFor="let challenge of mapChallenges">{{ challenge }}</ion-item>
+	<ion-list [hidden]="currentTab !== 'challenges'" lines="full" id="challenges">
+		<ion-item *ngFor="let challenge of mapChallenges">
+			<ion-label position="stacked">
+				{{ challenge.label }}
+				<small>{{ challenge.placeholder }}</small>
+			</ion-label>
+			<p>{{ challenge.response }}</p>
+		</ion-item>
 	</ion-list>
 	<ion-list [hidden]="currentTab !== 'reviews'" id="reviewList" lines="full">
 		<ion-item *ngFor="let r of mapReviews" #thisReview>

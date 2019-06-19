@@ -42,4 +42,27 @@ ion-list {
 			}
 		}
 	}
+	&#challenges {
+		ion-item {
+			ion-label {
+				font-weight: 600;
+				text-overflow: unset;
+				overflow: unset;
+				white-space: unset;
+				font-size: 1rem;
+				line-height: 1.4rem;
+				small {
+					font-weight: 400;
+					font-size: 0.9rem;
+					color: var(--success);
+					display: block;
+				}
+			}
+			p {
+				width: 100%;
+				margin: 0px 0px 0.75rem 0px;
+				font-size: 1.2rem;
+			}
+		}
+	}
 }
