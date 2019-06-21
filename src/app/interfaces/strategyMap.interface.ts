@@ -16,6 +16,7 @@ export interface StrategyMap {
 	inList?: boolean;
 	comments?: string;
 	status?: string;
+	isValid?: boolean;
 
 	account_map: AccountMap;
 	map_review?: MapReview;

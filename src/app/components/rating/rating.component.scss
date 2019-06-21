@@ -23,3 +23,31 @@
 		}
 	}
 }
+:host(.mapPreview) {
+	position: absolute;
+	right: auto;
+	left: 0;
+	bottom: 0.5rem;
+	i {
+		position: absolute;
+		left: 9.5rem;
+		padding: 0 0.5rem;
+		line-height: 1.5rem;
+		height: 1.5rem;
+		font-size: 1rem;
+		background: var(--ideas_fade);
+		color: var(--ideas);
+		white-space: nowrap;
+		&:after {
+			content: 'reviews';
+			padding-left: 0.25rem;
+		}
+	}
+	.rating {
+		span {
+			font-size: 1.4rem;
+			color: var(--ideas);
+			padding-right: 0.25rem;
+		}
+	}
+}

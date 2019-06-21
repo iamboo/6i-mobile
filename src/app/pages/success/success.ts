@@ -54,6 +54,10 @@ export class SuccessPage implements OnInit {
 			if (mapData) {
 				this.mapList = mapData.maps;
 				this.filterMaps = this.sortBy(Object.assign([], this.mapList), 'name');
+				this.filterMaps.forEach(map => {
+					const isValid = this.mapService.mapComplete(map);
+					map.isValid = isValid;
+				});
 				const timeDiff = now - mapData.date;
 				if (timeDiff > 900000) {
 					updateMaps = true;

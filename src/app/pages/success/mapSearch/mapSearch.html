@@ -6,11 +6,7 @@
 		</ion-buttons>
 	</ion-toolbar>
 	<ion-item lines="none" [hidden]="!showSearch">
-		<app-search
-			placeHolderText="Filter Map List"
-			(searchChange)="onSearchChange($event)"
-			class="onDarkBg"
-		></app-search>
+		<app-search placeHolderText="Search" (searchChange)="onSearchChange($event)" class="onDarkBg"></app-search>
 	</ion-item>
 </ion-header>
 <ion-content>

@@ -29,16 +29,12 @@ ion-list {
 		ion-item {
 			ion-label {
 				text-transform: uppercase;
+				color: var(--success);
 			}
 			p {
 				width: 100%;
 				margin: 0px 0px 0.75rem 0px;
 				font-size: 1.2rem;
-			}
-			app-rating {
-				position: absolute;
-				right: 1rem;
-				top: 0.5rem;
 			}
 		}
 	}

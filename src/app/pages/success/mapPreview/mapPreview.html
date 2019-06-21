@@ -32,12 +32,16 @@
 			<p>{{ map.name }}</p>
 		</ion-item>
 		<ion-item>
-			<ion-label position="stacked">Type</ion-label>
+			<ion-label position="stacked">Category</ion-label>
 			<p>{{ mapTemplate }}</p>
 		</ion-item>
 		<ion-item>
 			<ion-label position="stacked">Average Rating</ion-label>
-			<app-rating [ratingCount]="map.rating_count" [ratingAve]="map.rating_average"></app-rating>
+			<app-rating
+				[ratingCount]="map.rating_count"
+				[ratingAve]="map.rating_average"
+				class="mapPreview"
+			></app-rating>
 		</ion-item>
 		<ion-item *ngIf="map.author_notes != ''">
 			<ion-label position="stacked">Author Notes</ion-label>

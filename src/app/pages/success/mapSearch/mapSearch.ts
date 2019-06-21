@@ -1,5 +1,4 @@
 import { Component, OnInit } from '@angular/core';
-import { FormControl } from '@angular/forms';
 import { Storage } from '@ionic/storage';
 import { MapService } from '../../../services/map.service';
 import { ModalController, NavController } from '@ionic/angular';
@@ -16,7 +15,7 @@ export class MapSearchPage implements OnInit {
 	public emptyList: boolean = false;
 	private accountMaps;
 	public filterText = '';
-	public showSearch: boolean = false;
+	public showSearch;
 	public templateTitle: any;
 	private accountObj: AccountObject;
 
@@ -28,6 +27,7 @@ export class MapSearchPage implements OnInit {
 	) {}
 
 	ngOnInit() {
+		this.showSearch = false;
 		Promise.all([
 			this.storage.get('strategy_maps'),
 			this.mapService.getTemplateTitles(),
@@ -63,7 +63,11 @@ export class MapSearchPage implements OnInit {
 			});
 		}
 		this.mapService.mapAPI(postData).subscribe(maps => {
+			console.log(this.showSearch);
 			if (maps) {
+				if (!this.showSearch) {
+					this.showSearch = maps.length > 9 && params.searchQuery === '';
+				}
 				maps.forEach((map: StrategyMap) => {
 					const foundIndex = this.accountMaps.findIndex(am => am['map_id'] == map.map_id);
 					if (foundIndex > -1) {

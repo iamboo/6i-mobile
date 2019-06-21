@@ -34,9 +34,10 @@
 					>
 					{{ map.name }}
 					<app-rating [ratingCount]="map.rating_count" [ratingAve]="map.rating_average"></app-rating>
-					<small [hidden]="map.account_map.date_due == 0"
+					<small [hidden]="map.account_map.date_due == 0 || !map.isValid"
 						>Due: {{ map.account_map.date_due | date: 'dd MMM y' }}</small
 					>
+					<small [hidden]="map.isValid">Draft</small>
 				</ion-label>
 				<ion-icon slot="end" name="ios-arrow-forward"></ion-icon>
 			</ion-item>
