@@ -405,11 +405,9 @@ export class MainPage implements OnInit, OnDestroy {
 						map_id: this.strategyMap.map_id,
 						auth_code: this.account.auth_code
 					})
-					.pipe(
-						map(() => {
-							this.navCtrl.back();
-						})
-					);
+					.subscribe(() => {
+						this.navCtrl.back();
+					});
 			}
 		});
 		if (this.strategyMap.is_admin && !this.isMapEdit) {
