@@ -27,18 +27,23 @@ export class HomePage implements OnInit {
 			this.storage.get('menu_main'),
 			this.storage.get('goalData'),
 			this.storage.get('challengeData')
-		]).then(([menuData, goalData, challengeData]) => {
-			if (!menuData) {
-				this.navCtrl.navigateRoot(['start']);
-				return;
+		]).then(
+			([menuData, goalData, challengeData]) => {
+				if (!menuData) {
+					this.navCtrl.navigateRoot(['start']);
+					return;
+				}
+				const filteredLinks = menuData ? menuData.filter(menuItem => menuItem.slug !== 'signout') : [];
+				this.homeLinks = filteredLinks;
+				const filteredGoals: ToDoInterface[] = goalData.filter(g => g.complete === 0 || g.complete === '0');
+				this.badgeData['to-do'] = filteredGoals.length;
+				this.showChallengePercentage(menuData, challengeData);
+				this.loaderService.stopLoader();
+			},
+			() => {
+				this.loaderService.stopLoader();
 			}
-			const filteredLinks = menuData ? menuData.filter(menuItem => menuItem.slug !== 'signout') : [];
-			this.homeLinks = filteredLinks;
-			const filteredGoals: ToDoInterface[] = goalData.filter(g => g.complete === 0 || g.complete === '0');
-			this.badgeData['to-do'] = filteredGoals.length;
-			this.showChallengePercentage(menuData, challengeData);
-			this.loaderService.stopLoader();
-		});
+		);
 	}
 
 	showChallengePercentage(menuData, challengeData) {

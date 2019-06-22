@@ -17,8 +17,10 @@ export class LoaderService {
 
 	async stopLoader() {
 		if (this.loader) {
-			this.loader.dismiss();
-			this.loader = null;
+			setTimeout(() => {
+				this.loader.dismiss();
+				this.loader = null;
+			}, 500);
 		}
 	}
 }
