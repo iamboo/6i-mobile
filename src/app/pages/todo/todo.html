@@ -32,7 +32,7 @@
 		<button ion-button (click)="setMoreGoals()">Set New Goals</button>
 	</div>
 </ion-content>
-<ion-footer [hidden]="todoList.length === 0">
+<ion-footer [class.iphoneX]="isX" [hidden]="todoList.length === 0">
 	<ion-button expand="block" (click)="showCompleted = !showCompleted">
 		{{ showCompleted ? 'Hide Completed' : 'Show Completed' }}
 	</ion-button>

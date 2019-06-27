@@ -9,6 +9,7 @@ import { MapService } from '../../../services/map.service';
 import { StrategyMap } from '../../../interfaces/strategyMap.interface';
 import { ActivatedRoute } from '@angular/router';
 import { AccountObject } from 'src/app/interfaces/account.interface';
+import { ContentService } from 'src/app/services/content.service';
 
 @Component({
 	templateUrl: 'map.html',
@@ -29,6 +30,7 @@ export class MapPage implements OnInit {
 	public isValid: boolean = true;
 	public needsUpdate: boolean = false;
 	public mapId: number;
+	public isX = false;
 
 	constructor(
 		private formBuilder: FormBuilder,
@@ -37,7 +39,8 @@ export class MapPage implements OnInit {
 		private alertCtrl: AlertController,
 		private mapService: MapService,
 		private modalController: ModalController,
-		private route: ActivatedRoute
+		private route: ActivatedRoute,
+		private contentService: ContentService
 	) {
 		this.mapForm = this.formBuilder.group({
 			name: [{ value: '', disabled: true }, Validators.required],
@@ -89,6 +92,7 @@ export class MapPage implements OnInit {
 				}
 			}
 		);
+		this.isX = this.contentService.isX();
 	}
 
 	setMinDueDate() {

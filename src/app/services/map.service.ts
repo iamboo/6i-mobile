@@ -41,7 +41,7 @@ export class MapService {
 	}
 
 	public getAccountMapRating(params): Observable<number> {
-		return this.http.post(this.contentService.apiUrl + '/action/strategy_map.php', params, {}).pipe(
+		return this.http.post(this.contentService.getApiUrl() + '/action/strategy_map.php', params, {}).pipe(
 			map((response: ResponseMap) => {
 				if (response['rating']) {
 					return parseInt(response['rating']);
@@ -54,9 +54,9 @@ export class MapService {
 		if (params.action != 'public_maps') {
 			this.loaderService.startLoader('Loading...');
 		}
-		return this.http.post(this.contentService.apiUrl + '/action/strategy_map.php', params, {}).pipe(
+		return this.http.post(this.contentService.getApiUrl() + '/action/strategy_map.php', params, {}).pipe(
 			map((response: ResponseMap) => {
-				this.stopLoader();
+				this.loaderService.stopLoader();
 				if (response && response.status && response.status === 'success') {
 					if (response.key === 'strategy_map-public_maps' && response['public_maps']) {
 						return response['public_maps'];
@@ -84,7 +84,7 @@ export class MapService {
 				}
 			}),
 			catchError(err => {
-				this.stopLoader();
+				this.loaderService.stopLoader();
 				return [];
 			})
 		);
@@ -146,7 +146,7 @@ export class MapService {
 				thisMap.account_map.date_due
 			);
 		}
-		this.http.post(this.contentService.apiUrl + '/action/strategy_map.php', postData, {}).pipe(
+		this.http.post(this.contentService.getApiUrl() + '/action/strategy_map.php', postData, {}).pipe(
 			map((responseData: ResponseTodo) => {
 				if (responseData.goal_data && responseData.goal_data.length > 0) {
 					const storeGoalData = this.notifyService.doParseInt(responseData.goal_data);
@@ -182,17 +182,13 @@ export class MapService {
 			action: 'map_reviews',
 			map_id: map_id
 		};
-		return this.http.post<MapReview[]>(this.contentService.apiUrl + '/action/strategy_map.php', postData, {}).pipe(
-			map(responseData => {
-				const mapReviews: MapReview[] = responseData['reviews'] ? responseData['reviews'] : [];
-				return mapReviews;
-			})
-		);
-	}
-
-	stopLoader() {
-		setTimeout(() => {
-			this.loaderService.stopLoader();
-		}, 1000);
+		return this.http
+			.post<MapReview[]>(this.contentService.getApiUrl() + '/action/strategy_map.php', postData, {})
+			.pipe(
+				map(responseData => {
+					const mapReviews: MapReview[] = responseData['reviews'] ? responseData['reviews'] : [];
+					return mapReviews;
+				})
+			);
 	}
 }

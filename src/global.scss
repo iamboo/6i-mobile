@@ -31,12 +31,14 @@
 }
 ion-header {
 	box-shadow: var(--header_box_shadow);
-
 	ion-toolbar {
-		height: var(--header-size);
+		min-height: var(--header-size);
 		ion-title {
-			padding-inline-start: var(--header-size);
-			padding-inline-end: var(--header-size);
+			padding-inline-start: 0px;
+			padding-inline-end: 0px;
+			width: auto;
+			left: var(--header-size);
+			right: var(--header-size);
 			height: var(--header-size);
 			font-size: 1.3rem;
 			--color: #fff;
@@ -52,22 +54,24 @@ ion-header {
 				height: var(--header-size);
 				color: #fff;
 				position: absolute;
-				top: -4px;
 				left: -8px;
 			}
 			ion-menu-button {
-				width: var(--header-size);
-				height: var(--header-size);
 				color: transparent;
-				&.fa-bars:before {
+				ion-menu-toggle {
 					position: absolute;
+					bottom: 0;
+					display: block;
+				}
+				&.fa-bars:before {
 					height: var(--header-size);
 					width: var(--header-size);
 					line-height: var(--header-size);
 					color: #fff;
 					font-size: 1.5rem;
-					right: 0px;
-					top: -4px;
+					position: absolute;
+					right: 0;
+					bottom: 0;
 				}
 			}
 			span {
@@ -103,6 +107,7 @@ ion-header {
 		margin: 0px;
 		padding: 10px 20px;
 		font-size: 1.3rem;
+		background: #fff;
 		&.jumpstart {
 			color: var(--jumpstart);
 		}
@@ -113,6 +118,9 @@ ion-header {
 }
 ion-footer {
 	padding: 5px;
+	&.iphoneX {
+		padding-bottom: 2.5rem;
+	}
 	ion-button {
 		--background: rgba(255, 255, 255, 0.2);
 		--border-color: rgba(255, 255, 255, 0.3);
@@ -123,7 +131,7 @@ ion-footer {
 		margin: 0px;
 		width: 100%;
 		font-size: 1.2rem;
-		height: 45px;
+		height: 3rem;
 		.button {
 			padding: 10px;
 		}
@@ -141,13 +149,19 @@ ion-footer {
 			position: absolute;
 			right: 10px;
 		}
+		ion-icon {
+			height: 3rem;
+			line-height: 3rem;
+			top: 0px;
+		}
 	}
 }
 ion-modal {
+	--ion-safe-area-top: 0px;
 	padding-left: 1rem;
 	padding-right: 1rem;
 	padding-top: 4rem;
-	padding-bottom: 2rem;
+	padding-bottom: 3rem;
 	.modal-wrapper {
 		&.sc-ion-modal-ios {
 			box-shadow: var(--box-shadow);
@@ -178,6 +192,7 @@ ion-modal {
 			}
 		}
 		ion-toolbar {
+			padding-top: 0;
 			--border-color: transparent;
 		}
 		ion-title {
@@ -187,6 +202,9 @@ ion-modal {
 			text-align: left;
 			font-size: 1.3rem;
 			min-height: 3rem;
+			left: 0;
+			right: 0;
+			padding-top: 0;
 		}
 		ion-buttons {
 			position: absolute;
@@ -360,15 +378,18 @@ ion-modal {
 ion-split-pane {
 	ion-menu {
 		ion-header {
-			--background: unset;
-			background-color: var(--home);
-			background-image: url(./assets/img/6iCatalyst.png);
-			background-repeat: no-repeat;
-			background-position: center center;
-			background-size: auto 60px;
-			height: 100px;
+			--background: var(--home);
 			ion-toolbar {
-				display: none;
+				--background: unset;
+				&:after {
+					content: ' ';
+					background-image: url(./assets/img/6iCatalyst.png);
+					background-repeat: no-repeat;
+					background-position: top center;
+					background-size: auto 60px;
+					display: block;
+					height: 6rem;
+				}
 			}
 		}
 	}

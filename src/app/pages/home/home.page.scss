@@ -1,11 +1,19 @@
 ion-header {
+	background-color: var(--home);
 	ion-toolbar {
+		&:after {
+			background-image: url(./../../../assets/img/6iCatalyst.png);
+			background-size: auto var(--header-size);
+			background-position: center center;
+			background-repeat: no-repeat;
+			height: var(--header-size);
+			content: ' ';
+			display: inline-block;
+			width: 100%;
+			position: absolute;
+			bottom: 0.25rem;
+		}
 		--background: unset;
-		background-color: var(--home);
-		background-image: url(./../../../assets/img/6iCatalyst.png);
-		background-size: auto 85%;
-		background-position: center center;
-		background-repeat: no-repeat;
 	}
 }
 

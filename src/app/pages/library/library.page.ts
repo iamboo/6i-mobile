@@ -43,7 +43,6 @@ export class LibraryPage implements OnInit {
 
 	pageClick(page: any) {
 		let slug = page.slug;
-		alert(slug);
 		if (slug.indexOf('http:/') > -1) {
 			if (slug.indexOf('http://') === -1) {
 				slug = slug.replace('http:/', 'http://');

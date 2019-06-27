@@ -64,7 +64,7 @@
 		</ion-item>
 	</ion-list>
 </ion-content>
-<ion-footer>
+<ion-footer [class.iphoneX]="isX">
 	<ion-button expand="block" (click)="addMap()">
 		Add To My Maps
 	</ion-button>

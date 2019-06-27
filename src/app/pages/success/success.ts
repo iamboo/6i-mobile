@@ -7,6 +7,7 @@ import { StrategyMap } from '../../interfaces/strategyMap.interface';
 import { MapSearchPage } from './mapSearch/mapSearch';
 import { MapTemplatePage } from './map-template/map-template.page';
 import { MainPopover } from '../main/popover';
+import { ContentService } from 'src/app/services/content.service';
 
 @Component({
 	templateUrl: 'success.html',
@@ -19,8 +20,9 @@ export class SuccessPage implements OnInit {
 	public templateTitle = {};
 	public filterText = '';
 	public emptyList: boolean = false;
-	mapFilterControl: FormControl = new FormControl([]);
+	public mapFilterControl: FormControl = new FormControl([]);
 	private authCode: string = '';
+	public isX = false;
 
 	constructor(
 		private alertCtrl: AlertController,
@@ -28,7 +30,8 @@ export class SuccessPage implements OnInit {
 		private alertController: AlertController,
 		private storage: Storage,
 		private navCtrl: NavController,
-		private modalController: ModalController
+		private modalController: ModalController,
+		private contentService: ContentService
 	) {}
 
 	ngOnInit() {
@@ -41,6 +44,7 @@ export class SuccessPage implements OnInit {
 				this.navCtrl.navigateRoot(['start']);
 			}
 		});
+		this.isX = this.contentService.isX();
 	}
 
 	onSearch(event: CustomEvent) {

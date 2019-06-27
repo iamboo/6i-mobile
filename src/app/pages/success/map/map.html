@@ -1,11 +1,9 @@
 <ion-header>
 	<ion-toolbar>
 		<ion-buttons slot="start">
-			<ion-nav-pop>
-				<ion-button class="global-back" (click)="goBack()">
-					<ion-icon name="arrow-back" slot="icon-only"></ion-icon>
-				</ion-button>
-			</ion-nav-pop>
+			<ion-button (click)="goBack()" class="global-back">
+				<ion-icon name="arrow-back" slot="icon-only"></ion-icon>
+			</ion-button>
 		</ion-buttons>
 		<ion-title>Map Settings</ion-title>
 		<ion-buttons slot="end">
@@ -109,7 +107,7 @@
 		</ion-grid>
 	</form>
 </ion-content>
-<ion-footer>
+<ion-footer [class.iphoneX]="isX">
 	<ion-buttons slot="start" *ngIf="needsUpdate">
 		<ion-button (click)="showModeratorComments()" class="btn-menu">
 			<span class="fa fa-exclamation-triangle"></span>

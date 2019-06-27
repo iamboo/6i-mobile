@@ -13,12 +13,11 @@ import { NavController, AlertController } from '@ionic/angular';
 import { AlertConfig } from '../interfaces/alertConfig.interface';
 import { ContentLinkInterface } from '../interfaces/contentLink.interface.js';
 import { ActivatedRoute } from '@angular/router';
+import { Device } from '@ionic-native/device/ngx';
 
 @Injectable()
 export class ContentService {
-	prodmode = window.location.hostname.indexOf('localhost') === -1;
 	baseUrl = 'http://account.6icatalyst.com';
-	apiUrl = this.prodmode ? this.baseUrl : 'http://localhost:8888';
 	contentUrl = this.baseUrl + '/api/';
 	pageUrl = this.contentUrl + 'wp-json/wp/v2/pages?slug=';
 	useStorage = false;
@@ -32,8 +31,18 @@ export class ContentService {
 		private storage: Storage,
 		private alertCtrl: AlertController,
 		private navCtrl: NavController,
-		private route: ActivatedRoute
+		private route: ActivatedRoute,
+		private device: Device
 	) {}
+
+	private isProd() {
+		const isDevice = this.device != null && this.device.model != null;
+		return isDevice || window.location.hostname.indexOf('localhost') === -1;
+	}
+
+	public getApiUrl() {
+		return this.isProd() ? this.baseUrl : 'http://localhost:8888';
+	}
 
 	public initPageData() {
 		const dateTime = new Date().getTime();
@@ -58,6 +67,11 @@ export class ContentService {
 				});
 			});
 		});
+	}
+
+	isX() {
+		const model = this.device && this.device.model ? this.device.model.toLowerCase() : '';
+		return model.indexOf('iphone x') > -1 || model === 'x86_64';
 	}
 
 	clickEvent(event: Event) {

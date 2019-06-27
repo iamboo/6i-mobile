@@ -6,6 +6,7 @@ import { MapReview } from 'src/app/interfaces/mapReview.interface';
 import { combineLatest } from 'rxjs';
 import { ActivatedRoute } from '@angular/router';
 import { AlertController, NavController } from '@ionic/angular';
+import { ContentService } from 'src/app/services/content.service';
 
 interface TabInterface {
 	name: string;
@@ -33,13 +34,15 @@ export class MapPreviewPage implements OnInit {
 	public mapChallenges: MapResponseInterface[] = [];
 	public currentTab: string = 'info';
 	public tabs: TabInterface[] = [];
+	public isX = false;
 
 	constructor(
 		private storage: Storage,
 		private mapService: MapService,
 		private route: ActivatedRoute,
 		private navCtrl: NavController,
-		private alertController: AlertController
+		private alertController: AlertController,
+		private contentService: ContentService
 	) {}
 
 	ngOnInit() {
@@ -64,6 +67,7 @@ export class MapPreviewPage implements OnInit {
 				});
 			}
 		});
+		this.isX = this.contentService.isX();
 	}
 
 	mapPromptWithResponse(map, responses) {

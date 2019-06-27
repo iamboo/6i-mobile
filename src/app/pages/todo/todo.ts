@@ -7,6 +7,7 @@ import { MapService } from '../../services/map.service';
 import { AccountObject } from '../../interfaces/account.interface';
 import { combineLatest } from 'rxjs';
 import { NavController } from '@ionic/angular';
+import { ContentService } from 'src/app/services/content.service';
 
 @Component({
 	templateUrl: 'todo.html',
@@ -20,12 +21,14 @@ export class TodoPage implements OnInit {
 	showCompleted: boolean = false;
 	emptyList: boolean = false;
 	accountData: AccountObject;
+	public isX = false;
 
 	constructor(
 		private navCtrl: NavController,
 		private mapService: MapService,
 		private storage: Storage,
-		private notifyService: NotifyService
+		private notifyService: NotifyService,
+		private contentService: ContentService
 	) {}
 
 	ngOnInit() {
@@ -37,6 +40,7 @@ export class TodoPage implements OnInit {
 				});
 			}
 		);
+		this.isX = this.contentService.isX();
 	}
 
 	mapGoals(goalData: ToDoInterface[]) {

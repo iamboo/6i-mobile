@@ -7,7 +7,7 @@ import { StrategyMap } from '../../interfaces/strategyMap.interface';
 import { AccountService } from '../../services/account.service';
 import { ActivatedRoute } from '@angular/router';
 import { of as observableOf, Subscription } from 'rxjs';
-import { map, catchError } from 'rxjs/operators';
+import { catchError } from 'rxjs/operators';
 import { ContentService } from 'src/app/services/content.service';
 import { MainPopover } from './popover';
 
@@ -49,6 +49,7 @@ export class MainPage implements OnInit, OnDestroy {
 	pageContentSubscription: Subscription;
 	showPopoverSubscription: Subscription;
 	editClass: string = '';
+	public isX = false;
 
 	constructor(
 		private accountService: AccountService,
@@ -67,6 +68,7 @@ export class MainPage implements OnInit, OnDestroy {
 	}
 
 	ngOnInit() {
+		this.isX = this.contentService.isX();
 		if (this.pageContentSubscription) {
 			this.pageContentSubscription.unsubscribe();
 		}

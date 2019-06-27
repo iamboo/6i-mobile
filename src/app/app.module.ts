@@ -9,6 +9,7 @@ import { far } from '@fortawesome/free-regular-svg-icons';
 import { IonicModule, IonicRouteStrategy } from '@ionic/angular';
 import { SplashScreen } from '@ionic-native/splash-screen/ngx';
 import { StatusBar } from '@ionic-native/status-bar/ngx';
+import { Device } from '@ionic-native/device/ngx';
 import { IonicStorageModule } from '@ionic/storage';
 
 import { AppComponent } from './app.component';
@@ -45,6 +46,7 @@ library.add(fas, far);
 		LocalNotifications,
 		NotifyService,
 		StatusBar,
+		Device,
 		SplashScreen,
 		{ provide: RouteReuseStrategy, useClass: IonicRouteStrategy }
 	],

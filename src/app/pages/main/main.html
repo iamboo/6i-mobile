@@ -17,7 +17,7 @@
 	<div #mainContent class="mainContent" [innerHTML]="template | safeHtml"></div>
 </ion-content>
 
-<ion-footer *ngIf="isMap" [ngClass]="headerClass">
+<ion-footer [hidden]="!isMap" [ngClass]="headerClass" [class.iphoneX]="isX">
 	<ion-buttons slot="start" *ngIf="isMap">
 		<ion-button (click)="mapOptions()" class="btn-menu">
 			<span class="fa fa-ellipsis-v"></span>
@@ -27,12 +27,12 @@
 		{{ isMapEdit ? 'Save & ' : '' }}Continue <span class="fa fa-chevron-right"></span>
 	</ion-button>
 </ion-footer>
-<ion-footer *ngIf="isLeader" [ngClass]="headerClass">
+<ion-footer [hidden]="!isLeader" [ngClass]="headerClass" [class.iphoneX]="isX">
 	<ion-button expand="block" (click)="leaderNext()">
 		{{ leaderButtonText }}
 	</ion-button>
 </ion-footer>
-<ion-footer *ngIf="isJumpstart" [ngClass]="headerClass">
+<ion-footer [hidden]="!isJumpstart" [ngClass]="headerClass" [class.iphoneX]="isX">
 	<ion-button expand="block" (click)="goToNextStep()">
 		{{ jumpstartButtonText }}
 		<ion-icon name="arrow-forward" slot="end" class="ion-float-right"></ion-icon>

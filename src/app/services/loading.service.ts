@@ -8,19 +8,20 @@ export class LoaderService {
 	constructor(public loadingController: LoadingController) {}
 
 	async startLoader(message: string) {
-		this.stopLoader();
+		this.stopLoader(0);
 		this.loader = await this.loadingController.create({
 			message: message
 		});
 		this.loader.present();
+		this.stopLoader(10000);
 	}
 
-	async stopLoader() {
-		if (this.loader) {
-			setTimeout(() => {
+	async stopLoader(millis = 500) {
+		setTimeout(() => {
+			if (this.loader) {
 				this.loader.dismiss();
 				this.loader = null;
-			}, 500);
-		}
+			}
+		}, 500);
 	}
 }

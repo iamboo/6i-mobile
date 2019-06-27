@@ -17,7 +17,7 @@ export class AccountService {
 	) {}
 
 	public toggleChallenge(params): Observable<any> {
-		return this.http.post(this.contentService.apiUrl + '/action/account.php', params, {}).pipe(
+		return this.http.post(this.contentService.getApiUrl() + '/action/account.php', params, {}).pipe(
 			map(data => {
 				const challengeData = data && data['challenge_data'] ? JSON.parse(data['challenge_data']) : null;
 				this.storage.set('challengeData', challengeData);
@@ -36,7 +36,7 @@ export class AccountService {
 	}
 
 	public accountApi(params: any): Observable<boolean> {
-		return this.http.post(this.contentService.apiUrl + '/action/account.php', params, {}).pipe(
+		return this.http.post(this.contentService.getApiUrl() + '/action/account.php', params, {}).pipe(
 			map((response: ResponseAccount) => {
 				const challengeData = response.account.challenge_data
 					? JSON.parse(response.account.challenge_data)
@@ -53,6 +53,10 @@ export class AccountService {
 				return true;
 			}),
 			catchError(() => {
+				this.showMessage(
+					'Connection Error',
+					'There is a problem connecting to online services.  Please try again later.'
+				);
 				return observableOf(false);
 			})
 		);
