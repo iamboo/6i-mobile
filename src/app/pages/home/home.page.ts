@@ -22,6 +22,7 @@ export class HomePage implements OnInit {
 
 	ngOnInit() {
 		this.badgeData = {};
+		this.loaderService.startLoader('Loading...');
 		Promise.all([
 			this.storage.get('menu_main'),
 			this.storage.get('goalData'),
@@ -37,6 +38,7 @@ export class HomePage implements OnInit {
 				const filteredGoals: ToDoInterface[] = goalData.filter(g => g.complete === 0 || g.complete === '0');
 				this.badgeData['to-do'] = filteredGoals.length;
 				this.showChallengePercentage(menuData, challengeData);
+				this.loaderService.stopLoader();
 			},
 			() => {
 				this.loaderService.stopLoader();

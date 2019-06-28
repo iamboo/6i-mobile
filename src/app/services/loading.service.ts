@@ -10,18 +10,17 @@ export class LoaderService {
 	async startLoader(message: string) {
 		this.stopLoader(0);
 		this.loader = await this.loadingController.create({
-			message: message
+			message: message,
+			duration: 8000,
+			backdropDismiss: true
 		});
 		this.loader.present();
-		this.stopLoader(10000);
 	}
 
 	async stopLoader(millis = 500) {
-		setTimeout(() => {
-			if (this.loader) {
-				this.loader.dismiss();
-				this.loader = null;
-			}
-		}, 500);
+		if (this.loader) {
+			this.loader.dismiss();
+			this.loader = null;
+		}
 	}
 }
